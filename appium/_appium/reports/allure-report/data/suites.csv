@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5000","test_info","tests.STO","Wed Jul 16 03:21:42 CEST 2025","passed","Wed Jul 16 03:21:47 CEST 2025","TestActivityAccueil","test_IHM_stock","",""
+"","1","test_allure_etapes_claires","tests.STO","Wed Jul 16 03:22:38 CEST 2025","passed","Wed Jul 16 03:22:38 CEST 2025","","test_IHM_stock","",""
+"","5247","test_deux","tests.STO","Wed Jul 16 03:22:08 CEST 2025","passed","Wed Jul 16 03:22:13 CEST 2025","TestActivityAccueil","test_IHM_stock","",""
+"","5128","test_deux","tests.STO","Wed Jul 16 03:22:33 CEST 2025","passed","Wed Jul 16 03:22:38 CEST 2025","TestActivityStock","test_IHM_stock","",""
+"","6421","test_un","tests.STO","Wed Jul 16 03:22:02 CEST 2025","passed","Wed Jul 16 03:22:08 CEST 2025","TestActivityAccueil","test_IHM_stock","",""
+"","7059","test_un","tests.STO","Wed Jul 16 03:22:26 CEST 2025","passed","Wed Jul 16 03:22:33 CEST 2025","TestActivityStock","test_IHM_stock","",""
+"","12385","test_trois","tests.STO","Wed Jul 16 03:22:13 CEST 2025","passed","Wed Jul 16 03:22:26 CEST 2025","TestActivityAccueil","test_IHM_stock","",""
