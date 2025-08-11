@@ -1,0 +1,54 @@
+<vente>
+    <gen_code>3701002411586</gen_code>
+    <unite>UNITE</unite>
+    <mode_vente>UNITE</mode_vente>
+    <quantite>2</quantite>
+    <pvc_ud>2.99</pvc_ud>
+    <montant_ttc>5.98</montant_ttc>
+    <montant_brut>5.98</montant_brut>
+</vente>
+<vente>
+    <gen_code>3701002411494</gen_code>
+    <unite>UNITE</unite>
+    <mode_vente>UNITE</mode_vente>
+    <quantite>428</quantite>
+    <pvc_ud>2.99</pvc_ud>
+    <montant_ttc>0</montant_ttc>
+    <montant_brut>1279.72</montant_brut>
+</vente>
+<vente>
+    <gen_code>2487472000000</gen_code>
+    <unite>UNITE</unite>
+    <mode_vente>UNITE</mode_vente>
+    <quantite>40</quantite>
+    <pvc_ud>16.99</pvc_ud>
+    <montant_ttc>207.57</montant_ttc>
+    <montant_brut>207.57</montant_brut>
+</vente>
+<vente>
+    <gen_code>8006515611030</gen_code>
+    <unite>UNITE</unite>
+    <mode_vente>UNITE</mode_vente>
+    <quantite>5</quantite>
+    <pvc_ud>1.99</pvc_ud>
+    <montant_ttc>9.95</montant_ttc>
+    <montant_brut>9.95</montant_brut>
+</vente>
+<vente>
+    <gen_code>3701002411579</gen_code>
+    <unite>UNITE</unite>
+    <mode_vente>UNITE</mode_vente>
+    <quantite>1</quantite>
+    <pvc_ud>2.99</pvc_ud>
+    <montant_ttc>2.99</montant_ttc>
+    <montant_brut>2.99</montant_brut>
+</vente>
+<vente>
+    <gen_code>3701002411470</gen_code>
+    <unite>UNITE</unite>
+    <mode_vente>UNITE</mode_vente>
+    <quantite>14</quantite>
+    <pvc_ud>2.99</pvc_ud>
+    <montant_ttc>41.86</montant_ttc>
+    <montant_brut>41.86</montant_brut>
+</vente>

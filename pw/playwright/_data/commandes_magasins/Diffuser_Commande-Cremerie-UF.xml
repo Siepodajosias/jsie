@@ -1,0 +1,1733 @@
+<commande>
+    <typeCommande>STANDARD</typeCommande>
+    <labelAssortiment>Ultra Frais (Frais LS)</labelAssortiment>
+    <codeGroupeArticle>05</codeGroupeArticle>
+    <codeMagasin>ToChangeMagasinCR</codeMagasin>
+    <dateReception>ToChangeDateReception</dateReception>
+    <dateLivraison>ToChangeDateLivraison</dateLivraison>
+    <dateExpedition>ToChangeDateReelExpedition</dateExpedition>
+    <dateLivraisonPrevision>ToChangeDatelivraisonPrevision</dateLivraisonPrevision>
+    <dateExpeditionPrevision>ToChangeDateExpeditionPrevision</dateExpeditionPrevision>
+    <articles>
+        <article>
+            <codeArticle>L418</codeArticle>
+            <designationArticle>Faisselle 0% 100gx6</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.25</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007775</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L13O</codeArticle>
+            <designationArticle>Teurgoule CALVADOS 750g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028754</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L347</codeArticle>
+            <designationArticle>Ya caramel le jour pv 180g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007639</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L12N</codeArticle>
+            <designationArticle>Riz au lait Caramel 160g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028799</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L13D</codeArticle>
+            <designationArticle>Pomme SSA x8 100% origine France</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030508</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0XD</codeArticle>
+            <designationArticle>Dessert poire de Provence 4x100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025289</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L859</codeArticle>
+            <designationArticle>Skyr vanille</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008349</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L19A</codeArticle>
+            <designationArticle>Dessert pomme cannelle 4x100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030944</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L410</codeArticle>
+            <designationArticle>Mousse chocolat anc 100gx2</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 3 Unité(s)</conditionnement>
+            <codeConditionnement>007769</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L11Y</codeArticle>
+            <designationArticle>Mousse chocolat sur lit orange pamplemousse 95 Gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028796</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0G6</codeArticle>
+            <designationArticle>Crème épaisse 15% 50cl Nejelis</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>018687</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L432</codeArticle>
+            <designationArticle>Empresure choc noir 125gx4</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007787</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L812</codeArticle>
+            <designationArticle>Compote pommes 100gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008194</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L726</codeArticle>
+            <designationArticle>Fge frais mtgne 3,3% 500g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008025</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L15D</codeArticle>
+            <designationArticle>Gourde vanille/framboise 6x70g Petits Lutins BIO</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>029542</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L878</codeArticle>
+            <designationArticle>Creme fraiche 30% 20cl</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>4.25</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008355</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0M5</codeArticle>
+            <designationArticle>FF 3% 1kg 4pis</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>020992</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0U1</codeArticle>
+            <designationArticle>Dessert végétal au lait de coco myrtille 2x120g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>024320</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L789</codeArticle>
+            <designationArticle>Teurgoule vanille 750g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008118</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L04A</codeArticle>
+            <designationArticle>Mousse chocolat anc 400g</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>2.33</qteStock>
+            <conditionnement>CO x 3 Unité(s)</conditionnement>
+            <codeConditionnement>012232</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L825</codeArticle>
+            <designationArticle>Des pomme citron 100gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008201</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L03M</codeArticle>
+            <designationArticle>Fge frais mtgne 7.8% 1kg</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>012009</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L04Z</codeArticle>
+            <designationArticle>Ya BIO nature 4x125g Montbertille</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>013167</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L431</codeArticle>
+            <designationArticle>Empresure chocolat 125gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007786</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L173</codeArticle>
+            <designationArticle>Faisselles 6% 100gx6</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.25</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>007683</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L725</codeArticle>
+            <designationArticle>Ya brasse marron 4x125g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008024</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L18A</codeArticle>
+            <designationArticle>Kéfir Kokaz  250ml Nature</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030474</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L13B</codeArticle>
+            <designationArticle>PANACHE SSA X8 P.FRAISE+P.POIRE - POMME FRANCE</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028505</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L01E</codeArticle>
+            <designationArticle>Dessert végétal au lait de coco Mangue/Passion 2x120g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>024686</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L16Y</codeArticle>
+            <designationArticle>Lait frais demi-écrémé fermier 1L</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030064</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L860</codeArticle>
+            <designationArticle>Skyr nature</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008350</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L685</codeArticle>
+            <designationArticle>Fge frais fraise+confiserie</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>008284</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L471</codeArticle>
+            <designationArticle>Crem brule car b.sale 120x2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007844</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L291</codeArticle>
+            <designationArticle>Yaourt vanille BIO PC Monbertille 125gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007529</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L622</codeArticle>
+            <designationArticle>Ya chevre citron 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008175</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L296</codeArticle>
+            <designationArticle>Creme fleurette 25cl</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.63</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007535</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L518</codeArticle>
+            <designationArticle>Ya citron le pv 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007934</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L19O</codeArticle>
+            <designationArticle>Tiramisu café 80 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030899</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L12O</codeArticle>
+            <designationArticle>Panna Cotta Mangue 125g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028801</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L05C</codeArticle>
+            <designationArticle>Ya BIO vanille 4x125g Montbertille</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>013170</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L01G</codeArticle>
+            <designationArticle>Dessert végétal riz au lait de coco 2x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>024863</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0UU</codeArticle>
+            <designationArticle>Crème fr brebis 200g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>023927</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L368</codeArticle>
+            <designationArticle>Ya lait chevre 120gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007698</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L879</codeArticle>
+            <designationArticle>Creme fraiche 30% 50cl</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008353</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L128</codeArticle>
+            <designationArticle>Faisselles 7% 6x100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007329</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L723</codeArticle>
+            <designationArticle>Ya brasse nat x4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008022</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L16N</codeArticle>
+            <designationArticle>Faisselle Bio au lait entier de brebis 4X100gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>029989</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L12C</codeArticle>
+            <designationArticle>Yaourt Myrtille Brassé 4*125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028243</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L510</codeArticle>
+            <designationArticle>Lait past 1/2ec 1l b pl</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007900</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L772</codeArticle>
+            <designationArticle>Ya brebis chataigne 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008093</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L339</codeArticle>
+            <designationArticle>Oeufs au lait van pv 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007631</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L798</codeArticle>
+            <designationArticle>Fge frais aux fruits 2% 60gx6</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.81</qteStock>
+            <conditionnement>CO x 16 Unité(s)</conditionnement>
+            <codeConditionnement>008321</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L18I</codeArticle>
+            <designationArticle>Ya aro aux fruits les 4pis 8x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030593</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L280</codeArticle>
+            <designationArticle>FF 3% 4x100g 4pis</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007518</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L13C</codeArticle>
+            <designationArticle>PANACHE SSA X8 P.BAN+P.MAN.PASSION - POMME FRANCE</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028506</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L19N</codeArticle>
+            <designationArticle>Fontainebleau nature 80 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030898</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L668</codeArticle>
+            <designationArticle>Semoule au lait caramel x2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>014151</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0PZ</codeArticle>
+            <designationArticle>Yaourt grec nature 10% 150g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>022561</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0M4</codeArticle>
+            <designationArticle>FF 0% 1kg 4pis</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>020991</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L277</codeArticle>
+            <designationArticle>FF 0% 4x100g 4pis</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007515</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L604</codeArticle>
+            <designationArticle>Riz au lait anc 140gx2</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 3 Unité(s)</conditionnement>
+            <codeConditionnement>008148</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L153</codeArticle>
+            <designationArticle>Ya nat brebis 125gx4 vichy</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007380</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L12H</codeArticle>
+            <designationArticle>Yaourt Cerise 2*125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028270</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0PY</codeArticle>
+            <designationArticle>Yaourt grec nature 10% 1 Kg</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>022560</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0NM</codeArticle>
+            <designationArticle>Coulis de fruits rouges 220g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.21</qteStock>
+            <conditionnement>CO x 24 Unité(s)</conditionnement>
+            <codeConditionnement>021589</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L436</codeArticle>
+            <designationArticle>Ya citron 125gx4</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007791</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0NL</codeArticle>
+            <designationArticle>Coulis de framboises 220g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CO x 24 Unité(s)</conditionnement>
+            <codeConditionnement>021590</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L03Z</codeArticle>
+            <designationArticle>Riz au lait vanille Madagascar 500g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4.33</qteStock>
+            <conditionnement>CO x 3 Unité(s)</conditionnement>
+            <codeConditionnement>012239</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L621</codeArticle>
+            <designationArticle>Ya chevre vanille 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008173</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L345</codeArticle>
+            <designationArticle>Ya citron le jour pv 180g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007637</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L12B</codeArticle>
+            <designationArticle>Yaourt Fraise Brassé 4*125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028242</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L17A</codeArticle>
+            <designationArticle>Faisselle de Genevrieres 1kg</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030067</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0YA</codeArticle>
+            <designationArticle>SOJA NATURE 4x100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>026068</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0Q0</codeArticle>
+            <designationArticle>Yaourt grec nature 0% 150g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>022562</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L16V</codeArticle>
+            <designationArticle>Yaourt brassé Citron 500 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030057</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L805</codeArticle>
+            <designationArticle>Dessert pomme 16x100g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 3 Unité(s)</conditionnement>
+            <codeConditionnement>008206</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L11O</codeArticle>
+            <designationArticle>Yaourt Cassis 2*125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>027756</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0B4</codeArticle>
+            <designationArticle>Crème brulée écorce citron 120gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017089</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L771</codeArticle>
+            <designationArticle>Ya brebis citron 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008092</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L17G</codeArticle>
+            <designationArticle>Kayola caillé pur brebis Café 2x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030180</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L337</codeArticle>
+            <designationArticle>Ya framboise le pv 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007629</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L12D</codeArticle>
+            <designationArticle>Yaourt Fruits jaunes Brassé 4*125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028245</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L352</codeArticle>
+            <designationArticle>Fais chevre cabreignac 500gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007645</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L19M</codeArticle>
+            <designationArticle>Fontainebleau Framboise 90 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030897</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0ZB</codeArticle>
+            <designationArticle>Ya Fraise au lait entier X2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 2 Unité(s)</conditionnement>
+            <codeConditionnement>026439</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L175</codeArticle>
+            <designationArticle>Ya nature brebis 125gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007681</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0TX</codeArticle>
+            <designationArticle>Ya brassé confiture de fraise 4x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>023646</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L433</codeArticle>
+            <designationArticle>Empresure cafe 125gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007788</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L11P</codeArticle>
+            <designationArticle>Yaourt Pomme et Poire Brassé 4x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>027757</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L11Z</codeArticle>
+            <designationArticle>Riz au lait nature 160g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028797</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0QE</codeArticle>
+            <designationArticle>Ya pêche le pv 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>022629</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L1AP</codeArticle>
+            <designationArticle>Dessert Rhubarbe et Pomme Vallée de la Garonne 4x100gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>031961</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0MM</codeArticle>
+            <designationArticle>Faisselle de Genevrières fermière lc 500g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>021567</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L16X</codeArticle>
+            <designationArticle>Lait frais entier fermier 1L.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030063</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L613</codeArticle>
+            <designationArticle>Ya nat pc x4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008159</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L435</codeArticle>
+            <designationArticle>Ya nat 0% 125gx4</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007790</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L437</codeArticle>
+            <designationArticle>Ya vanille 125gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007792</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L01N</codeArticle>
+            <designationArticle>Crem fr epais 30% 20cl bio</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.42</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008823</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L011</codeArticle>
+            <designationArticle>Lait fermente laben 1l</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007210</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L19I</codeArticle>
+            <designationArticle>Yaourt chèvre bicouche abricot 140 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030941</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L1AN</codeArticle>
+            <designationArticle>Crème Fraîche épaisse brebis vache La paturière 30 % MG 400 g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>032129</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L511</codeArticle>
+            <designationArticle>Faisselle brebis 100gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007911</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L439</codeArticle>
+            <designationArticle>Ya frbse  125gx4</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007794</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L336</codeArticle>
+            <designationArticle>Ya nat pv x2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007628</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L13M</codeArticle>
+            <designationArticle>Ya noisette le jour pv 180g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028750</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L04J</codeArticle>
+            <designationArticle>Yaourt nature 0% BIO PC Monbertille 125gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>012256</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L15U</codeArticle>
+            <designationArticle>Faisselle Fermière 500 gr</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>029818</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0M8</codeArticle>
+            <designationArticle>Caille brebis van 125gx2 Kayola</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>020995</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0TY</codeArticle>
+            <designationArticle>Ya brassé confiture de mangue 4x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>023647</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L174</codeArticle>
+            <designationArticle>Fge blc rustique 1kg</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007682</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L480</codeArticle>
+            <designationArticle>Ya frt jaune 125gx6 v.praz</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>007859</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L338</codeArticle>
+            <designationArticle>Ya myrtille le pv 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007630</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L12I</codeArticle>
+            <designationArticle>Yaourt Mangue Passion 2*125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028273</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L346</codeArticle>
+            <designationArticle>Ya vanille le jour pv 180g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007638</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L606</codeArticle>
+            <designationArticle>Presure bon fermier 250 ml</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.3</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>008150</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L796</codeArticle>
+            <designationArticle>Fge frais nat 3,6% 60gx6</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008228</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L724</codeArticle>
+            <designationArticle>Ya brasse myrtille 4x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008023</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L12F</codeArticle>
+            <designationArticle>Skyr Citron 450g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028782</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L18E</codeArticle>
+            <designationArticle>Ya nature brassé les 4pis 8x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030589</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L817</codeArticle>
+            <designationArticle>Des pomme myrt 100gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008199</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0G3</codeArticle>
+            <designationArticle>Faisselle BIO 6x100g Monbertille</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>018511</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0E1</codeArticle>
+            <designationArticle>Gâteau au fromage blanc 350g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.75</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017737</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L18F</codeArticle>
+            <designationArticle>Ya nature étuvé les 4pis 8x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030590</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L01F</codeArticle>
+            <designationArticle>Dessert végétal au lait de coco Nature 2x120g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>024687</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L797</codeArticle>
+            <designationArticle>Pt suisse nat 9,2% 60gx6</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008227</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0G7</codeArticle>
+            <designationArticle>Crème fluide 30% 50cl Nejelis</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>3</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>018686</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0YB</codeArticle>
+            <designationArticle>SOJA CHOCOLAT 4X100g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>026069</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L19J</codeArticle>
+            <designationArticle>Yaourt chèvre bicouche figue 140 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030942</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L290</codeArticle>
+            <designationArticle>Yaourt nature BIO PC Monbertille 125gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007528</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L12E</codeArticle>
+            <designationArticle>Skyr Myrtille 450g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028781</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0M7</codeArticle>
+            <designationArticle>Caille brebis nat 125gx2 Kayola</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>020996</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L491</codeArticle>
+            <designationArticle>Ya brasse pv vanille 500g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007879</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0R2</codeArticle>
+            <designationArticle>Ile flottante vanille 2x90g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>2.33</qteStock>
+            <conditionnement>CO x 3 Unité(s)</conditionnement>
+            <codeConditionnement>022679</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0LX</codeArticle>
+            <designationArticle>Crème chocolat 2x120g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>020892</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L773</codeArticle>
+            <designationArticle>Ya grecque brebis 150gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>008094</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L19P</codeArticle>
+            <designationArticle>Tiramisu spéculoos 80 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030900</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L479</codeArticle>
+            <designationArticle>Ya frt rouge 125gx6 v.praz</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.5</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>007858</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L19H</codeArticle>
+            <designationArticle>Yaourt chèvre bicouche cerise 140 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030940</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L18G</codeArticle>
+            <designationArticle>Ya fruits mixés les 4pis 8x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030591</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L038</codeArticle>
+            <designationArticle>Yaourt citron BIO PC Monbertille 125gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>011051</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L513</codeArticle>
+            <designationArticle>Empresure car/b.sale 125gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007914</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L114</codeArticle>
+            <designationArticle>Crem isi tribehou AOP 40cl</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007313</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L666</codeArticle>
+            <designationArticle>Riz au lait caramel x2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>014131</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0YC</codeArticle>
+            <designationArticle>SOJA VANILLE 4x100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>026070</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L791</codeArticle>
+            <designationArticle>Teurgoule caramel 750g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008120</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L13L</codeArticle>
+            <designationArticle>Ya nature le jour pv 180g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028749</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L554</codeArticle>
+            <designationArticle>Fge frais torceen 6% 1k</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008020</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L08N</codeArticle>
+            <designationArticle>Levure fraîche extra cubes 2x25g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>016228</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0RS</codeArticle>
+            <designationArticle>Crème anglaise Label Rouge VO 25cL bt</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>022947</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L483</codeArticle>
+            <designationArticle>Dessert lacté au chocolat TribGourm 6x60g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007869</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L816</codeArticle>
+            <designationArticle>Des pomme abricot 100gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008196</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L006</codeArticle>
+            <designationArticle>Crem fl 50cl lr bte al</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007205</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L03L</codeArticle>
+            <designationArticle>Fge frais mtgne 3,3% 1kg</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>012008</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L799</codeArticle>
+            <designationArticle>Fge frais fruits TribGourm 6x100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008320</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L341</codeArticle>
+            <designationArticle>Gâteau de semoule sur lit de caramel pv 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007633</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L438</codeArticle>
+            <designationArticle>Ya coco 125gx4</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007793</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L16W</codeArticle>
+            <designationArticle>Yaourt brassé Framboise 500 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030058</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L15V</codeArticle>
+            <designationArticle>Fromage frais fermier 500 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>029938</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L10Z</codeArticle>
+            <designationArticle>Yaourt GREC 10% 500g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Pot(s) x 500 Gr</conditionnement>
+            <codeConditionnement>027630</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0RQ</codeArticle>
+            <designationArticle>Faisselles Label Rouge 4,5% 4x200g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>022897</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L18B</codeArticle>
+            <designationArticle>Kéfir Kokaz 500ml Nature</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030475</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L15M</codeArticle>
+            <designationArticle>Levure fraîche 500gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>029665</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L13E</codeArticle>
+            <designationArticle>Caillé brebis pot grès 140g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028560</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L18H</codeArticle>
+            <designationArticle>Ya fruits morceaux les 4pis 8x125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030592</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L508</codeArticle>
+            <designationArticle>Lait past entier 1L b/verre</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007898</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L12A</codeArticle>
+            <designationArticle>Crème aux oeufs 120g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028798</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L769</codeArticle>
+            <designationArticle>Ya brebis nature 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008090</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L481</codeArticle>
+            <designationArticle>Ya frt saison 125gx6 v.praz</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>007860</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L0ZA</codeArticle>
+            <designationArticle>Ya Abricot au lait entier X2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 2 Unité(s)</conditionnement>
+            <codeConditionnement>026438</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L620</codeArticle>
+            <designationArticle>Ya chevre nature 125gx2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008172</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L11A</codeArticle>
+            <designationArticle>Yaourt GREC 0% 500g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Pot(s) x 500 Gr</conditionnement>
+            <codeConditionnement>027631</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>L509</codeArticle>
+            <designationArticle>Lait past ent 1l b/plas</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007899</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+    </articles>
+</commande>

@@ -1,0 +1,533 @@
+<commande>
+    <typeCommande>STANDARD</typeCommande>
+    <labelAssortiment>Frais Généraux - Vêtements (Consommable)</labelAssortiment>
+    <codeGroupeArticle>15</codeGroupeArticle>
+    <codeMagasin>ToChangeMagasinFF</codeMagasin>
+    <dateReception>ToChangeDateReception</dateReception>
+    <dateLivraison>ToChangeDateLivraison</dateLivraison>
+    <dateExpedition>ToChangeDateReelExpedition</dateExpedition>
+    <dateLivraisonPrevision>ToChangeDatelivraisonPrevision</dateLivraisonPrevision>
+    <dateExpeditionPrevision>ToChangeDateExpeditionPrevision</dateExpeditionPrevision>
+    <articles>
+        <article>
+            <codeArticle>FG0F</codeArticle>
+            <designationArticle>Polo ML vert GF FL - L</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025271</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG0G</codeArticle>
+            <designationArticle>Polo ML vert GF FL - XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025272</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG0K</codeArticle>
+            <designationArticle>Polo ML rouge GF FL - XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025276</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FF19</codeArticle>
+            <designationArticle>Polo femme marine GF Marée - S</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015920</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FF28</codeArticle>
+            <designationArticle>Veste femme rouge GF - XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015929</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA85</codeArticle>
+            <designationArticle>Chaussure securite t.45</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015491</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG83</codeArticle>
+            <designationArticle>Polo vert MC  GF - XXL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016083</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA78</codeArticle>
+            <designationArticle>Chaussure securite t.38</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015484</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA80</codeArticle>
+            <designationArticle>Chaussure securite t.40</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015486</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG80</codeArticle>
+            <designationArticle>Polo vert MC  GF - L</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016080</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG0J</codeArticle>
+            <designationArticle>Polo ML rouge GF FL - L</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025275</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG1C</codeArticle>
+            <designationArticle>Polo ML vert GF FL - 3XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025297</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG25</codeArticle>
+            <designationArticle>Polaire rouge GF - XXXL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016025</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA77</codeArticle>
+            <designationArticle>Chaussure securite t.37</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015483</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA81</codeArticle>
+            <designationArticle>Chaussure securite t.41</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015487</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG73</codeArticle>
+            <designationArticle>Polo rouge GF - XXXL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016073</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG1L</codeArticle>
+            <designationArticle>Softshell noir GF - S</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025319</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG82</codeArticle>
+            <designationArticle>Polo vert MC  GF - S</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016082</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG76</codeArticle>
+            <designationArticle>Polo rouge GF - XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016076</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA83</codeArticle>
+            <designationArticle>Chaussure securite t.43</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015489</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FF16</codeArticle>
+            <designationArticle>Polo femme ciel GF Marée - XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015917</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG16</codeArticle>
+            <designationArticle>Polaire rouge GF - L</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016016</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FF20</codeArticle>
+            <designationArticle>Polo femme marine GF Marée - XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015921</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG78</codeArticle>
+            <designationArticle>Polo rouge GF - M</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016078</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG0E</codeArticle>
+            <designationArticle>Polo ML vert GF FL - M</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025270</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA89</codeArticle>
+            <designationArticle>Chaussure securite t.49</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015495</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG72</codeArticle>
+            <designationArticle>Polo rouge GF - XXL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016072</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG1D</codeArticle>
+            <designationArticle>Polo ML rouge GF FL - XXL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025298</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA84</codeArticle>
+            <designationArticle>Chaussure securite t.44</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015490</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG0A</codeArticle>
+            <designationArticle>Polo ML vert GF FL - S</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025269</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG1E</codeArticle>
+            <designationArticle>Polo ML rouge GF FL - 3XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025299</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG24</codeArticle>
+            <designationArticle>Polaire rouge GF - XXL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016024</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG0I</codeArticle>
+            <designationArticle>Polo ML rouge GF FL - M</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025274</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA82</codeArticle>
+            <designationArticle>Chaussure securite t.42</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015488</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FF09</codeArticle>
+            <designationArticle>Paire de lacets</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015910</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA88</codeArticle>
+            <designationArticle>Chaussure securite t.48</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015494</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG84</codeArticle>
+            <designationArticle>Polo vert MC  GF - XXXL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016084</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA90</codeArticle>
+            <designationArticle>Chaussure securite t.50</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015496</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG1N</codeArticle>
+            <designationArticle>Softshell noir GF - L</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025321</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG1O</codeArticle>
+            <designationArticle>Softshell noir GF - XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025322</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG79</codeArticle>
+            <designationArticle>Polo rouge GF - S</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016079</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA87</codeArticle>
+            <designationArticle>Chaussure securite t.47</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015493</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG1M</codeArticle>
+            <designationArticle>Softshell noir GF - M</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025320</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA86</codeArticle>
+            <designationArticle>Chaussure securite t.46</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015492</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG1B</codeArticle>
+            <designationArticle>Polo ML vert GF FL - XXL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025296</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG77</codeArticle>
+            <designationArticle>Polo rouge GF - L</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016077</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG1Q</codeArticle>
+            <designationArticle>Softshell noir GF - 3XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025324</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG86</codeArticle>
+            <designationArticle>Polo vert MC  GF - XL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>016086</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FA79</codeArticle>
+            <designationArticle>Chaussure securite t.39</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015485</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG0H</codeArticle>
+            <designationArticle>Polo ML rouge GF FL - S</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025273</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FG1P</codeArticle>
+            <designationArticle>Softshell noir GF - XXL</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>025323</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>FC25</codeArticle>
+            <designationArticle>Tablier GF FL taille basse</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>à l'unité</conditionnement>
+            <codeConditionnement>015629</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+    </articles>
+</commande>

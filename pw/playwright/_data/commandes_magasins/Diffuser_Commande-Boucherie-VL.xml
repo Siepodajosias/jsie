@@ -1,0 +1,388 @@
+<commande>
+    <typeCommande>STANDARD</typeCommande>
+    <labelAssortiment>Volaille + Lapin (Boucherie)</labelAssortiment>
+    <codeGroupeArticle>30</codeGroupeArticle>
+    <codeMagasin>ToChangeMagasinBC</codeMagasin>
+    <dateReception>ToChangeDateReception</dateReception>
+    <dateExpedition>ToChangeDateReelExpedition</dateExpedition>
+    <dateLivraisonPrevision>ToChangeDatelivraisonPrevision</dateLivraisonPrevision>
+    <dateExpeditionPrevision>ToChangeDateExpeditionPrevision</dateExpeditionPrevision>
+    <articles>
+        <article>
+            <codeArticle>B200</codeArticle>
+            <qteCommandee>99</qteCommandee>
+            <qtePrevue>88</qtePrevue>
+            <qteStock>77</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 1.38 Kg</conditionnement>
+            <codeConditionnement>018440</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B002</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>20</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 160 Gr</conditionnement>
+            <codeConditionnement>013433</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B191</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 1.2 Kg</conditionnement>
+            <codeConditionnement>016150</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B205</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.25</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 1 Kg</conditionnement>
+            <codeConditionnement>017921</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B030</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>013498</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B218</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017198</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B017</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>4.33</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>013485</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B033</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4</qteStock>
+            <conditionnement>CO x 2 Barquette(s) x 1.8 Kg</conditionnement>
+            <codeConditionnement>013545</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B221</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>017201</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B040</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1.75</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 300 Gr</conditionnement>
+            <codeConditionnement>013552</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B202</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 1.326 Kg</conditionnement>
+            <codeConditionnement>018442</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B012</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.4</qteStock>
+            <conditionnement>CO x 5 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>013480</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B003</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>18</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 240 Gr</conditionnement>
+            <codeConditionnement>013434</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B022</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 1.7 Kg</conditionnement>
+            <codeConditionnement>013490</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B219</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017199</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B203</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>2.67</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 280 Gr</conditionnement>
+            <codeConditionnement>017143</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B019</codeArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>5.5</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 340 Gr</conditionnement>
+            <codeConditionnement>013487</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B214</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.75</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017194</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B029</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 370 Gr</conditionnement>
+            <codeConditionnement>013497</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B013</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>3.2</qteStock>
+            <conditionnement>CO x 5 Barquette(s) x 240 Gr</conditionnement>
+            <codeConditionnement>013481</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B021</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 1.5 Kg</conditionnement>
+            <codeConditionnement>013489</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B035</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 400 Gr</conditionnement>
+            <codeConditionnement>013547</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B037</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>5.83</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 250 Gr</conditionnement>
+            <codeConditionnement>013549</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B020</codeArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 250 Gr</conditionnement>
+            <codeConditionnement>013488</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B220</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.75</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017200</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B248</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 440 Gr</conditionnement>
+            <codeConditionnement>018343</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B014</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.4</qteStock>
+            <conditionnement>CO x 5 Barquette(s) x 800 Gr</conditionnement>
+            <codeConditionnement>013482</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B015</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 600 Gr</conditionnement>
+            <codeConditionnement>013483</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B034</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>4.75</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 375 Gr</conditionnement>
+            <codeConditionnement>013546</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B210</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 750 Gr</conditionnement>
+            <codeConditionnement>017190</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B204</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>017144</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B222</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>017202</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B236</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 450 Gr</conditionnement>
+            <codeConditionnement>017691</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B018</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1.6</qteStock>
+            <conditionnement>CO x 5 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>013486</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B038</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 235 Gr</conditionnement>
+            <codeConditionnement>013550</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B213</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017193</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B024</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 1.7 Kg</conditionnement>
+            <codeConditionnement>013492</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B041</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 5 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>013544</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B016</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>6.33</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 420 Gr</conditionnement>
+            <codeConditionnement>013484</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B004</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 700 Gr</conditionnement>
+            <codeConditionnement>013435</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B215</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017195</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B027</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 2 Barquette(s) x 1.5 Kg</conditionnement>
+            <codeConditionnement>013495</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B201</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 1.38 Kg</conditionnement>
+            <codeConditionnement>018441</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B216</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017196</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B025</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 1.6 Kg</conditionnement>
+            <codeConditionnement>013493</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B036</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>5</qteStock>
+            <conditionnement>CO x 6 Barquette(s) x 190 Gr</conditionnement>
+            <codeConditionnement>013548</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>B039</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 4 Barquette(s) x 1 Kg</conditionnement>
+            <codeConditionnement>013551</codeConditionnement>
+        </article>
+    </articles>
+</commande>

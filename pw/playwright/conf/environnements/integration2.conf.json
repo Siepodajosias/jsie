@@ -1,0 +1,22 @@
+{
+    "URL": {
+        "ACH" : "https://achats.int2.sigale.prosol.pri/",
+        "BUD" : "https://budgets.int2.sigale.prosol.pri",
+        "DON" : "https://dons.int2.sigale.prosol.pri/",
+        "FAC" : "https://facturation.int2.sigale.prosol.pri/",
+        "MAG" : "https://magasin.int2.sigale.prosol.pri/",
+        "NOM" : "https://nomenclature.int2.sigale.prosol.pri/",
+        "PBK" : "http://app1.int2.sigale.prosol.pri:9091/",
+        "PRE" : "https://preparation.int2.sigale.prosol.pri/",
+        "PRI" : "https://pricing.int2.sigale.prosol.pri/",
+        "QUA" : "https://qualite.int2.sigale.prosol.pri/",
+        "REP" : "https://repartition.int2.sigale.prosol.pri/",
+        "SOC" : "https://societes.int2.sigale.prosol.pri/",
+        "STO" : "https://stock.int2.sigale.prosol.pri/",
+        "TRA" : "https://traduction.int2.sigale.prosol.pri/",
+        "MQU" : "https://qualite-app.int2.sigale.prosol.pri/"
+    },
+    "SIGALE_VERSIONS" : "http://sigale-version.prosol.pri:1337/api/versions/environment/Int2/current",
+    "ESB" : "http://esb1.int2.sigale.prosol.pri:9093",
+    "PREFIXE" : "INT2"
+}

@@ -1,0 +1,27 @@
+{
+    "FOURNISSEUR" : {
+        "NOM"           : "TA_Fournisseur-FG",
+        "ADRESSE"       : "TA-Adresse-FG",
+        "CODE_POSTAL"   : "67890",
+        "COMMUNE"       : "TA_commune-FG",
+        "EMAIL"         : "test.auto.FG@fournisseur.com",
+        "TELEPHONE"     : "1112131410",
+        "FAX"           : "1112131499",
+        "VILLE"         : "Malemort",
+        "PAYS"          : "France",
+        "COMMENTAIRE"   : "TEST-AUTO commentaire FG % < é \\' #",
+        "COMPLEMENT"    : "Rue des Fournitures Générales",
+        "REGIME"        : "France",
+        "LANGUE"        : "Français",
+        "DEVISE"        : "Euro",   
+        "TVA_INTRA"     : "FR96 379 398 456",
+        "SIREN"         : "379398456",    
+        "CENTRALE_ACHAT": "Prosol Gestion",
+        "INTRO_MARCHAND": "France",
+        "COLLECTIF"     : "HorsGroupe",
+        "TYPOLOGIE"     : "Autres structures",
+        "SOCIETE"       : "TA_Societe",
+        "MODE_ENV_CMDE" : "Email avec PDF"
+    },
+    "AGREAGE_AUTO"  : true
+}

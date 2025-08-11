@@ -1,0 +1,72 @@
+[
+    {
+        "version": "6.0.2",
+        "sha1": "4bfa20a10e93214e233",
+        "appName": "ACH"
+    },
+    {
+        "version": "Unknown",
+        "sha1": "Unknown",
+        "appName": "BUD"
+    },
+    {
+        "version": "Unknown",
+        "sha1": "Unknown",
+        "appName": "DON"
+    },
+    {
+        "version": "7.4.1",
+        "sha1": "85b544f403a8941664f93d69ef908e99675e5ebd",
+        "appName": "FAC"
+    },
+    {
+        "version": "4.9.3",
+        "sha1": "1de1c238f14f5074d4a38f0be25492ef4ee4737a",
+        "appName": "MAG"
+    },
+    {
+        "version": "3.6.0",
+        "sha1": "9082ecdf5fc298c703d81c6a2908a794fb9f9718",
+        "appName": "NOM"
+    },
+    {
+        "version": "Unknown",
+        "sha1": "Unknown",
+        "appName": "PBK"
+    },
+    {
+        "version": "7.5.0",
+        "sha1": "d8b5ced1787f7c0c4af063db0106f548aab37c65",
+        "appName": "PRE"
+    },
+    {
+        "version": "7.7.2",
+        "sha1": "51587fd23b46acda9d7bc2a4ae414130ec1eacbf",
+        "appName": "PRI"
+    },
+    {
+        "version": "Unknown",
+        "sha1": "Unknown",
+        "appName": "QUA"
+    },
+    {
+        "version": "6.4.2",
+        "sha1": "b8bdf9e923317be9adda996d84c858a482a9c4c2",
+        "appName": "REP"
+    },
+    {
+        "version": "Unknown",
+        "sha1": "Unknown",
+        "appName": "SOC"
+    },
+    {
+        "version": "7.2.0",
+        "sha1": "0a4b09e509d04a5f38f47dafdc98684d2e549dbc",
+        "appName": "STO"
+    },
+    {
+        "version": "2.1.0",
+        "sha1": "90866e39c3da10769236b76bcb701ad2e86979ee",
+        "appName": "TRA"
+    }
+]

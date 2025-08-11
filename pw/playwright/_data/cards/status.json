@@ -1,0 +1,105 @@
+{
+    "type"			: "message",
+    "attachments"	: [
+        {
+        "contentType"	: "application/vnd.microsoft.card.adaptive",
+        "contentUrl"	: null,
+        "content"		: 
+            {
+                "type"		: "AdaptiveCard",
+                "version"	: "1.3",
+                "body"		: [
+                    {
+                        "type"		: "ColumnSet",
+                        "columns"	: [
+                            {
+                                "type"	: "Column",
+                                "width"	: "stretch",
+                                "items"	: [
+                                    {
+                                        "type"	: "TextBlock",
+                                        "text"	: "{appliFullName}",
+                                        "wrap"	: true,
+                                        "separator": true,
+                                        "height": "stretch",
+                                        "size"	: "ExtraLarge",
+                                        "weight": "Bolder"
+                                    }
+                                ]
+                            },
+                            {
+                                "type"	: "Column",
+                                "width"	: "stretch",
+                                "items"	: [
+                                    {
+                                        "type"	: "TextBlock",
+                                        "text"	: "{status}",
+                                        "wrap"	: true,
+                                        "color"	: "Attention",
+                                        "weight": "Bolder",
+                                        "size"	: "ExtraLarge",
+                                        "horizontalAlignment": "Center"
+                                    }
+                                ]
+                            }
+                        ],
+                        "separator"	: true
+                    },
+                    {
+                        "type"		: "ColumnSet",
+                        "columns"	: [
+                            {
+                                "type"	: "Column",
+                                "items"	: [
+                                    {
+                                        "type"	: "Image",
+                                        "style"	: "Person",
+                                        "url"	: "https://images.wondershare.com/filmora/article-images/Rage-Guy-meme.JPG",
+                                        "size"	: "Medium"
+                                    }
+                                ],
+                                "width": "auto"
+                            },
+                            {
+                                "type"	: "Column",
+                                "width"	: "stretch",
+                                "items"	: [
+                                    {
+                                        "type"	: "FactSet",
+                                        "facts"	: [
+                                            {
+                                                "title": "Environnement : ",
+                                                "value": "{environnement}"
+                                            },
+                                            {
+                                                "title": "Depuis :",
+                                                "value": "{depuis}"
+                                            },
+                                            {
+                                                "title": "Trigger :",
+                                                "value": "{jobName}"
+                                            },
+                                            {
+                                                "title": "Build :",
+                                                "value": "{buildNumber}"
+                                            }
+                                        ],
+                                        "separator": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "actions": [
+                    {
+                        "type"	: "Action.OpenUrl",
+                        "title"	: "Ouvrir",
+                        "url"	: "{url}",
+                        "style"	: "positive"
+                    }
+                ]
+            }
+        }
+    ]
+}

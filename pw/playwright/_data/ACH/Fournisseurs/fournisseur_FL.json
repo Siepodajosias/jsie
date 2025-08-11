@@ -1,0 +1,27 @@
+{
+    "FOURNISSEUR" : {
+        "NOM"           : "TA_Fournisseur-FL",
+        "ADRESSE"       : "TA-Adresse-FL",
+        "CODE_POSTAL"   : "12345",
+        "COMMUNE"       : "TA_commune-FL",
+        "EMAIL"         : "test.auto.FL@fournisseur.com",
+        "TELEPHONE"     : "0102030400",
+        "FAX"           : "0102030499",
+        "VILLE"         : "Brive la Gaillarde",
+        "PAYS"          : "France",
+        "COMMENTAIRE"   : "TEST-AUTO commentaire FL % < é \\' #",
+        "COMPLEMENT"    : "Rue des Fruits & Légumes",
+        "REGIME"        : "France",
+        "LANGUE"        : "Français",
+        "DEVISE"        : "Euro",   
+        "TVA_INTRA"     : "FR 5824 220 188 53",
+        "SIREN"         : "422018853",    
+        "CENTRALE_ACHAT": "Prosol SAS",
+        "INTRO_MARCHAND": "France",
+        "COLLECTIF"     : "HorsGroupe",
+        "TYPOLOGIE"     : "Autres structures",
+        "SOCIETE"       : "TA_Societe",
+        "MODE_ENV_CMDE" : "Email avec PDF"
+    },
+    "AGREAGE_AUTO"  : false
+}

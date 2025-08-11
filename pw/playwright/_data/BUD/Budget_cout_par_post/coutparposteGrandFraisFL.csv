@@ -1,0 +1,72 @@
+﻿Exercice;Code DE;Direction d'exploitation;Code LV;Lieu de vente;Code regroupement;Regroupement;Code poste;Poste;Code contrat;Contrat;Coût ETP mensuel;Coût horaire heures normales;Coût horaire heures supp.;Nb heures semaine
+2026;FL;Grand Frais FL;G585;Bretigny;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G585;Bretigny;GF_FL;Grand Frais FL;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G585;Bretigny;GF_FL;Grand Frais FL;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G585;Bretigny;GF_FL;Grand Frais FL;AD;Adjoint;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G585;Bretigny;GF_FL;Grand Frais FL;AC;Adjoint cadre;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G585;Bretigny;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G585;Bretigny;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;FL;Grand Frais FL;G585;Bretigny;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G585;Bretigny;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;FL;Grand Frais FL;G222;Frenes;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G222;Frenes;GF_FL;Grand Frais FL;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G222;Frenes;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G222;Frenes;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;FL;Grand Frais FL;G223;Orsay;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G223;Orsay;GF_FL;Grand Frais FL;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G223;Orsay;GF_FL;Grand Frais FL;AD;Adjoint;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G223;Orsay;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G223;Orsay;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G571;Saulx;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G571;Saulx;GF_FL;Grand Frais FL;AD;Adjoint;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G571;Saulx;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G571;Saulx;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;FL;Grand Frais FL;G221;Biarritz;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G221;Biarritz;GF_FL;Grand Frais FL;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G221;Biarritz;GF_FL;Grand Frais FL;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G221;Biarritz;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G221;Biarritz;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;FL;Grand Frais FL;G221;Biarritz;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G221;Biarritz;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;FL;Grand Frais FL;G217;Bizanos;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G217;Bizanos;GF_FL;Grand Frais FL;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G217;Bizanos;GF_FL;Grand Frais FL;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G217;Bizanos;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G217;Bizanos;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;FL;Grand Frais FL;G217;Bizanos;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G217;Bizanos;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;FL;Grand Frais FL;G192;Pau;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G192;Pau;GF_FL;Grand Frais FL;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G192;Pau;GF_FL;Grand Frais FL;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G192;Pau;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G192;Pau;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;FL;Grand Frais FL;G192;Pau;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G192;Pau;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;FL;Grand Frais FL;G213;Semeac;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G213;Semeac;GF_FL;Grand Frais FL;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G213;Semeac;GF_FL;Grand Frais FL;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G213;Semeac;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G213;Semeac;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;FL;Grand Frais FL;G213;Semeac;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G213;Semeac;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;FL;Grand Frais FL;G237;St paul les dax;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G237;St paul les dax;GF_FL;Grand Frais FL;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G237;St paul les dax;GF_FL;Grand Frais FL;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G237;St paul les dax;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G237;St paul les dax;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;FL;Grand Frais FL;G237;St paul les dax;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G237;St paul les dax;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;FL;Grand Frais FL;G191;St pierre;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G191;St pierre;GF_FL;Grand Frais FL;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G191;St pierre;GF_FL;Grand Frais FL;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G191;St pierre;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G191;St pierre;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;FL;Grand Frais FL;G191;St pierre;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G191;St pierre;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;FL;Grand Frais FL;G287;Tarbes;GF_FL;Grand Frais FL;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;FL;Grand Frais FL;G287;Tarbes;GF_FL;Grand Frais FL;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G287;Tarbes;GF_FL;Grand Frais FL;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G287;Tarbes;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G287;Tarbes;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;FL;Grand Frais FL;G287;Tarbes;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;FL;Grand Frais FL;G287;Tarbes;GF_FL;Grand Frais FL;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23

@@ -1,0 +1,1540 @@
+{
+  "config": {
+    "configFile": "C:\\pw\\playwright\\playwright.config.ts",
+    "rootDir": "C:/pw/playwright/specs",
+    "forbidOnly": false,
+    "fullyParallel": false,
+    "globalSetup": null,
+    "globalTeardown": null,
+    "globalTimeout": 0,
+    "grep": {},
+    "grepInvert": null,
+    "maxFailures": 0,
+    "metadata": {
+      "actualWorkers": 1
+    },
+    "preserveOutput": "always",
+    "reporter": [
+      [
+        "html",
+        {
+          "outputFolder": "/opt/reports/archives/SOC",
+          "open": "never"
+        }
+      ],
+      [
+        "C:\\pw\\playwright\\utils\\customReporter\\reporter.ts",
+        {
+          "customOption": "Test reporter"
+        }
+      ],
+      [
+        "json",
+        {
+          "outputFile": "test-results.json"
+        }
+      ]
+    ],
+    "reportSlowTests": {
+      "max": 5,
+      "threshold": 15000
+    },
+    "quiet": false,
+    "projects": [
+      {
+        "outputDir": "C:/pw/playwright/test-results/SOC",
+        "repeatEach": 1,
+        "retries": 0,
+        "id": "Chrome",
+        "name": "Chrome",
+        "testDir": "C:/pw/playwright/specs",
+        "testIgnore": [],
+        "testMatch": [
+          "**/*.@(spec|test).?(c|m)[jt]s?(x)"
+        ],
+        "timeout": 30000
+      }
+    ],
+    "shard": null,
+    "updateSnapshots": "missing",
+    "version": "1.39.0",
+    "workers": 6,
+    "webServer": null
+  },
+  "suites": [
+    {
+      "title": "SOC\\lieu_vente_creation.spec.ts",
+      "file": "SOC/lieu_vente_creation.spec.ts",
+      "column": 0,
+      "line": 0,
+      "specs": [],
+      "suites": [
+        {
+          "title": "[SOC_LVE_ADD]",
+          "file": "SOC/lieu_vente_creation.spec.ts",
+          "line": 87,
+          "column": 6,
+          "specs": [
+            {
+              "title": "-- Start --",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "Chrome",
+                  "projectName": "Chrome",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 1653,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "--------------------------------------------------------------------------------\n"
+                        },
+                        {
+                          "text": "| Application  : SOCIETES\n"
+                        },
+                        {
+                          "text": "| Reference    : [SOC_LVE_ADD] - Création d'un Lieu de Vente\n"
+                        },
+                        {
+                          "text": "| ID Squash    : http://squash.prosol.pri:8080/squash/test-case-workspace/test-case/3129/content\n"
+                        },
+                        {
+                          "text": "| Test         : C:\\pw\\playwright\\specs\\SOC\\lieu_vente_creation.spec.ts\n"
+                        },
+                        {
+                          "text": "| Version      : 3.0\n"
+                        },
+                        {
+                          "text": "| Crée le      : 28 Nov 2023 à 12:56:44\n"
+                        },
+                        {
+                          "text": "--------------------------------------------------------------------------------\n"
+                        },
+                        {
+                          "text": "| Date Tir     : 28-11-2023 à 12:57:49\n"
+                        },
+                        {
+                          "text": "| Profil       : lunettes\n"
+                        },
+                        {
+                          "text": "| Browser      : chromium/116.0.5845.111\n"
+                        },
+                        {
+                          "text": "| Environnement: integration\n"
+                        },
+                        {
+                          "text": "| Input Admis  : enseigne - designation - typeDeLieu\n"
+                        },
+                        {
+                          "text": "--Paramètres--------------------------------------------------------------------\n"
+                        },
+                        {
+                          "text": "| E2E          : E2E_SOC_CGF\n"
+                        },
+                        {
+                          "text": "--Versions----------------------------------------------------------------------\n"
+                        },
+                        {
+                          "text": "| Achats       : 5.14.0-SNAPSHOT                                   e26b...6c89 |\n"
+                        },
+                        {
+                          "text": "| Budgets      : 2.4.1                                             b2bc...1cb6 |\n"
+                        },
+                        {
+                          "text": "| Cockpit      : 1.6.0-SNAPSHOT                                    2104...27b5 |\n"
+                        },
+                        {
+                          "text": "| Concurrence  : 1.16.0-SNAPSHOT                                   ea4f...8c4c |\n"
+                        },
+                        {
+                          "text": "| Dons         : 2.2.1                                             7305...3bf4 |\n"
+                        },
+                        {
+                          "text": "| Magasin      : 4.3.0-SNAPSHOT                                    9f66...971a |\n"
+                        },
+                        {
+                          "text": "| Nomenclature : 3.2.1                                             6d32...a0c5 |\n"
+                        },
+                        {
+                          "text": "| Prefactu     : 7.1.0-SNAPSHOT                                    c0e3...1ffb |\n"
+                        },
+                        {
+                          "text": "| Preparation  : 6.11.3-SNAPSHOT                                   0868...10ab |\n"
+                        },
+                        {
+                          "text": "| Pricing      : 7.1.0-SNAPSHOT                                    ce93...7cdf |\n"
+                        },
+                        {
+                          "text": "| Qualite      : 1.33.6                                            320e...aa49 |\n"
+                        },
+                        {
+                          "text": "| Repartition  : 5.11.0-SNAPSHOT                                   b501...8afd |\n"
+                        },
+                        {
+                          "text": "| Societes     : 2.4.2 <-----                                      e53b...3d76 |\n"
+                        },
+                        {
+                          "text": "| Stock        : 6.14.0-SNAPSHOT                                   9613...0b4c |\n"
+                        },
+                        {
+                          "text": "| Traduction   : 2.1.0                                             9086...79ee |\n"
+                        },
+                        {
+                          "text": "--------------------------------------------------------------------------------\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2023-11-28T11:57:49.123Z",
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD----Start----Chrome\\trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "e733a1ee1c73e45804c0-64f93d537fac8c0921ae",
+              "file": "SOC/lieu_vente_creation.spec.ts",
+              "line": 89,
+              "column": 9
+            },
+            {
+              "title": "Ouverture URL",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "Chrome",
+                  "projectName": "Chrome",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 1220,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "-- URL :  http://societes.int.sigale.prosol.pri/ -----------------------------------------------------------------------\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2023-11-28T11:57:51.630Z",
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Ouverture-URL-Chrome\\trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "e733a1ee1c73e45804c0-b0710ed057a02c4088d6",
+              "file": "SOC/lieu_vente_creation.spec.ts",
+              "line": 95,
+              "column": 9
+            },
+            {
+              "title": "Connexion",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "Chrome",
+                  "projectName": "Chrome",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 5614,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "[ \u001b[33m0\u001b[39m ] - Max Check : \u001b[33m30\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m0\u001b[39m ] - Last:  \u001b[33m0\u001b[39m  <> Current:  \u001b[33m466031\u001b[39m  body html size:  \u001b[33m4639\u001b[39m  Duration:  \u001b[33m0.141\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m0\u001b[39m ] - Last:  \u001b[33m466031\u001b[39m  <> Current:  \u001b[33m466673\u001b[39m  body html size:  \u001b[33m5281\u001b[39m  Duration:  \u001b[33m1.192\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m0\u001b[39m ] - Last:  \u001b[33m466673\u001b[39m  <> Current:  \u001b[33m466673\u001b[39m  body html size:  \u001b[33m5281\u001b[39m  Duration:  \u001b[33m2.237\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m0\u001b[39m ] - Last:  \u001b[33m466673\u001b[39m  <> Current:  \u001b[33m466673\u001b[39m  body html size:  \u001b[33m5281\u001b[39m  Duration:  \u001b[33m3.281\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m0\u001b[39m ] - Last:  \u001b[33m466673\u001b[39m  <> Current:  \u001b[33m466673\u001b[39m  body html size:  \u001b[33m5281\u001b[39m  Duration:  \u001b[33m4.326\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m0\u001b[39m ] - Page rendered fully...\n"
+                        },
+                        {
+                          "text": "------------------------------------------------------------------------------------------------------------------------\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2023-11-28T11:57:52.853Z",
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Connexion-Chrome\\trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "e733a1ee1c73e45804c0-fe8e3290e75b0fa32f97",
+              "file": "SOC/lieu_vente_creation.spec.ts",
+              "line": 99,
+              "column": 9
+            },
+            {
+              "title": "P-dialog [ALERT][ERREUR][PAGE] - Check",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "Chrome",
+                  "projectName": "Chrome",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 172,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "Aucun élément trouvé pour le sélecteur de type \"feedback\"\n"
+                        },
+                        {
+                          "text": "Nombre d'éléments trouvés pour le sélecteur de type \"alerte\" : 1\n"
+                        },
+                        {
+                          "text": "\n"
+                        },
+                        {
+                          "text": "Élément #1:\n"
+                        },
+                        {
+                          "text": "  - Valeur: Attention : Une nouvelle version a été installée, le S.I Sigale vous propose de faire la mise à jour en cliquant sur OK\n"
+                        },
+                        {
+                          "text": "  - Est visible: false\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2023-11-28T11:57:58.469Z",
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-P-dialog-ALERT-ERREUR-PAGE---Check-Chrome\\trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "e733a1ee1c73e45804c0-688b27808482e9a1f6bf",
+              "file": "SOC/lieu_vente_creation.spec.ts",
+              "line": 103,
+              "column": 6
+            },
+            {
+              "title": "Déconnexion",
+              "ok": true,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "Chrome",
+                  "projectName": "Chrome",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "passed",
+                      "duration": 5275,
+                      "errors": [],
+                      "stdout": [
+                        {
+                          "text": "[ \u001b[33m6\u001b[39m ] - Max Check : \u001b[33m30\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m6\u001b[39m ] - Last:  \u001b[33m0\u001b[39m  <> Current:  \u001b[33m809794\u001b[39m  body html size:  \u001b[33m44190\u001b[39m  Duration:  \u001b[33m0.077\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m6\u001b[39m ] - Last:  \u001b[33m809794\u001b[39m  <> Current:  \u001b[33m767334\u001b[39m  body html size:  \u001b[33m1730\u001b[39m  Duration:  \u001b[33m1.135\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m6\u001b[39m ] - Last:  \u001b[33m767334\u001b[39m  <> Current:  \u001b[33m767334\u001b[39m  body html size:  \u001b[33m1730\u001b[39m  Duration:  \u001b[33m2.195\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m6\u001b[39m ] - Last:  \u001b[33m767334\u001b[39m  <> Current:  \u001b[33m767334\u001b[39m  body html size:  \u001b[33m1730\u001b[39m  Duration:  \u001b[33m3.263\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m6\u001b[39m ] - Last:  \u001b[33m767334\u001b[39m  <> Current:  \u001b[33m767334\u001b[39m  body html size:  \u001b[33m1730\u001b[39m  Duration:  \u001b[33m4.328\u001b[39m\n"
+                        },
+                        {
+                          "text": "[ \u001b[33m6\u001b[39m ] - Page rendered fully...\n"
+                        },
+                        {
+                          "text": "------------------------------------------------------------------------------------------------------------------------\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "steps": [
+                        {
+                          "title": "ListBox [USER] - Click",
+                          "duration": 198
+                        },
+                        {
+                          "title": "Link [DECONNEXION] - Click",
+                          "duration": 4475
+                        },
+                        {
+                          "title": "Check URL",
+                          "duration": 11
+                        }
+                      ],
+                      "startTime": "2023-11-28T11:58:31.695Z",
+                      "attachments": [
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Déconnexion-Chrome\\trace.zip"
+                        }
+                      ]
+                    }
+                  ],
+                  "status": "expected"
+                }
+              ],
+              "id": "e733a1ee1c73e45804c0-2ca03c8399035923ce4e",
+              "file": "SOC/lieu_vente_creation.spec.ts",
+              "line": 253,
+              "column": 6
+            },
+            {
+              "title": "** CHECK FLUX **",
+              "ok": false,
+              "tags": [],
+              "tests": [
+                {
+                  "timeout": 30000,
+                  "annotations": [],
+                  "expectedStatus": "passed",
+                  "projectId": "Chrome",
+                  "projectName": "Chrome",
+                  "results": [
+                    {
+                      "workerIndex": 0,
+                      "status": "failed",
+                      "duration": 414,
+                      "error": {
+                        "message": "Ooops : La date de démarrage du test est inconnue. La méthode \"fonction.setTartTime(testInfo);\" n'a probablement pas été invoquée dans la partie -- Start -- du test !",
+                        "stack": "Error: Ooops : La date de démarrage du test est inconnue. La méthode \"fonction.setTartTime(testInfo);\" n'a probablement pas été invoquée dans la partie -- Start -- du test !\n    at TestFunctions.getStartTime (C:\\pw\\playwright\\utils\\functions.ts:1015:19)\n    at EsbFunctions.checkFlux (C:\\pw\\playwright\\utils\\esb.ts:250:72)\n    at C:\\pw\\playwright\\specs\\SOC\\lieu_vente_creation.spec.ts:270:23",
+                        "location": {
+                          "file": "C:\\pw\\playwright\\utils\\functions.ts",
+                          "column": 19,
+                          "line": 1015
+                        },
+                        "snippet": "\u001b[90m   at \u001b[39m..\\utils\\functions.ts:1015\n\n\u001b[0m \u001b[90m 1013 |\u001b[39m             \u001b[36mreturn\u001b[39m \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39mdStartTime\u001b[33m.\u001b[39mgetTime()\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 1014 |\u001b[39m         } \u001b[36melse\u001b[39m {\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 1015 |\u001b[39m             \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(\u001b[32m'Ooops : La date de démarrage du test est inconnue. La méthode \"fonction.setTartTime(testInfo);\" n\\'a probablement pas été invoquée dans la partie -- Start -- du test !'\u001b[39m)\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m      |\u001b[39m                   \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 1016 |\u001b[39m         }\u001b[0m\n\u001b[0m \u001b[90m 1017 |\u001b[39m     }\u001b[0m\n\u001b[0m \u001b[90m 1018 |\u001b[39m\u001b[0m"
+                      },
+                      "errors": [
+                        {
+                          "location": {
+                            "file": "C:\\pw\\playwright\\utils\\functions.ts",
+                            "column": 19,
+                            "line": 1015
+                          },
+                          "message": "Error: Ooops : La date de démarrage du test est inconnue. La méthode \"fonction.setTartTime(testInfo);\" n'a probablement pas été invoquée dans la partie -- Start -- du test !\n\n\u001b[90m   at \u001b[39m..\\utils\\functions.ts:1015\n\n\u001b[0m \u001b[90m 1013 |\u001b[39m             \u001b[36mreturn\u001b[39m \u001b[36mthis\u001b[39m\u001b[33m.\u001b[39mdStartTime\u001b[33m.\u001b[39mgetTime()\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 1014 |\u001b[39m         } \u001b[36melse\u001b[39m {\u001b[0m\n\u001b[0m\u001b[31m\u001b[1m>\u001b[22m\u001b[39m\u001b[90m 1015 |\u001b[39m             \u001b[36mthrow\u001b[39m \u001b[36mnew\u001b[39m \u001b[33mError\u001b[39m(\u001b[32m'Ooops : La date de démarrage du test est inconnue. La méthode \"fonction.setTartTime(testInfo);\" n\\'a probablement pas été invoquée dans la partie -- Start -- du test !'\u001b[39m)\u001b[33m;\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m      |\u001b[39m                   \u001b[31m\u001b[1m^\u001b[22m\u001b[39m\u001b[0m\n\u001b[0m \u001b[90m 1016 |\u001b[39m         }\u001b[0m\n\u001b[0m \u001b[90m 1017 |\u001b[39m     }\u001b[0m\n\u001b[0m \u001b[90m 1018 |\u001b[39m\u001b[0m\n\n\u001b[2m    at TestFunctions.getStartTime (C:\\pw\\playwright\\utils\\functions.ts:1015:19)\u001b[22m\n\u001b[2m    at EsbFunctions.checkFlux (C:\\pw\\playwright\\utils\\esb.ts:250:72)\u001b[22m\n\u001b[2m    at C:\\pw\\playwright\\specs\\SOC\\lieu_vente_creation.spec.ts:270:23\u001b[22m"
+                        }
+                      ],
+                      "stdout": [
+                        {
+                          "text": "\n"
+                        },
+                        {
+                          "text": "-- Info ------------------------------------------------------------------------\n"
+                        },
+                        {
+                          "text": "| ComboBox [CODE] : Sélection Elément 5 / 10 = \"013\"\n"
+                        },
+                        {
+                          "text": "--------------------------------------------------------------------------------\n"
+                        }
+                      ],
+                      "stderr": [],
+                      "retry": 0,
+                      "startTime": "2023-11-28T11:58:36.971Z",
+                      "attachments": [
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-CHECK-FLUX--Chrome\\test-failed-1.png"
+                        },
+                        {
+                          "name": "trace",
+                          "contentType": "application/zip",
+                          "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-CHECK-FLUX--Chrome\\trace.zip"
+                        },
+                        {
+                          "name": "screenshot",
+                          "contentType": "image/png",
+                          "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-CHECK-FLUX--Chrome\\test-failed-2.png"
+                        }
+                      ],
+                      "errorLocation": {
+                        "file": "C:\\pw\\playwright\\utils\\functions.ts",
+                        "column": 19,
+                        "line": 1015
+                      }
+                    }
+                  ],
+                  "status": "unexpected"
+                }
+              ],
+              "id": "e733a1ee1c73e45804c0-47aaa19bce22caba5808",
+              "file": "SOC/lieu_vente_creation.spec.ts",
+              "line": 258,
+              "column": 6
+            }
+          ],
+          "suites": [
+            {
+              "title": "Page [LIEUX VENTE]",
+              "file": "SOC/lieu_vente_creation.spec.ts",
+              "line": 110,
+              "column": 7,
+              "specs": [
+                {
+                  "title": "Menu [LIEUX] - Click ",
+                  "ok": true,
+                  "tags": [],
+                  "tests": [
+                    {
+                      "timeout": 30000,
+                      "annotations": [],
+                      "expectedStatus": "passed",
+                      "projectId": "Chrome",
+                      "projectName": "Chrome",
+                      "results": [
+                        {
+                          "workerIndex": 0,
+                          "status": "passed",
+                          "duration": 7170,
+                          "errors": [],
+                          "stdout": [
+                            {
+                              "text": "\n"
+                            },
+                            {
+                              "text": "-- Page :  LIEUXVENTE --------------------------------------------------------------------------------------------------\n"
+                            },
+                            {
+                              "text": "[ \u001b[33m1\u001b[39m ] - Max Check : \u001b[33m30\u001b[39m\n"
+                            },
+                            {
+                              "text": "[ \u001b[33m1\u001b[39m ] - Last:  \u001b[33m0\u001b[39m  <> Current:  \u001b[33m466980\u001b[39m  body html size:  \u001b[33m5294\u001b[39m  Duration:  \u001b[33m0.039\u001b[39m\n"
+                            },
+                            {
+                              "text": "[ \u001b[33m1\u001b[39m ] - Last:  \u001b[33m466980\u001b[39m  <> Current:  \u001b[33m466980\u001b[39m  body html size:  \u001b[33m5294\u001b[39m  Duration:  \u001b[33m1.098\u001b[39m\n"
+                            },
+                            {
+                              "text": "[ \u001b[33m1\u001b[39m ] - Last:  \u001b[33m466980\u001b[39m  <> Current:  \u001b[33m809603\u001b[39m  body html size:  \u001b[33m44042\u001b[39m  Duration:  \u001b[33m2.231\u001b[39m\n"
+                            },
+                            {
+                              "text": "[ \u001b[33m1\u001b[39m ] - Last:  \u001b[33m809603\u001b[39m  <> Current:  \u001b[33m809589\u001b[39m  body html size:  \u001b[33m44040\u001b[39m  Duration:  \u001b[33m3.309\u001b[39m\n"
+                            },
+                            {
+                              "text": "[ \u001b[33m1\u001b[39m ] - Last:  \u001b[33m809589\u001b[39m  <> Current:  \u001b[33m809589\u001b[39m  body html size:  \u001b[33m44040\u001b[39m  Duration:  \u001b[33m4.394\u001b[39m\n"
+                            },
+                            {
+                              "text": "[ \u001b[33m1\u001b[39m ] - Last:  \u001b[33m809589\u001b[39m  <> Current:  \u001b[33m809589\u001b[39m  body html size:  \u001b[33m44040\u001b[39m  Duration:  \u001b[33m5.469\u001b[39m\n"
+                            },
+                            {
+                              "text": "[ \u001b[33m1\u001b[39m ] - Last:  \u001b[33m809589\u001b[39m  <> Current:  \u001b[33m809589\u001b[39m  body html size:  \u001b[33m44040\u001b[39m  Duration:  \u001b[33m6.545\u001b[39m\n"
+                            },
+                            {
+                              "text": "[ \u001b[33m1\u001b[39m ] - Page rendered fully...\n"
+                            },
+                            {
+                              "text": "------------------------------------------------------------------------------------------------------------------------\n"
+                            }
+                          ],
+                          "stderr": [],
+                          "retry": 0,
+                          "startTime": "2023-11-28T11:57:58.642Z",
+                          "attachments": [
+                            {
+                              "name": "trace",
+                              "contentType": "application/zip",
+                              "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEUX-VENTE-Menu-LIEUX---Click--Chrome\\trace.zip"
+                            }
+                          ]
+                        }
+                      ],
+                      "status": "expected"
+                    }
+                  ],
+                  "id": "e733a1ee1c73e45804c0-1879a82935a2ee0e399d",
+                  "file": "SOC/lieu_vente_creation.spec.ts",
+                  "line": 114,
+                  "column": 13
+                },
+                {
+                  "title": "P-dialog [ALER ERREUR][PAGE LIEUX] - Check",
+                  "ok": true,
+                  "tags": [],
+                  "tests": [
+                    {
+                      "timeout": 30000,
+                      "annotations": [],
+                      "expectedStatus": "passed",
+                      "projectId": "Chrome",
+                      "projectName": "Chrome",
+                      "results": [
+                        {
+                          "workerIndex": 0,
+                          "status": "passed",
+                          "duration": 234,
+                          "errors": [],
+                          "stdout": [
+                            {
+                              "text": "Aucun élément trouvé pour le sélecteur de type \"feedback\"\n"
+                            },
+                            {
+                              "text": "Nombre d'éléments trouvés pour le sélecteur de type \"alerte\" : 1\n"
+                            },
+                            {
+                              "text": "\n"
+                            },
+                            {
+                              "text": "Élément #1:\n"
+                            },
+                            {
+                              "text": "  - Valeur: Attention : Une nouvelle version a été installée, le S.I Sigale vous propose de faire la mise à jour en cliquant sur OK\n"
+                            },
+                            {
+                              "text": "  - Est visible: false\n"
+                            }
+                          ],
+                          "stderr": [],
+                          "retry": 0,
+                          "startTime": "2023-11-28T11:58:05.814Z",
+                          "attachments": [
+                            {
+                              "name": "trace",
+                              "contentType": "application/zip",
+                              "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEUX-VENTE-P-dialog-ALER-ERREUR-PAGE-LIEUX---Check-Chrome\\trace.zip"
+                            }
+                          ]
+                        }
+                      ],
+                      "status": "expected"
+                    }
+                  ],
+                  "id": "e733a1ee1c73e45804c0-34fb1198bc5cd3877245",
+                  "file": "SOC/lieu_vente_creation.spec.ts",
+                  "line": 118,
+                  "column": 7
+                },
+                {
+                  "title": "Button [CREER UN LIEU DE VENTE] - Click",
+                  "ok": true,
+                  "tags": [],
+                  "tests": [
+                    {
+                      "timeout": 30000,
+                      "annotations": [],
+                      "expectedStatus": "passed",
+                      "projectId": "Chrome",
+                      "projectName": "Chrome",
+                      "results": [
+                        {
+                          "workerIndex": 0,
+                          "status": "passed",
+                          "duration": 366,
+                          "errors": [],
+                          "stdout": [],
+                          "stderr": [],
+                          "retry": 0,
+                          "startTime": "2023-11-28T11:58:06.050Z",
+                          "attachments": [
+                            {
+                              "name": "trace",
+                              "contentType": "application/zip",
+                              "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEUX-VENTE-Button-CREER-UN-LIEU-DE-VENTE---Click-Chrome\\trace.zip"
+                            }
+                          ]
+                        }
+                      ],
+                      "status": "expected"
+                    }
+                  ],
+                  "id": "e733a1ee1c73e45804c0-660e3b94630064e45565",
+                  "file": "SOC/lieu_vente_creation.spec.ts",
+                  "line": 122,
+                  "column": 7
+                },
+                {
+                  "title": "** Save Data **",
+                  "ok": true,
+                  "tags": [],
+                  "tests": [
+                    {
+                      "timeout": 30000,
+                      "annotations": [],
+                      "expectedStatus": "passed",
+                      "projectId": "Chrome",
+                      "projectName": "Chrome",
+                      "results": [
+                        {
+                          "workerIndex": 0,
+                          "status": "passed",
+                          "duration": 135,
+                          "errors": [],
+                          "stdout": [
+                            {
+                              "text": "--------------------------------------------------------------------------------\n"
+                            },
+                            {
+                              "text": "File Writed  : C:\\pw\\playwright\\utils/../_data/_tmp/E2E_SOC_CGF-231128.json\n"
+                            }
+                          ],
+                          "stderr": [],
+                          "retry": 0,
+                          "startTime": "2023-11-28T11:58:31.558Z",
+                          "attachments": [
+                            {
+                              "name": "trace",
+                              "contentType": "application/zip",
+                              "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEUX-VENTE-Save-Data--Chrome\\trace.zip"
+                            }
+                          ]
+                        }
+                      ],
+                      "status": "expected"
+                    }
+                  ],
+                  "id": "e733a1ee1c73e45804c0-70b24f8d5f808bfd3642",
+                  "file": "../utils/functions.ts",
+                  "line": 978,
+                  "column": 13
+                }
+              ],
+              "suites": [
+                {
+                  "title": "Popin [CRÉATION D'UN LIEU DE VENTE]",
+                  "file": "SOC/lieu_vente_creation.spec.ts",
+                  "line": 127,
+                  "column": 8,
+                  "specs": [
+                    {
+                      "title": "Popin [CREATION D'UN LIEU] - Check",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 4861,
+                              "errors": [],
+                              "stdout": [
+                                {
+                                  "text": "\n"
+                                },
+                                {
+                                  "text": "-- Popin Start :  CRÉATION D'UN LIEU DE VENTE --------------------------------------------------------------------------\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m2\u001b[39m ] - Max Check : \u001b[33m3\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m2\u001b[39m ] - Last:  \u001b[33m0\u001b[39m  <> Current:  \u001b[33m828740\u001b[39m  body html size:  \u001b[33m63165\u001b[39m  Duration:  \u001b[33m0.134\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m2\u001b[39m ] - Last:  \u001b[33m828740\u001b[39m  <> Current:  \u001b[33m829172\u001b[39m  body html size:  \u001b[33m63597\u001b[39m  Duration:  \u001b[33m1.246\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m2\u001b[39m ] - Last:  \u001b[33m829172\u001b[39m  <> Current:  \u001b[33m829172\u001b[39m  body html size:  \u001b[33m63597\u001b[39m  Duration:  \u001b[33m2.355\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m2\u001b[39m ] - Last:  \u001b[33m829172\u001b[39m  <> Current:  \u001b[33m829172\u001b[39m  body html size:  \u001b[33m63597\u001b[39m  Duration:  \u001b[33m3.421\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m2\u001b[39m ] - Last:  \u001b[33m829172\u001b[39m  <> Current:  \u001b[33m829172\u001b[39m  body html size:  \u001b[33m63597\u001b[39m  Duration:  \u001b[33m4.491\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m2\u001b[39m ] - Page rendered fully...\n"
+                                },
+                                {
+                                  "text": "------------------------------------------------------------------------------------------------------------------------\n"
+                                }
+                              ],
+                              "stderr": [],
+                              "retry": 0,
+                              "steps": [
+                                {
+                                  "title": "Popin [CRÉATION D'UN LIEU DE VENTE] -  Is Visible",
+                                  "duration": 41
+                                }
+                              ],
+                              "startTime": "2023-11-28T11:58:06.419Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-c0b6a--LIEU-DE-VENTE-Popin-CREATION-D-UN-LIEU---Check-Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-a232ea72e3be537ed98b",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 129,
+                      "column": 8
+                    },
+                    {
+                      "title": "ListBox [TYPE DE LIEU] = \"Magasin\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 4946,
+                              "errors": [],
+                              "stdout": [
+                                {
+                                  "text": "[ \u001b[33m3\u001b[39m ] - Max Check : \u001b[33m30\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m3\u001b[39m ] - Last:  \u001b[33m0\u001b[39m  <> Current:  \u001b[33m831549\u001b[39m  body html size:  \u001b[33m65974\u001b[39m  Duration:  \u001b[33m0.08\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m3\u001b[39m ] - Last:  \u001b[33m831549\u001b[39m  <> Current:  \u001b[33m831536\u001b[39m  body html size:  \u001b[33m65961\u001b[39m  Duration:  \u001b[33m1.168\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m3\u001b[39m ] - Last:  \u001b[33m831536\u001b[39m  <> Current:  \u001b[33m831536\u001b[39m  body html size:  \u001b[33m65961\u001b[39m  Duration:  \u001b[33m2.249\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m3\u001b[39m ] - Last:  \u001b[33m831536\u001b[39m  <> Current:  \u001b[33m831536\u001b[39m  body html size:  \u001b[33m65961\u001b[39m  Duration:  \u001b[33m3.323\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m3\u001b[39m ] - Last:  \u001b[33m831536\u001b[39m  <> Current:  \u001b[33m831536\u001b[39m  body html size:  \u001b[33m65961\u001b[39m  Duration:  \u001b[33m4.401\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m3\u001b[39m ] - Page rendered fully...\n"
+                                },
+                                {
+                                  "text": "------------------------------------------------------------------------------------------------------------------------\n"
+                                }
+                              ],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:11.283Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-76e1c--UN-LIEU-DE-VENTE-ListBox-TYPE-DE-LIEU-Magasin--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-9110350ebc5e20cf6f02",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 138,
+                      "column": 9
+                    },
+                    {
+                      "title": "ListBox [AUTRE ENSEIGNE] = \"Grand Frais\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 4890,
+                              "errors": [],
+                              "stdout": [
+                                {
+                                  "text": "[ \u001b[33m4\u001b[39m ] - Max Check : \u001b[33m30\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m4\u001b[39m ] - Last:  \u001b[33m0\u001b[39m  <> Current:  \u001b[33m832872\u001b[39m  body html size:  \u001b[33m67297\u001b[39m  Duration:  \u001b[33m0.069\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m4\u001b[39m ] - Last:  \u001b[33m832872\u001b[39m  <> Current:  \u001b[33m832859\u001b[39m  body html size:  \u001b[33m67284\u001b[39m  Duration:  \u001b[33m1.141\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m4\u001b[39m ] - Last:  \u001b[33m832859\u001b[39m  <> Current:  \u001b[33m832859\u001b[39m  body html size:  \u001b[33m67284\u001b[39m  Duration:  \u001b[33m2.214\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m4\u001b[39m ] - Last:  \u001b[33m832859\u001b[39m  <> Current:  \u001b[33m832859\u001b[39m  body html size:  \u001b[33m67284\u001b[39m  Duration:  \u001b[33m3.283\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m4\u001b[39m ] - Last:  \u001b[33m832859\u001b[39m  <> Current:  \u001b[33m832859\u001b[39m  body html size:  \u001b[33m67284\u001b[39m  Duration:  \u001b[33m4.351\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m4\u001b[39m ] - Page rendered fully...\n"
+                                },
+                                {
+                                  "text": "------------------------------------------------------------------------------------------------------------------------\n"
+                                }
+                              ],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:16.230Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-9cc1f-EU-DE-VENTE-ListBox-AUTRE-ENSEIGNE-Grand-Frais--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-af372bb283857650a5cf",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 151,
+                      "column": 9
+                    },
+                    {
+                      "title": "ListBox [ENSEIGNE] = \"Grand Frais\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 302,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:21.122Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-732b5--UN-LIEU-DE-VENTE-ListBox-ENSEIGNE-Grand-Frais--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-75e17c678b60a645e64c",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 159,
+                      "column": 10
+                    },
+                    {
+                      "title": "Input [LIEU DE VENTE] = \"\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 300,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:21.425Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-01f59-RÉATION-D-UN-LIEU-DE-VENTE-Input-LIEU-DE-VENTE--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-06d9a201de43d9442989",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 165,
+                      "column": 8
+                    },
+                    {
+                      "title": "ListBox [PAYS] = \"France\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 5026,
+                              "errors": [],
+                              "stdout": [
+                                {
+                                  "text": "[ \u001b[33m5\u001b[39m ] - Max Check : \u001b[33m30\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m5\u001b[39m ] - Last:  \u001b[33m0\u001b[39m  <> Current:  \u001b[33m831385\u001b[39m  body html size:  \u001b[33m65810\u001b[39m  Duration:  \u001b[33m0.092\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m5\u001b[39m ] - Last:  \u001b[33m831385\u001b[39m  <> Current:  \u001b[33m831372\u001b[39m  body html size:  \u001b[33m65797\u001b[39m  Duration:  \u001b[33m1.161\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m5\u001b[39m ] - Last:  \u001b[33m831372\u001b[39m  <> Current:  \u001b[33m831372\u001b[39m  body html size:  \u001b[33m65797\u001b[39m  Duration:  \u001b[33m2.246\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m5\u001b[39m ] - Last:  \u001b[33m831372\u001b[39m  <> Current:  \u001b[33m831372\u001b[39m  body html size:  \u001b[33m65797\u001b[39m  Duration:  \u001b[33m3.33\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m5\u001b[39m ] - Last:  \u001b[33m831372\u001b[39m  <> Current:  \u001b[33m831372\u001b[39m  body html size:  \u001b[33m65797\u001b[39m  Duration:  \u001b[33m4.4\u001b[39m\n"
+                                },
+                                {
+                                  "text": "[ \u001b[33m5\u001b[39m ] - Page rendered fully...\n"
+                                },
+                                {
+                                  "text": "------------------------------------------------------------------------------------------------------------------------\n"
+                                }
+                              ],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:21.728Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-ffa61-RÉATION-D-UN-LIEU-DE-VENTE-ListBox-PAYS-France--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-087507f7d983e9b965e8",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 171,
+                      "column": 9
+                    },
+                    {
+                      "title": "Input [ADRESSE] = \"TA Adresse 1 20231128 /! #1 ';\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 344,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:26.756Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-4a534-DE-VENTE-Input-ADRESSE-TA-Adresse-1-20231128-1--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-6590b6a0da436f743306",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 184,
+                      "column": 8
+                    },
+                    {
+                      "title": "Input [ADRESSE COMPLEMENT] = \"TA Adresse 2 20231128 /! #1 ';\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 415,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:27.103Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-78442-put-ADRESSE-COMPLEMENT-TA-Adresse-2-20231128-1--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-49f3979c9f6834a944ac",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 188,
+                      "column": 8
+                    },
+                    {
+                      "title": "Input [CODE POSTAL] = \"88888\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 425,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:27.519Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-6d0f5-ION-D-UN-LIEU-DE-VENTE-Input-CODE-POSTAL-88888--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-fbecb129230f614306b4",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 192,
+                      "column": 8
+                    },
+                    {
+                      "title": "Input [VILLE] = \"TA Ville Machin - /L'ile\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 343,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:27.946Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-58af3-U-DE-VENTE-Input-VILLE-TA-Ville-Machin---L-ile--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-00557de3f3f73d0572c5",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 196,
+                      "column": 8
+                    },
+                    {
+                      "title": "ListBox [REGION][rnd] - Select",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 567,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:28.290Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-bd875--D-UN-LIEU-DE-VENTE-ListBox-REGION-rnd---Select-Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-20127eafe2f7dd7fa050",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 200,
+                      "column": 8
+                    },
+                    {
+                      "title": "CheckBox [OUVERT DIMANCHE][rnd] - Select",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 126,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:28.860Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-9681e--DE-VENTE-CheckBox-OUVERT-DIMANCHE-rnd---Select-Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-30914357f6434dbcb48c",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 204,
+                      "column": 8
+                    },
+                    {
+                      "title": "ComboBox [CODE][rnd] - Click",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 779,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:28.987Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-76644-ON-D-UN-LIEU-DE-VENTE-ComboBox-CODE-rnd---Click-Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-e6340f775aac25e64c66",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 208,
+                      "column": 8
+                    },
+                    {
+                      "title": "DatePicker [DATE OUVERTURE] = \"Aujourd'hui\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 619,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:29.767Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-8a352-DE-VENTE-DatePicker-DATE-OUVERTURE-Aujourd-hui--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-14b996559569cf9d5f00",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 224,
+                      "column": 8
+                    },
+                    {
+                      "title": "Input [LATITUDE] = \"45.081378\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 404,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:30.389Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-5babe-ON-D-UN-LIEU-DE-VENTE-Input-LATITUDE-45-081378--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-dcf9e34465d51a953f51",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 229,
+                      "column": 8
+                    },
+                    {
+                      "title": "Input [LONGITUDE] = \"1.545757\"",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 361,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:30.795Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-d1935-ON-D-UN-LIEU-DE-VENTE-Input-LONGITUDE-1-545757--Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-fbb24010a5b4e391dcb6",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 233,
+                      "column": 8
+                    },
+                    {
+                      "title": "Button [ENREGISTRER] - Click",
+                      "ok": true,
+                      "tags": [],
+                      "tests": [
+                        {
+                          "timeout": 30000,
+                          "annotations": [],
+                          "expectedStatus": "passed",
+                          "projectId": "Chrome",
+                          "projectName": "Chrome",
+                          "results": [
+                            {
+                              "workerIndex": 0,
+                              "status": "passed",
+                              "duration": 399,
+                              "errors": [],
+                              "stdout": [],
+                              "stderr": [],
+                              "retry": 0,
+                              "startTime": "2023-11-28T11:58:31.157Z",
+                              "attachments": [
+                                {
+                                  "name": "trace",
+                                  "contentType": "application/zip",
+                                  "path": "C:\\pw\\playwright\\test-results\\SOC\\SOC-lieu_vente_creation--SOC-LVE-ADD-Page-LIEU-f61ad-N-D-UN-LIEU-DE-VENTE-Button-ENREGISTRER---Click-Chrome\\trace.zip"
+                                }
+                              ]
+                            }
+                          ],
+                          "status": "expected"
+                        }
+                      ],
+                      "id": "e733a1ee1c73e45804c0-cd71c5d06e7c1f1349b1",
+                      "file": "SOC/lieu_vente_creation.spec.ts",
+                      "line": 237,
+                      "column": 8
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "stats": {
+    "startTime": "2023-11-28T11:57:47.670Z",
+    "duration": 50469.193
+  }
+}

@@ -1,0 +1,23 @@
+{
+   "iNbCommande": 15,
+   "iNbPrevision": 30,
+   "sDateLivraison": "24",
+   "sArticle": {
+      "M63A": {
+         "iNbCommande": 5,
+         "iNbPrevision": 10
+      },
+      "M683": {
+         "iNbCommande": 5,
+         "iNbPrevision": 10
+      },
+      "M729": {
+         "iNbCommande": 1,
+         "iNbPrevision": 2
+      },
+      "M678": {
+         "iNbCommande": 1,
+         "iNbPrevision": 2
+      }
+   }
+}

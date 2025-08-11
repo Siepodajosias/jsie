@@ -1,0 +1,27 @@
+{
+    "FOURNISSEUR" : {
+        "NOM"           : "TA_Fournisseur-IT",
+        "ADRESSE"       : "TA-Adresse-IT",
+        "CODE_POSTAL"   : "36047",
+        "COMMUNE"       : "TA_commune-IT",
+        "EMAIL"         : "test.auto.IT@fournisseur.com",
+        "TELEPHONE"     : "0444636290",
+        "FAX"           : "0444636299",
+        "VILLE"         : "montegalda",
+        "PAYS"          : "Italie",
+        "COMMENTAIRE"   : "TEST-AUTOMATICO commento IT % < é \\' #",
+        "COMPLEMENT"    : "Via del Frutti e Verdura",
+        "REGIME"        : "Italien sur place",
+        "LANGUE"        : "Italien",
+        "DEVISE"        : "Euro",   
+        "TVA_INTRA"     : "IT 5824 220 188 53",
+        "SIREN"         : "422018853",    
+        "CENTRALE_ACHAT": "Prosol Acquisti SRL",
+        "INTRO_MARCHAND": "Italie",
+        "COLLECTIF"     : "HorsGroupe",
+        "TYPOLOGIE"     : "Autres structures",
+        "SOCIETE"       : "TA_Societe",
+        "MODE_ENV_CMDE" : "Email avec PDF"
+    },
+    "AGREAGE_AUTO"  : false
+}

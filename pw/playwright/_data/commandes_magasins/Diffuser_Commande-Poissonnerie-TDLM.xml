@@ -1,0 +1,973 @@
+<commande>
+    <typeCommande>STANDARD</typeCommande>
+    <labelAssortiment>Traiteur de la mer Cremcentre (Traiteur de la mer)</labelAssortiment>
+    <codeGroupeArticle>02</codeGroupeArticle>
+    <codeMagasin>ToChangeMagasinPO</codeMagasin>
+    <dateReception>ToChangeDateReception</dateReception>
+    <dateLivraison>ToChangeDateLivraison</dateLivraison>
+    <dateExpedition>ToChangeDateReelExpedition</dateExpedition>
+    <dateLivraisonPrevision>ToChangeDatelivraisonPrevision</dateLivraisonPrevision>
+    <dateExpeditionPrevision>ToChangeDateExpeditionPrevision</dateExpeditionPrevision>
+    <articles>
+        <article>
+            <codeArticle>T191</codeArticle>
+            <designationArticle>Aïoli 110g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008600</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T216</codeArticle>
+            <designationArticle>Dés de truite fumée 100g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>012635</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T395</codeArticle>
+            <designationArticle>Sauce Citron Aneth 200g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.46</qteStock>
+            <conditionnement>CA x 24 Unité(s)</conditionnement>
+            <codeConditionnement>025620</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T454</codeArticle>
+            <designationArticle>Pain Pita Nature x4 120g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.42</qteStock>
+            <conditionnement>CA x 12 Unité(s)</conditionnement>
+            <codeConditionnement>028502</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T467</codeArticle>
+            <designationArticle>Mini Tartes Truite &amp; Poireaux x6 120g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>031598</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T492</codeArticle>
+            <designationArticle>Tielles sétoises* x2 125g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>032453</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T429</codeArticle>
+            <designationArticle>Surimi Premium MSC 200g</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CA x 12 Unité(s)</conditionnement>
+            <codeConditionnement>027779</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T291</codeArticle>
+            <designationArticle>Aiguillettes Cabillaud Pané* 210g</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.25</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>016357</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T457</codeArticle>
+            <designationArticle>Filet de Colin d'Alaska* 440g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028419</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T485</codeArticle>
+            <designationArticle>Mini-Cakes : St Jacques x12 180g OP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>031615</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T329</codeArticle>
+            <designationArticle>Coeur saumon festif 300g Norvège ASC</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>019788</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T293</codeArticle>
+            <designationArticle>! coeur de saumon fumé citron basilic 150g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.4</qteStock>
+            <conditionnement>CA x 5 Unité(s)</conditionnement>
+            <codeConditionnement>016353</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T447</codeArticle>
+            <designationArticle>Dés Saumon : Sésame Pavot 90g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.83</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028558</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T417</codeArticle>
+            <designationArticle>Verr Truite Mousse* x6 240g OP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025608</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T401</codeArticle>
+            <designationArticle>Lasagnes Saum Poireaux* 450g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025625</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T167</codeArticle>
+            <designationArticle>Parmentier de Saumon* 750g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>3.25</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>008538</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T414</codeArticle>
+            <designationArticle>Duo Cake Saumon Thon* 260g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025920</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T00A</codeArticle>
+            <designationArticle>Croûtons Nature 100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.3</qteStock>
+            <conditionnement>CA x 20 Unité(s)</conditionnement>
+            <codeConditionnement>005569</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T084</codeArticle>
+            <designationArticle>Oeuf de saumon sauvage 80g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>005562</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T133</codeArticle>
+            <designationArticle>Saumon fumé Ecosse 15tchs  600g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>006697</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T044</codeArticle>
+            <designationArticle>Filets de Maquereaux Fumés Poivre 200g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>005558</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T147</codeArticle>
+            <designationArticle>Saumon fumé EG 160g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CA x 12 Unité(s)</conditionnement>
+            <codeConditionnement>006924</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T313</codeArticle>
+            <designationArticle>Pavé Saumon Fumé Ficelle* 125g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>019206</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T408</codeArticle>
+            <designationArticle>Falafels Nature* 195g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025604</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T488</codeArticle>
+            <designationArticle>Saumon fumé 400 g Prix malin</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>031613</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T158</codeArticle>
+            <designationArticle>Anchois à l'ail et au persil 120g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.88</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008527</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T470</codeArticle>
+            <designationArticle>Poulpe à la Galicienne* 450g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>032024</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T017</codeArticle>
+            <designationArticle>Filet de Limande Meunière* 200g</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>4.33</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>005384</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T309</codeArticle>
+            <designationArticle>Thon fumé tranché 100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>019203</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T230</codeArticle>
+            <designationArticle>Feuilletés Saumon Epinards* 240g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.75</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>013083</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T431</codeArticle>
+            <designationArticle>! Coeur Filet Hareng : Piment Persil 200g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.2</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>028553</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T201</codeArticle>
+            <designationArticle>Jus de citron 250ml</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4.5</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008868</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T202</codeArticle>
+            <designationArticle>Saumon fumé écosse 4 tranches 160g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.1</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>008959</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T399</codeArticle>
+            <designationArticle>Coeur de Truite Ail des Ours 130g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025622</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T136</codeArticle>
+            <designationArticle>Truite Fumée France 4 tch 160g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.2</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>006704</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T437</codeArticle>
+            <designationArticle>Tapas à l'Italienne 120g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.63</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>028540</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T008</codeArticle>
+            <designationArticle>Soupe Rouge Label Rouge 780g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.33</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>005570</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T143</codeArticle>
+            <designationArticle>Mini Tielles* 165g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>006699</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T119</codeArticle>
+            <designationArticle>Verr Crev Légumes x6 240g OP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>026003</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T285</codeArticle>
+            <designationArticle>Paëlla* 800g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.83</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>016365</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T486</codeArticle>
+            <designationArticle>Mini-Cakes : Saumon x12 180g OP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>031616</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T441</codeArticle>
+            <designationArticle>Beignets de Morue* 240g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>15</qtePrevue>
+            <qteStock>2.33</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028525</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T493</codeArticle>
+            <designationArticle>Tielles sétoises* x4 125g OP</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>10</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>032582</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T439</codeArticle>
+            <designationArticle>Crevettes* déco piment 120g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.83</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028543</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T394</codeArticle>
+            <designationArticle>Sauce Beurre Citron 200g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CA x 24 Unité(s)</conditionnement>
+            <codeConditionnement>025619</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T465</codeArticle>
+            <designationArticle>Cabillaud* à tartiner 130g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>031600</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T087</codeArticle>
+            <designationArticle>Farandole du marché provençal 240g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CA x 12 Unité(s)</conditionnement>
+            <codeConditionnement>005433</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T462</codeArticle>
+            <designationArticle>Mayonnaise 220g OP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 12 Unité(s)</conditionnement>
+            <codeConditionnement>030344</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T330</codeArticle>
+            <designationArticle>Saumon Gravelax 8tchs*</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>019789</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T217</codeArticle>
+            <designationArticle>Coeur de saumon fumé à la truffe 150g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 5 Unité(s)</conditionnement>
+            <codeConditionnement>013057</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T338</codeArticle>
+            <designationArticle>Offre soupe + rouille offerte 870g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 12 Unité(s)</conditionnement>
+            <codeConditionnement>021673</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T392</codeArticle>
+            <designationArticle>Rosace Crevettes Cocktail 140g*</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>024986</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T466</codeArticle>
+            <designationArticle>Truite* fumée &amp; Hoki à tartiner 130g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>031599</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T118</codeArticle>
+            <designationArticle>Verr Truite Légumes x6 240g OP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>026002</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T301</codeArticle>
+            <designationArticle>Croûtons ail 100g</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.45</qteStock>
+            <conditionnement>CA x 20 Unité(s)</conditionnement>
+            <codeConditionnement>017211</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T328</codeArticle>
+            <designationArticle>Truite fumée tranchée intercalaire 400g Origine Norvège</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>019783</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T356</codeArticle>
+            <designationArticle>Truite marinée basilic 140g*</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>022227</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T398</codeArticle>
+            <designationArticle>Truite de Mer (Bretagne) 120g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.1</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>025628</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T440</codeArticle>
+            <designationArticle>Empanadas Saumon* 175g</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028524</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T165</codeArticle>
+            <designationArticle>Brandade de Morue* Gratinée 800g</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>008537</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T060</codeArticle>
+            <designationArticle>! Hareng à la crème 400g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>005557</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T468</codeArticle>
+            <designationArticle>Tajine de Cabillaud* et son couscous 750g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CA x 3 Unité(s)</conditionnement>
+            <codeConditionnement>032029</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T122</codeArticle>
+            <designationArticle>Saumon Fumé Ficelle 4 tch 160g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>006341</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T188</codeArticle>
+            <designationArticle>Râpé de surimi saveur crabe 200g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CA x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008595</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T420</codeArticle>
+            <designationArticle>Tarama Premium* 115+85g offert OP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025990</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T081</codeArticle>
+            <designationArticle>Mini blini x16 + 4 offerts 169g OP</designationArticle>
+            <qteCommandee>5</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>005368</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T425</codeArticle>
+            <designationArticle>Mini St Jacques* farcies x20 320g OP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>026006</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T410</codeArticle>
+            <designationArticle>Empanadas Thon* 175g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>4.5</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025607</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T181</codeArticle>
+            <designationArticle>Acras de Morue 280g</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008569</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T279</codeArticle>
+            <designationArticle>Tartinable à la Grecque* 175g</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>016362</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T171</codeArticle>
+            <designationArticle>Tielles Sétoises* 500g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>008534</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T085</codeArticle>
+            <designationArticle>Oeufs de Truite 80g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>013065</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T471</codeArticle>
+            <designationArticle>Gratin d'encornets* 800g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CA x 2 Unité(s)</conditionnement>
+            <codeConditionnement>032025</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T432</codeArticle>
+            <designationArticle>Coeur Filet Hareng : Epices Douces 200g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.6</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>028554</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T424</codeArticle>
+            <designationArticle>Moules farcies x20* 270g OP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>026005</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T247</codeArticle>
+            <designationArticle>Pâté croûte de saumon à trancher  430g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.9</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>014057</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T307</codeArticle>
+            <designationArticle>Thon fromage frais 115g *</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>019197</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T339</codeArticle>
+            <designationArticle>Babaganoush* 165g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>022222</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T214</codeArticle>
+            <designationArticle>Chaussons au Thon* 2x140g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025004</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T146</codeArticle>
+            <designationArticle>Blinis x4 140g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>006703</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T065</codeArticle>
+            <designationArticle>Filets de Harengs Terrine 500g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>005559</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T132</codeArticle>
+            <designationArticle>Brisures de saumon fumé 180g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.1</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>006696</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T186</codeArticle>
+            <designationArticle>Bâtonnets saveur crabe 400g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.93</qteStock>
+            <conditionnement>CA x 15 Unité(s)</conditionnement>
+            <codeConditionnement>008587</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T393</codeArticle>
+            <designationArticle>Coeur Saumon Fumé Citron Basilic 300g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>025214</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T434</codeArticle>
+            <designationArticle>Sauce marinière 200g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CA x 24 Unité(s)</conditionnement>
+            <codeConditionnement>028537</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T473</codeArticle>
+            <designationArticle>Risotto aux deux saumons* 800g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CA x 2 Unité(s)</conditionnement>
+            <codeConditionnement>032026</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T411</codeArticle>
+            <designationArticle>Mini Blinis Sarrasin Pavot x16 135g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>025609</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T062</codeArticle>
+            <designationArticle>Filets de Hareng Doux LABEL ROUGE 200g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.6</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>014714</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T404</codeArticle>
+            <designationArticle>Rillettes Saum Aneth* 125g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025617</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T481</codeArticle>
+            <designationArticle>Saumon fumé bio Ecosse 260 g 8 tch</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>031609</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T138</codeArticle>
+            <designationArticle>Saumon fumé sauvage 400g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>006817</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T344</codeArticle>
+            <designationArticle>Fmg Frais : Saumon* 115g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>022250</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T391</codeArticle>
+            <designationArticle>Calamars à la Catalane 120g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>024815</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T318</codeArticle>
+            <designationArticle>Truite Bio Fumée France 4 tch 100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.4</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>019212</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T397</codeArticle>
+            <designationArticle>Emincés Saumon Persil Citron Basilic 100g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.4</qteStock>
+            <conditionnement>CA x 10 Unité(s)</conditionnement>
+            <codeConditionnement>025624</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>T157</codeArticle>
+            <designationArticle>Poulpes au pesto vert 120g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.25</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008526</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+    </articles>
+</commande>

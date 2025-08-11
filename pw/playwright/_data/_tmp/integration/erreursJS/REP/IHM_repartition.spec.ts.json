@@ -1,0 +1,20 @@
+[
+    {
+        "URL": "http://repartition.int.sigale.prosol.pri/ws/securite",
+        "URL_FULL": "http://repartition.int.sigale.prosol.pri/ws/securite",
+        "TEST": "Connexion",
+        "MESSAGE": "Failed to load resource: the server responded with a status of 403 ()"
+    },
+    {
+        "URL": "http://repartition.int.sigale.prosol.pri/ws/repartitions/plateformes/CHA/rayons/02/erreurs",
+        "URL_FULL": "http://repartition.int.sigale.prosol.pri/ws/repartitions/plateformes/CHA/rayons/02/erreurs?codeGroupe=01&majDateConsultation=false",
+        "TEST": "ListBox [RAYON] = \"Fruits et légumes\"",
+        "MESSAGE": "Failed to load resource: the server responded with a status of 404 ()"
+    },
+    {
+        "URL": "http://repartition.int.sigale.prosol.pri/scripts.a2c6391e936afd31.js",
+        "URL_FULL": "http://repartition.int.sigale.prosol.pri/scripts.a2c6391e936afd31.js",
+        "TEST": "Déconnexion",
+        "MESSAGE": "TypeError: Cannot read properties of undefined (reading 'langue')\n    at i.determinerLangueAUtiliser (http://repartition.int.sigale.prosol.pri/main.e2e6d28d7167b689.js:1:46453)\n    at http://repartition.int.sigale.prosol.pri/main.e2e6d28d7167b689.js:1:46284\n    at Array.find (<anonymous>)\n    at i.peutTraduireMessage (http://repartition.int.sigale.prosol.pri/main.e2e6d28d7167b689.js:1:46255)\n    at template (http://repartition.int.sigale.prosol.pri/main.e2e6d28d7167b689.js:1:50744)\n    at Xg (http://repartition.int.sigale.prosol.pri/vendor.1bff24940bc84279.js:1:3200165)\n    at kb (http://repartition.int.sigale.prosol.pri/vendor.1bff24940bc84279.js:1:3210443)\n    at kd (http://repartition.int.sigale.prosol.pri/vendor.1bff24940bc84279.js:1:3211869)\n    at A2 (http://repartition.int.sigale.prosol.pri/vendor.1bff24940bc84279.js:1:3211685)\n    at x3 (http://repartition.int.sigale.prosol.pri/vendor.1bff24940bc84279.js:1:3211647)"
+    }
+]

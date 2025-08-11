@@ -1,0 +1,23 @@
+﻿Exercice;Code DE;Direction d'exploitation;Code LV;Lieu de vente;Code regroupement;Regroupement;Code poste;Poste;Code contrat;Contrat;Coût ETP mensuel;Coût horaire heures normales;Coût horaire heures supp.;Nb heures semaine
+2026;BCV;Grand Frais BCV;G585;Bretigny;BCV;Grand Frais BCV;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;BCV;Grand Frais BCV;G585;Bretigny;BCV;Grand Frais BCV;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G585;Bretigny;BCV;Grand Frais BCV;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G585;Bretigny;BCV;Grand Frais BCV;AD;Adjoint;CDI;CDI;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G585;Bretigny;BCV;Grand Frais BCV;AC;Adjoint cadre;CDI;CDI;7000;;;
+2026;BCV;Grand Frais BCV;G585;Bretigny;BCV;Grand Frais BCV;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G585;Bretigny;BCV;Grand Frais BCV;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;BCV;Grand Frais BCV;G585;Bretigny;BCV;Grand Frais BCV;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G585;Bretigny;BCV;Grand Frais BCV;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;BCV;Grand Frais BCV;G222;Frenes;BCV;Grand Frais BCV;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;BCV;Grand Frais BCV;G222;Frenes;BCV;Grand Frais BCV;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G222;Frenes;BCV;Grand Frais BCV;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G222;Frenes;BCV;Grand Frais BCV;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;BCV;Grand Frais BCV;G223;Orsay;BCV;Grand Frais BCV;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;BCV;Grand Frais BCV;G223;Orsay;BCV;Grand Frais BCV;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G223;Orsay;BCV;Grand Frais BCV;AD;Adjoint;CDI;CDI;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G223;Orsay;BCV;Grand Frais BCV;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G223;Orsay;BCV;Grand Frais BCV;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G571;Saulx;BCV;Grand Frais BCV;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;BCV;Grand Frais BCV;G571;Saulx;BCV;Grand Frais BCV;AD;Adjoint;CDI;CDI;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G571;Saulx;BCV;Grand Frais BCV;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;BCV;Grand Frais BCV;G571;Saulx;BCV;Grand Frais BCV;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23

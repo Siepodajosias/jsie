@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".", // This must be specified if "paths" is.
+    "paths": {
+    "@pom/*"    : ["pages/*"],
+    "@helpers/*": ["utils/*"],
+    "@conf/*"   : ["conf/*"],      
+    "@data/*"   : ["_data/*"],      
+    "@tmp/*"    : ["_data/_tmp/*"],      
+    "@commun/*" : ["_common/*"],      
+    },
+    "typeRoots": ["./node_modules/@types", "_common/types"]
+  }
+}

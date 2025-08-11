@@ -1,0 +1,1684 @@
+<commande>
+    <typeCommande>STANDARD</typeCommande>
+    <labelAssortiment>Crèmerie autre LS (Frais LS)</labelAssortiment>
+    <codeGroupeArticle>05</codeGroupeArticle>
+    <codeMagasin>ToChangeMagasinCR</codeMagasin>
+    <dateReception>ToChangeDateReception</dateReception>
+    <dateExpedition>ToChangeDateReelExpedition</dateExpedition>
+    <dateLivraisonPrevision>ToChangeDatelivraisonPrevision</dateLivraisonPrevision>
+    <dateExpeditionPrevision>ToChangeDateExpeditionPrevision</dateExpeditionPrevision>
+    <articles>
+        <article>
+            <codeArticle>L0BI</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017116</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L494</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.58</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007889</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L794</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.08</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008179</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L455</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.4</qteStock>
+            <conditionnement>CO x 15 Unité(s)</conditionnement>
+            <codeConditionnement>007816</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L00B</codeArticle>
+            <qteCommandee>99</qteCommandee>
+            <qtePrevue>88</qtePrevue>
+            <qteStock>77</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008500</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L00F</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008512</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L239</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.1</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>007481</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L558</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.31</qteStock>
+            <conditionnement>CO x 16 Boîte(s) x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008035</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L795</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008178</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L023</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.44</qteStock>
+            <conditionnement>CO x 16 Pièce(s) x 240 Gr</conditionnement>
+            <codeConditionnement>007213</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L03S</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>012193</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L069</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007239</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0FY</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.25</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>018889</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L026</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007216</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L070</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.63</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007240</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L02K</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.1</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>009019</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L015</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.94</qteStock>
+            <conditionnement>CO x 18 Unité(s)</conditionnement>
+            <codeConditionnement>007184</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BS</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017238</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L375</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007705</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L719</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007920</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L590</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.58</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008106</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BH</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017117</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0CN</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 12 Pièce(s) x 400 Gr</conditionnement>
+            <codeConditionnement>017445</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L066</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007236</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0CS</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.63</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>017451</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L218</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.3</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>007454</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L00A</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008505</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L831</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007904</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BB</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017123</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L08M</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.58</qteStock>
+            <conditionnement>CO x 12 Pièce(s) x 300 Gr</conditionnement>
+            <codeConditionnement>015247</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L203</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.6</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>007439</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L354</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007647</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L600</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008140</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L197</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 9 Unité(s)</conditionnement>
+            <codeConditionnement>007433</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L560</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008042</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0CO</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 14 Pièce(s) x 300 Gr</conditionnement>
+            <codeConditionnement>017446</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L079</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.08</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007251</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L865</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.63</qteStock>
+            <conditionnement>CO x 16 Unité(s)</conditionnement>
+            <codeConditionnement>008346</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L04U</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.46</qteStock>
+            <conditionnement>CO x 24 Unité(s)</conditionnement>
+            <codeConditionnement>017867</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L722</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007919</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L05K</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>013214</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L416</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007764</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L456</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 25 Unité(s)</conditionnement>
+            <codeConditionnement>007817</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L01Y</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.92</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008891</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L04W</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.92</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>013150</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L396</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007740</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L09R</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>016631</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L240</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>007478</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L576</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008070</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L01A</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.21</qteStock>
+            <conditionnement>CO x 14 Unité(s)</conditionnement>
+            <codeConditionnement>008762</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L08P</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>015276</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0DS</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>017718</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L568</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008060</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L549</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007997</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L405</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007759</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L234</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007471</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0A2</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 24 Unité(s)</conditionnement>
+            <codeConditionnement>016608</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L404</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.92</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007758</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L013</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007208</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L550</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007996</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L00Z</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008761</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0CV</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.13</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>017453</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L353</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007646</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BF</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017119</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L657</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.13</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008247</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BW</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017246</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L042</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.33</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007229</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L192</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007427</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L01Z</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.58</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008892</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L589</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008105</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L394</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>005254</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0CQ</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.58</qteStock>
+            <conditionnement>CO x 12 Pièce(s) x 250 Gr</conditionnement>
+            <codeConditionnement>017448</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L07P</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>014903</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L00H</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 3 Unité(s)</conditionnement>
+            <codeConditionnement>008518</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L130</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.7</qteStock>
+            <conditionnement>CO x 10 Boîte(s) x 20 Unité(s)</conditionnement>
+            <codeConditionnement>007334</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L559</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008043</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L523</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>007935</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L522</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.1</qteStock>
+            <conditionnement>CO x 40 Unité(s)</conditionnement>
+            <codeConditionnement>007936</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L08V</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.38</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>016480</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L786</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.1</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>008117</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L301</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.92</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007540</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L802</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.88</qteStock>
+            <conditionnement>CO x 16 Unité(s)</conditionnement>
+            <codeConditionnement>008170</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L833</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007906</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L820</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008265</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L075</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>007245</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L537</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.44</qteStock>
+            <conditionnement>CO x 16 Boîte(s) x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007955</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L355</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007648</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L237</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007475</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L077</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>007247</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L720</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>007924</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L033</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007661</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L372</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>007702</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L718</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.08</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007923</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L230</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.25</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007466</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L842</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008334</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L593</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.42</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008109</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L519</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007932</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BY</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017249</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0DR</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>017717</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L538</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007982</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BV</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017244</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L745</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>8.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007960</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L185</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 2 Unité(s)</conditionnement>
+            <codeConditionnement>007418</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L043</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007230</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L388</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007727</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L836</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007909</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L05Z</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.06</qteStock>
+            <conditionnement>CO x 16 Unité(s)</conditionnement>
+            <codeConditionnement>013338</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L400</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007753</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L387</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007726</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L644</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.08</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008226</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L154</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.42</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007382</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L00D</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.75</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>008509</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L055</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>58</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007366</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L788</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.4</qteStock>
+            <conditionnement>CO x 20 Pièce(s) x 500 Gr</conditionnement>
+            <codeConditionnement>008115</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L728</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>16.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008021</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L467</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.47</qteStock>
+            <conditionnement>CO x 126 Unité(s)</conditionnement>
+            <codeConditionnement>007831</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L843</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.92</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008335</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L834</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007907</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L05H</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.95</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>013177</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L06Z</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.56</qteStock>
+            <conditionnement>CO x 16 Unité(s)</conditionnement>
+            <codeConditionnement>014358</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L386</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.88</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007721</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L793</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.88</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>018274</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L127</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 3 Unité(s)</conditionnement>
+            <codeConditionnement>007328</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L164</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007396</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L832</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007905</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L219</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.9</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>007455</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BE</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017120</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L056</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007220</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0DP</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.08</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>017719</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L058</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.63</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007225</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L553</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008008</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L001</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007206</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L060</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007227</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L591</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008107</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L09K</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>016469</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0CW</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>017454</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L485</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>007871</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L01J</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008787</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L371</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>007701</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L385</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.08</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007720</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L08Q</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>015277</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L022</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.44</qteStock>
+            <conditionnement>CO x 16 Pièce(s) x 300 Gr</conditionnement>
+            <codeConditionnement>007214</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L785</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.92</qteStock>
+            <conditionnement>CO x 24 Unité(s)</conditionnement>
+            <codeConditionnement>008116</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L835</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007908</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L076</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>007246</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L592</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008108</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L392</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>CO x 10 Pièce(s) x 250 Gr</conditionnement>
+            <codeConditionnement>007734</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L208</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.29</qteStock>
+            <conditionnement>CO x 7 Unité(s)</conditionnement>
+            <codeConditionnement>007444</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0CU</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.63</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>017452</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L598</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008138</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L800</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 16 Unité(s)</conditionnement>
+            <codeConditionnement>008168</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L803</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.19</qteStock>
+            <conditionnement>CO x 16 Unité(s)</conditionnement>
+            <codeConditionnement>008167</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L186</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007420</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L398</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>007742</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L545</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.58</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007990</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L747</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007961</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L01K</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>008788</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0CX</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.41</qteStock>
+            <conditionnement>CO x 17 Unité(s)</conditionnement>
+            <codeConditionnement>017521</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L539</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.83</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007981</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L801</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.69</qteStock>
+            <conditionnement>CO x 16 Unité(s)</conditionnement>
+            <codeConditionnement>008169</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L03R</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>012194</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BU</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017243</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L01P</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>008859</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L841</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008322</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L362</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007674</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L746</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007962</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L097</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.25</qteStock>
+            <conditionnement>CO x 20 Pièce(s) x 500 Gr</conditionnement>
+            <codeConditionnement>007282</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L241</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.58</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007489</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0FX</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>018888</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L821</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.38</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008266</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L323</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.75</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007610</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L018</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.22</qteStock>
+            <conditionnement>CO x 9 Unité(s)</conditionnement>
+            <codeConditionnement>007185</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L547</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007991</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L08O</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>015275</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L596</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>CO x 15 Unité(s)</conditionnement>
+            <codeConditionnement>008136</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L787</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.35</qteStock>
+            <conditionnement>CO x 40 Pièce(s) x 250 Gr</conditionnement>
+            <codeConditionnement>008114</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L063</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007233</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L06F</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>014105</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L00E</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>008511</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L032</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.16</qteStock>
+            <conditionnement>CO x 32 Unité(s)</conditionnement>
+            <codeConditionnement>007199</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0CT</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>017478</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L07A</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.4</qteStock>
+            <conditionnement>CO x 25 Unité(s)</conditionnement>
+            <codeConditionnement>014357</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L525</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.2</qteStock>
+            <conditionnement>CO x 10 Boîte(s) x 20 Unité(s)</conditionnement>
+            <codeConditionnement>007938</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L08W</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>016231</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L704</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.38</qteStock>
+            <conditionnement>CO x 26 Unité(s)</conditionnement>
+            <codeConditionnement>008310</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L061</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007228</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0GC</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.96</qteStock>
+            <conditionnement>CO x 24 Boîte(s) x 4 Unité(s)</conditionnement>
+            <codeConditionnement>018698</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L350</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007641</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L706</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008314</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L09L</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>016470</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L06G</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 16 Unité(s)</conditionnement>
+            <codeConditionnement>014067</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L05G</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 20 Unité(s)</conditionnement>
+            <codeConditionnement>013176</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BC</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017122</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0BX</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017248</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L401</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007754</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L00N</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008662</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0DX</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 9 Unité(s)</conditionnement>
+            <codeConditionnement>018300</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L415</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007763</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L129</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.9</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>007333</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L246</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>007487</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L395</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007739</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L705</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.63</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008311</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L721</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>007925</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L541</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>007963</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L0CR</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 12 Unité(s)</conditionnement>
+            <codeConditionnement>017450</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L245</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.14</qteStock>
+            <conditionnement>CO x 14 Unité(s)</conditionnement>
+            <codeConditionnement>007483</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L02O</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.38</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>009041</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L847</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>008095</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>L009</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007179</codeConditionnement>
+        </article>
+    </articles>
+</commande>

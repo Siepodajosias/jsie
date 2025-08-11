@@ -1,0 +1,19 @@
+{
+   "iNbCommande": 15,
+   "iNbPrevision": 30,
+   "sDateLivraison": "29",
+   "sArticle": {
+      "M60Z": {
+         "iNbCommande": 5,
+         "iNbPrevision": 10
+      },
+      "M63A": {
+         "iNbCommande": 5,
+         "iNbPrevision": 10
+      },
+      "M64X": {
+         "iNbCommande": 5,
+         "iNbPrevision": 10
+      }
+   }
+}

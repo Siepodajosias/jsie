@@ -1,0 +1,72 @@
+﻿Exercice;Code DE;Direction d'exploitation;Code LV;Lieu de vente;Code regroupement;Regroupement;Code poste;Poste;Code contrat;Contrat;Coût ETP mensuel;Coût horaire heures normales;Coût horaire heures supp.;Nb heures semaine
+2026;CR;Grand Frais Cremerie;G585;Bretigny;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G585;Bretigny;GF_CR;Grand Frais Cremerie;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G585;Bretigny;GF_CR;Grand Frais Cremerie;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G585;Bretigny;GF_CR;Grand Frais Cremerie;AD;Adjoint;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G585;Bretigny;GF_CR;Grand Frais Cremerie;AC;Adjoint cadre;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G585;Bretigny;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G585;Bretigny;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;CR;Grand Frais Cremerie;G585;Bretigny;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G585;Bretigny;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;CR;Grand Frais Cremerie;G222;Frenes;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G222;Frenes;GF_CR;Grand Frais Cremerie;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G222;Frenes;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G222;Frenes;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;CR;Grand Frais Cremerie;G223;Orsay;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G223;Orsay;GF_CR;Grand Frais Cremerie;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G223;Orsay;GF_CR;Grand Frais Cremerie;AD;Adjoint;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G223;Orsay;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G223;Orsay;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G571;Saulx;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G571;Saulx;GF_CR;Grand Frais Cremerie;AD;Adjoint;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G571;Saulx;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G571;Saulx;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;CR;Grand Frais Cremerie;G221;Biarritz;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G221;Biarritz;GF_CR;Grand Frais Cremerie;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G221;Biarritz;GF_CR;Grand Frais Cremerie;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G221;Biarritz;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G221;Biarritz;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;CR;Grand Frais Cremerie;G221;Biarritz;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G221;Biarritz;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;CR;Grand Frais Cremerie;G217;Bizanos;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G217;Bizanos;GF_CR;Grand Frais Cremerie;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G217;Bizanos;GF_CR;Grand Frais Cremerie;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G217;Bizanos;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G217;Bizanos;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;CR;Grand Frais Cremerie;G217;Bizanos;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G217;Bizanos;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;CR;Grand Frais Cremerie;G192;Pau;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G192;Pau;GF_CR;Grand Frais Cremerie;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G192;Pau;GF_CR;Grand Frais Cremerie;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G192;Pau;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G192;Pau;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;CR;Grand Frais Cremerie;G192;Pau;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G192;Pau;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;CR;Grand Frais Cremerie;G213;Semeac;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G213;Semeac;GF_CR;Grand Frais Cremerie;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G213;Semeac;GF_CR;Grand Frais Cremerie;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G213;Semeac;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G213;Semeac;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;CR;Grand Frais Cremerie;G213;Semeac;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G213;Semeac;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;CR;Grand Frais Cremerie;G237;St paul les dax;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G237;St paul les dax;GF_CR;Grand Frais Cremerie;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G237;St paul les dax;GF_CR;Grand Frais Cremerie;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G237;St paul les dax;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G237;St paul les dax;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;CR;Grand Frais Cremerie;G237;St paul les dax;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G237;St paul les dax;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;CR;Grand Frais Cremerie;G191;St pierre;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G191;St pierre;GF_CR;Grand Frais Cremerie;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G191;St pierre;GF_CR;Grand Frais Cremerie;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G191;St pierre;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G191;St pierre;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;CR;Grand Frais Cremerie;G191;St pierre;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G191;St pierre;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23
+2026;CR;Grand Frais Cremerie;G287;Tarbes;GF_CR;Grand Frais Cremerie;RR;Responsable de rayon;CDI;CDI;7000;;;
+2026;CR;Grand Frais Cremerie;G287;Tarbes;GF_CR;Grand Frais Cremerie;SE;Second;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G287;Tarbes;GF_CR;Grand Frais Cremerie;SE;Second;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G287;Tarbes;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDI;CDI;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G287;Tarbes;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;INT;Intérim;;19;;
+2026;CR;Grand Frais Cremerie;G287;Tarbes;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CAP;CAP/PRO;1900,4;;23,375;23
+2026;CR;Grand Frais Cremerie;G287;Tarbes;GF_CR;Grand Frais Cremerie;VG;Vendeur/gondolier;CDD;CDD;;19;23,375;23

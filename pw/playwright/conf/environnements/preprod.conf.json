@@ -1,0 +1,21 @@
+{
+    "URL": {
+        "ACH" : "http://app1.preprod.sigale.prosol.pri:9084/",
+        "BUD" : "http://app1.preprod.sigale.prosol.pri:9096/",
+        "DON" : "http://app1.preprod.sigale.prosol.pri:9095/",
+        "FAC" : "http://app1.preprod.sigale.prosol.pri:9086/",
+        "MAG" : "http://app1.preprod.sigale.prosol.pri:9087/",
+        "NOM" : "http://app1.preprod.sigale.prosol.pri:9082/",
+        "PBK" : "http://app1.preprod.sigale.prosol.pri:9091/",
+        "PRE" : "http://app1.preprod.sigale.prosol.pri:9080/",
+        "PRI" : "http://app1.preprod.sigale.prosol.pri:9085/",
+        "QUA" : "http://app1.preprod.sigale.prosol.pri:9394/",
+        "REP" : "http://app1.preprod.sigale.prosol.pri:9081/",
+        "SOC" : "http://app1.preprod.sigale.prosol.pri:9092/",
+        "STO" : "http://app1.preprod.sigale.prosol.pri:9083/",
+        "TRA" : "http://app1.preprod.sigale.prosol.pri:9088/"
+    },
+    "SIGALE_VERSIONS" : "http://sigale-version.prosol.pri:1337/api/versions/environment/Prep/current",
+    "ESB" : "http://esb-avs.prep.sigale.prosol.pri:9093/",
+    "PREFIXE" : "PREP"
+}

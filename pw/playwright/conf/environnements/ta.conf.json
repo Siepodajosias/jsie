@@ -1,0 +1,21 @@
+{
+    "URL": {
+        "ACH" : "http://achats-app.ta.sigale.prosol.pri:9084/",
+        "BUD" : "http://budgets.ta.sigale.prosol.pri/",
+        "DON" : "http://dons.ta.sigale.prosol.pri/",
+        "FAC" : "http://facturation-app.ta.sigale.prosol.pri:9086/",
+        "MAG" : "http://magasin.ta.sigale.prosol.pri/",
+        "NOM" : "http://nomenclature.ta.sigale.prosol.pri/",
+        "PBK" : "http://app1.ta.sigale.prosol.pri:9091/",
+        "PRE" : "http://preparation.ta.sigale.prosol.pri/",
+        "PRI" : "http://pricing.ta.sigale.prosol.pri/",
+        "QUA" : "http://qualite.ta.sigale.prosol.pri/",
+        "REP" : "http://repartition.ta.sigale.prosol.pri/",
+        "SOC" : "http://societes.ta.sigale.prosol.pri/",
+        "STO" : "http://stock.ta.sigale.prosol.pri/",
+        "TRA" : "http://traduction.ta.sigale.prosol.pri"
+    },
+    "SIGALE_VERSIONS" : "http://sigale-version.prosol.pri:1337/api/versions/environment/TA/current",
+    "ESB" : "http://esb1.ta.sigale.prosol.pri:9093",
+    "PREFIXE" : "TA"
+}

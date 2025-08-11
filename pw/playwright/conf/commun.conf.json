@@ -1,0 +1,40 @@
+{
+    "trigramme": {
+        "ACH" : "Achats",
+        "BUD" : "Budgets",
+        "DON" : "Dons",
+        "FAC" : "Facturation",
+        "MAG" : "Magasin",
+        "NOM" : "Nomenclature",
+        "PRE" : "Preparation",
+        "PRI" : "Pricing",
+        "QUA" : "Qualite",
+        "REP" : "Repartition",
+        "SOC" : "Societes",
+        "STO" : "Stock",
+        "TRA" : "Traduction",
+        "COC" : "Concurrence",
+        "JEE" : "Jeegy"
+    },
+    "LIBELLES_VERSIONS" : [
+        "ACHATS",
+        "STOCK",
+        "REPARTITION",
+        "PREPARATION",
+        "PRICING",
+        "PREFACTU",
+        "NOMENCLATURE",
+        "MAGASIN",
+        "TRADUCTION",
+        "BUDGETS",
+        "DONS",
+        "QUALITE",
+        "SOCIETES",
+        "CONCURRENCE BACKEND",
+        "JEEGY"
+    ],
+    "EXCEPTIONS_NOMMAGE" : {
+        "FACTURATION"   : "PREFACTU",
+        "CONCURRENCE"   : "CONCURRENCE BACKEND"
+    }
+}

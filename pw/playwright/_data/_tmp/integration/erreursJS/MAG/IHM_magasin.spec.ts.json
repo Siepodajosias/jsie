@@ -1,0 +1,14 @@
+[
+    {
+        "URL": "http://magasin.int.sigale.prosol.pri/ws/traduction/unites",
+        "URL_FULL": "http://magasin.int.sigale.prosol.pri/ws/traduction/unites",
+        "TEST": "Connexion",
+        "MESSAGE": "Failed to load resource: the server responded with a status of 403 ()"
+    },
+    {
+        "URL": "http://meteo.int.sigale.prosol.pri:9393/api/meteos",
+        "URL_FULL": "http://meteo.int.sigale.prosol.pri:9393/api/meteos?codesLieuxDeVente=G914",
+        "TEST": "Onglet [METEO] - Click",
+        "MESSAGE": "Failed to load resource: net::ERR_CONNECTION_RESET"
+    }
+]

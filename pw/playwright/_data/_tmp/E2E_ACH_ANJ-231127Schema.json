@@ -1,0 +1,20 @@
+{
+    "title": "E2E_ACH_ANJ-231127",
+    "type": "object",
+    "properties": {
+        "sNumAchat": {
+            "type": "string"
+        },
+        "sNumLot": {
+            "type": "string"
+        },
+        "sNumAchatLong": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "sNumAchat",
+        "sNumLot",
+        "sNumAchatLong"
+    ]
+}

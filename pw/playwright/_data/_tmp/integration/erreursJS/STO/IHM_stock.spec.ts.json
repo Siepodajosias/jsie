@@ -1,0 +1,14 @@
+[
+    {
+        "URL": "http://stock.int.sigale.prosol.pri/ws/emplacements-stockage/plateformes/CHA/occupation",
+        "URL_FULL": "http://stock.int.sigale.prosol.pri/ws/emplacements-stockage/plateformes/CHA/occupation",
+        "TEST": "Déconnexion",
+        "MESSAGE": "Failed to load resource: the server responded with a status of 403 ()"
+    },
+    {
+        "URL": "http://stock.int.sigale.prosol.pri/ws/plateformes/CHA/recupererInventaire",
+        "URL_FULL": "http://stock.int.sigale.prosol.pri/ws/plateformes/CHA/recupererInventaire",
+        "TEST": "Page [INVENTAIRE] - Check",
+        "MESSAGE": "Failed to load resource: the server responded with a status of 404 ()"
+    }
+]

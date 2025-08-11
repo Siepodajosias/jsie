@@ -1,0 +1,22 @@
+{
+   "iNbCommande": null,
+   "iNbPrevision": null,
+   "sDateLivraison": " 16 ",
+   "sArticle": {
+      "L0MC": {
+         "sNomArticle": {
+            "iNbPrevision": 4
+         }
+      },
+      "L1I3": {
+         "sNomArticle": {
+            "iNbPrevision": 6
+         }
+      },
+      "L1N2": {
+         "sNomArticle": {
+            "iNbPrevision": 8
+         }
+      }
+   }
+}

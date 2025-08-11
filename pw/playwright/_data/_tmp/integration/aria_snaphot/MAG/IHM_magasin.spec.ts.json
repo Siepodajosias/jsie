@@ -1,0 +1,245 @@
+{
+    "accueil": {
+        "etatEngagements": {
+            "button": 3,
+            "combobox": 6,
+            "radio": 3,
+            "checkbox": 67
+        },
+        "meteo": {
+            "combobox": 1
+        },
+        "actualites": {
+            "button": 2,
+            "combobox": 3,
+            "radio": 2
+        },
+        "suiviEngagements": {
+            "button": 8,
+            "combobox": 5
+        }
+    },
+    "commandes": {
+        "commande": {
+            "button": 9,
+            "combobox": 2
+        },
+        "achatSurPlace": {
+            "button": 7,
+            "combobox": 3
+        },
+        "engagements": {
+            "button": 3,
+            "combobox": 3,
+            "checkbox": 9
+        },
+        "opportunites": {
+            "button": 2,
+            "combobox": 3
+        },
+        "commandeSelonModele": {
+            "button": 4,
+            "combobox": 3,
+            "checkbox": 6
+        }
+    },
+    "stock": {
+        "livraisons": {
+            "button": 5,
+            "combobox": 4,
+            "checkbox": 2
+        },
+        "stock": {
+            "button": 1,
+            "combobox": 2
+        },
+        "stockASurveiller": {
+            "button": 6,
+            "combobox": 3,
+            "radio": 4
+        },
+        "casse": {
+            "button": 3,
+            "combobox": 3,
+            "checkbox": 1
+        },
+        "dons": {
+            "button": 8,
+            "combobox": 4,
+            "checkbox": 15
+        },
+        "histoInventaire": {
+            "button": 3,
+            "combobox": 1,
+            "checkbox": 21
+        },
+        "implantation": {
+            "button": 11,
+            "combobox": 2,
+            "checkbox": 17
+        },
+        "stockFinJournee": {
+            "button": 1,
+            "combobox": 2,
+            "checkbox": 3
+        }
+    },
+    "prix": {
+        "gestionPrix": {
+            "button": 9,
+            "combobox": 2,
+            "checkbox": 51
+        },
+        "impressionEtiquettes": {
+            "button": 5,
+            "combobox": 1
+        }
+    },
+    "facturation": {
+        "blDefinitifs": {
+            "button": 4,
+            "combobox": 2,
+            "checkbox": 1
+        },
+        "demandeAvoir": {
+            "button": 8,
+            "combobox": 8,
+            "checkbox": 1
+        },
+        "demandeEchange": {
+            "button": 2,
+            "combobox": 3,
+            "checkbox": 1
+        }
+    },
+    "ventes": {
+        "venteJournee": {
+            "button": 2,
+            "combobox": 5,
+            "radio": 2
+        },
+        "evenementsExceptionnels": {
+            "button": 9,
+            "combobox": 4,
+            "checkbox": 2
+        }
+    },
+    "emballages": {
+        "stockBons": {
+            "button": 3,
+            "combobox": 1,
+            "checkbox": 6
+        },
+        "suiviBons": {
+            "button": 5,
+            "combobox": 1,
+            "checkbox": 1
+        }
+    },
+    "alertes": {
+        "suiviCentrale": {
+            "button": 13,
+            "combobox": 2,
+            "checkbox": 4
+        },
+        "historiqueCentrale": {
+            "button": 3,
+            "combobox": 3,
+            "checkbox": 1
+        },
+        "modeleAlertes": {
+            "button": 13,
+            "combobox": 2
+        },
+        "infosQualite": {
+            "button": 5,
+            "combobox": 4,
+            "checkbox": 4
+        },
+        "traitementMagasin": {
+            "button": 7,
+            "combobox": 2,
+            "checkbox": 2
+        },
+        "historiqueMagasin": {
+            "button": 5,
+            "combobox": 1,
+            "checkbox": 1
+        },
+        "infoQualiteMagasin": {
+            "button": 8,
+            "combobox": 5,
+            "checkbox": 2
+        }
+    },
+    "preparation": {
+        "NotExists": {
+            "button": 13,
+            "combobox": 6,
+            "checkbox": 2
+        }
+    },
+    "tableauBord": {
+        "NotExists": {
+            "button": 6,
+            "combobox": 7,
+            "checkbox": 1
+        }
+    },
+    "autorisations": {
+        "autorisationAchatCentrale": {
+            "button": 9,
+            "combobox": 1
+        },
+        "modelesAssortiment": {
+            "button": 5,
+            "combobox": 1
+        },
+        "autorisationLivraisonsDirectes": {
+            "button": 7,
+            "combobox": 1
+        },
+        "engagements": {
+            "button": 9,
+            "combobox": 1
+        },
+        "opportunites": {
+            "button": 5,
+            "combobox": 1
+        },
+        "modelesCommande": {
+            "button": 8,
+            "combobox": 1,
+            "checkbox": 46
+        },
+        "actualite": {
+            "button": 13,
+            "combobox": 6,
+            "checkbox": 43
+        },
+        "parametrage": {
+            "button": 8,
+            "combobox": 2,
+            "checkbox": 275
+        },
+        "blocage": {
+            "button": 2,
+            "checkbox": 31
+        },
+        "echanges": {},
+        "groupeMagasins": {
+            "button": 6,
+            "combobox": 3,
+            "checkbox": 3
+        },
+        "gammes": {
+            "button": 3,
+            "checkbox": 9
+        },
+        "recomOuverture": {
+            "button": 12,
+            "combobox": 2,
+            "checkbox": 1094
+        }
+    }
+}

@@ -1,0 +1,188 @@
+<commande>
+    <typeCommande>STANDARD</typeCommande>
+    <labelAssortiment>Coquillages &amp; divers (Négoce)</labelAssortiment>
+    <codeGroupeArticle>04</codeGroupeArticle>
+    <codeMagasin>ToChangeMagasinPO</codeMagasin>
+    <dateReception>ToChangeDateReception</dateReception>
+    <dateExpedition>ToChangeDateReelExpedition</dateExpedition>
+    <dateLivraisonPrevision>ToChangeDatelivraisonPrevision</dateLivraisonPrevision>
+    <dateExpeditionPrevision>ToChangeDateExpeditionPrevision</dateExpeditionPrevision>
+    <articles>
+        <article>
+            <codeArticle>M0AH</codeArticle>
+            <qteCommandee>99</qteCommandee>
+            <qtePrevue>88</qtePrevue>
+            <qteStock>77</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017988</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M08M</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.33</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>013081</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M0AD</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017286</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M05B</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>006530</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M0AJ</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>BO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>018812</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M0AN</codeArticle>
+            <qteCommandee>5</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>019157</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M01E</codeArticle>
+            <qteCommandee>5</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>005982</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M07N</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.4</qteStock>
+            <conditionnement>CA x 10 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>008768</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M001</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008915</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M01I</codeArticle>
+            <qteCommandee>5</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>005985</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M080</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 12 Unité(s)</conditionnement>
+            <codeConditionnement>008883</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M0AC</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017282</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M0AA</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>016968</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M0AK</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>BO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>018813</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M08B</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>BO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>009397</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M0AI</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>018779</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M05A</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>006532</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M05C</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.33</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>006531</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M07M</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>008760</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M006</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>005990</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M0AF</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>017423</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>M0AB</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.25</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017284</codeConditionnement>
+        </article>
+    </articles>
+</commande>

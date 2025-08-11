@@ -1,0 +1,38 @@
+{
+  "accueil": {
+    "button": 3,
+    "checkbox": 78,
+    "Liste deroulante": 5,
+    "radio": 0,
+    "a": 19,
+    "input": 6,
+    "ligne de tableau (tr)": 83,
+    "tableau": 0,
+    "input type recherche": 0,
+    "cellule de tableau (td)": 402
+  },
+  "referentiel": {
+    "button": 8,
+    "checkbox": 0,
+    "Liste deroulante": 2,
+    "radio": 0,
+    "a": 28,
+    "input": 0,
+    "ligne de tableau (tr)": 3,
+    "tableau": 0,
+    "input type recherche": 0,
+    "cellule de tableau (td)": 4
+  },
+  "admnistration": {
+    "button": 3,
+    "checkbox": 0,
+    "Liste deroulante": 0,
+    "radio": 2,
+    "a": 28,
+    "input": 2,
+    "ligne de tableau (tr)": 0,
+    "tableau": 0,
+    "input type recherche": 0,
+    "cellule de tableau (td)": 0
+  }
+}

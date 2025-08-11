@@ -1,0 +1,260 @@
+<commande>
+    <typeCommande>STANDARD</typeCommande>
+    <labelAssortiment>Fraîche Découpe (Fraîche découpe)</labelAssortiment>
+    <codeGroupeArticle>01</codeGroupeArticle>
+    <codeMagasin>ToChangeMagasin</codeMagasin>
+    <dateReception>ToChangeDateReception</dateReception>
+    <dateExpedition>ToChangeDateReelExpedition</dateExpedition>
+    <dateLivraisonPrevision>ToChangeDatelivraisonPrevision</dateLivraisonPrevision>
+    <dateExpeditionPrevision>ToChangeDateExpeditionPrevision</dateExpeditionPrevision>
+    <articles>
+        <article>
+            <codeArticle>4258</codeArticle>
+            <qteCommandee>99</qteCommandee>
+            <qtePrevue>88</qtePrevue>
+            <qteStock>77</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 230 Gr</conditionnement>
+            <codeConditionnement>012027</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4730</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 400 Gr</conditionnement>
+            <codeConditionnement>005346</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4703</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>003848</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4001</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>2.75</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 250 Gr</conditionnement>
+            <codeConditionnement>000000</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4501</codeArticle>
+            <qteCommandee>6</qteCommandee>
+            <qtePrevue>6</qtePrevue>
+            <qteStock>3.25</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>000037</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4520</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 100 Gr</conditionnement>
+            <codeConditionnement>000041</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4320</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 250 Gr</conditionnement>
+            <codeConditionnement>005284</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4039</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.25</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>013210</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4500</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>000036</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4030</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 640 Gr</conditionnement>
+            <codeConditionnement>009447</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4075</codeArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 420 Gr</conditionnement>
+            <codeConditionnement>000017</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4542</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 350 Gr</conditionnement>
+            <codeConditionnement>004520</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4070</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0.25</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 450 Gr</conditionnement>
+            <codeConditionnement>000015</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4250</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 220 Gr</conditionnement>
+            <codeConditionnement>012025</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4427</codeArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 8 Barquette(s) x 250 Gr</conditionnement>
+            <codeConditionnement>006212</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4002</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>000001</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4423</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 150 Gr</conditionnement>
+            <codeConditionnement>017072</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4016</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>004909</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4430</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>2.38</qteStock>
+            <conditionnement>CT x 8 Barquette(s) x 150 Gr</conditionnement>
+            <codeConditionnement>005223</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4531</codeArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>000043</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4255</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 250 Gr</conditionnement>
+            <codeConditionnement>012026</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4071</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 450 Gr</conditionnement>
+            <codeConditionnement>005137</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4020</codeArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>1.75</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>000006</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4503</codeArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 1 Kg</conditionnement>
+            <codeConditionnement>004611</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4541</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 400 Gr</conditionnement>
+            <codeConditionnement>006126</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4420</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0.38</qteStock>
+            <conditionnement>CT x 8 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>005222</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4380</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>000032</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4076</codeArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 700 Gr</conditionnement>
+            <codeConditionnement>000018</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4524</codeArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 125 Gr</conditionnement>
+            <codeConditionnement>004309</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4019</codeArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>1.25</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 150 Gr</conditionnement>
+            <codeConditionnement>003661</codeConditionnement>
+        </article>
+        <article>
+            <codeArticle>4150</codeArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Barquette(s) x 250 Gr</conditionnement>
+            <codeConditionnement>000020</codeConditionnement>
+        </article>
+    </articles>
+</commande>

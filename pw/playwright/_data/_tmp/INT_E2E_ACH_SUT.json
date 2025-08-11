@@ -1,0 +1,27 @@
+{
+   "sDossierAchat": "Bcv - julien 2025",
+   "sCentraleAchat": "BCT 500",
+   "sPlateforme": "Cremlog",
+   "sRayon": "BCT",
+   "sFournisseur": "Fermiers Du Gers Ⓔ",
+   "aCodeArticle": [
+      "B02L",
+      "B03P"
+   ],
+   "aPrixCatalogue": [
+      "2,950 €",
+      "2,500 €",
+      "2,950 €",
+      "2,500 €"
+   ],
+   "aDestinataire": {
+      "Ambérieu en Bugey (Fresh)": [
+         "B02L",
+         "B03P"
+      ],
+      "Annemasse (Fresh)": [
+         "B02L",
+         "B03P"
+      ]
+   }
+}

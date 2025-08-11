@@ -1,0 +1,2823 @@
+<commande>
+    <typeCommande>STANDARD</typeCommande>
+    <labelAssortiment>Fruits Et Légumes (Fruits et légumes)</labelAssortiment>
+    <codeGroupeArticle>00</codeGroupeArticle>
+    <codeMagasin>ToChangeMagasin</codeMagasin>
+    <dateReception>ToChangeDateReception</dateReception>
+    <dateLivraison>ToChangeDateLivraison</dateLivraison>
+    <dateExpedition>ToChangeDateReelExpedition</dateExpedition>
+    <dateLivraisonPrevision>ToChangeDatelivraisonPrevision</dateLivraisonPrevision>
+    <dateExpeditionPrevision>ToChangeDateExpeditionPrevision</dateExpeditionPrevision>
+    <articles>
+        <article>
+            <codeArticle>8890</codeArticle>
+            <designationArticle>Poivron Corne De Boeuf</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.1</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>008832</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8306</codeArticle>
+            <designationArticle>Champignon Geant</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>002282</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9545</codeArticle>
+            <designationArticle>Tomate Olivette Vrac</designationArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>8</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 6 Kg</conditionnement>
+            <codeConditionnement>016349</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5865</codeArticle>
+            <designationArticle>Clemenvilla Mini Colis</designationArticle>
+            <qteCommandee>16</qteCommandee>
+            <qtePrevue>16</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PL x 1 Unité(s) (2.3 Kg)</conditionnement>
+            <codeConditionnement>000333</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7864</codeArticle>
+            <designationArticle>Piment Antillais</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 4 Kg</conditionnement>
+            <codeConditionnement>001737</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7968</codeArticle>
+            <designationArticle>Cib.Chinoise /Oignon Vert</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 10 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>013152</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8531</codeArticle>
+            <designationArticle>Haricot Extra Fin Bqt</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 8 Unité(s)</conditionnement>
+            <codeConditionnement>004104</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8000</codeArticle>
+            <designationArticle>Artichaut Blanc</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CB x 18 Unité(s)</conditionnement>
+            <codeConditionnement>032665</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8050</codeArticle>
+            <designationArticle>Artichaut Bouquet</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.7</qteStock>
+            <conditionnement>PB x 8 Unité(s)</conditionnement>
+            <codeConditionnement>001934</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9105</codeArticle>
+            <designationArticle>Pt Spécial Frite X 2.5</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>PB x 6 Sachet(s) x 2.5 Kg</conditionnement>
+            <codeConditionnement>003654</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7863</codeArticle>
+            <designationArticle>Noix De Coco</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.3</qteStock>
+            <conditionnement>PL x 16 Unité(s)</conditionnement>
+            <codeConditionnement>016607</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7190</codeArticle>
+            <designationArticle>Poire Colis</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>12</qteStock>
+            <conditionnement>PL x 1 Unité(s) (2 Kg)</conditionnement>
+            <codeConditionnement>000811</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8437</codeArticle>
+            <designationArticle>Courgette Ronde Espagne</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.3</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>002570</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7824</codeArticle>
+            <designationArticle>Frecinette</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.2</qteStock>
+            <conditionnement>PL x 9 Barquette(s) x 330 Gr</conditionnement>
+            <codeConditionnement>003658</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7953</codeArticle>
+            <designationArticle>Nghe / Curcuma Frais</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>012685</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7767</codeArticle>
+            <designationArticle>Longane Avion</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>024844</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8920</codeArticle>
+            <designationArticle>Mini Mais</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.4</qteStock>
+            <conditionnement>PL x 12 Unité(s)</conditionnement>
+            <codeConditionnement>003550</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7970</codeArticle>
+            <designationArticle>Choi Sum</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Kg</conditionnement>
+            <codeConditionnement>004904</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8247</codeArticle>
+            <designationArticle>Chou De Bruxelles France</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>3.7</qteStock>
+            <conditionnement>CB x 5 Kg</conditionnement>
+            <codeConditionnement>004948</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7828</codeArticle>
+            <designationArticle>Fruit À Pain</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 10 Kg</conditionnement>
+            <codeConditionnement>001610</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>6416</codeArticle>
+            <designationArticle>Orange Petite Espagne</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>7.3</qteStock>
+            <conditionnement>PB x 14 Kg</conditionnement>
+            <codeConditionnement>000549</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7475</codeArticle>
+            <designationArticle>Pomme Chanteclerc</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>5.7</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>001201</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5713</codeArticle>
+            <designationArticle>Citron Meyer</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Kg</conditionnement>
+            <codeConditionnement>032606</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7859</codeArticle>
+            <designationArticle>Lait De Coco</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>5</qteStock>
+            <conditionnement>CT x 12 Unité(s)</conditionnement>
+            <codeConditionnement>001717</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9160</codeArticle>
+            <designationArticle>Radis Botte</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.6</qteStock>
+            <conditionnement>PB x 12 Unité(s)</conditionnement>
+            <codeConditionnement>003122</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9301</codeArticle>
+            <designationArticle>Jeunes Pousses d'Epinard 100gr</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.6</qteStock>
+            <conditionnement>CT x 8 Barquette(s) x 100 Gr</conditionnement>
+            <codeConditionnement>007171</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8156</codeArticle>
+            <designationArticle>Aubergine Espagne</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>3.2</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>004171</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7252</codeArticle>
+            <designationArticle>Poire Rocha Vrac</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>5.5</qteStock>
+            <conditionnement>PL x 9 Kg</conditionnement>
+            <codeConditionnement>026447</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9051</codeArticle>
+            <designationArticle>Pt Laurette Filet</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>6</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>PB x 6 Sachet(s) x 2.5 Kg</conditionnement>
+            <codeConditionnement>004025</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8168</codeArticle>
+            <designationArticle>Ail Blanc France</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>PB x 14 Kg</conditionnement>
+            <codeConditionnement>030398</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9595</codeArticle>
+            <designationArticle>Pt X 5 Lavee</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.1</qteStock>
+            <conditionnement>BO x 50 Unité(s)</conditionnement>
+            <codeConditionnement>003688</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7961</codeArticle>
+            <designationArticle>Mini Piment Vert Thaï</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 1 Kg</conditionnement>
+            <codeConditionnement>012691</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8481</codeArticle>
+            <designationArticle>Endive Sachet 500 gr</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 14 Sachet(s) x 500 Gr</conditionnement>
+            <codeConditionnement>031713</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7220</codeArticle>
+            <designationArticle>Poire Louise Bonne</designationArticle>
+            <qteCommandee>12</qteCommandee>
+            <qtePrevue>12</qtePrevue>
+            <qteStock>5</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>013346</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9074</codeArticle>
+            <designationArticle>Pt Juliette Filet</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.7</qteStock>
+            <conditionnement>PB x 10 Filet(s) x 1.5 Kg</conditionnement>
+            <codeConditionnement>003757</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9497</codeArticle>
+            <designationArticle>Menthe</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>FL x 1 Kg</conditionnement>
+            <codeConditionnement>003472</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8715</codeArticle>
+            <designationArticle>Oignon Filet</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PB x 14 Filet(s) x 1 Kg</conditionnement>
+            <codeConditionnement>006318</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8221</codeArticle>
+            <designationArticle>Carotte Fane Extra</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>PB x 12 Unité(s)</conditionnement>
+            <codeConditionnement>002149</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8213</codeArticle>
+            <designationArticle>Carotte Extra HVE</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>5.5</qteStock>
+            <conditionnement>PB x 14 Kg</conditionnement>
+            <codeConditionnement>006770</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>6211</codeArticle>
+            <designationArticle>Kiwi gold</designationArticle>
+            <qteCommandee>10</qteCommandee>
+            <qtePrevue>6</qtePrevue>
+            <qteStock>9</qteStock>
+            <conditionnement>PL x 44 Unité(s)</conditionnement>
+            <codeConditionnement>029621</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8400</codeArticle>
+            <designationArticle>Courge Box</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 150 Kg</conditionnement>
+            <codeConditionnement>004705</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5135</codeArticle>
+            <designationArticle>Ananas Pain De Sucre</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 10 Kg</conditionnement>
+            <codeConditionnement>000142</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9329</codeArticle>
+            <designationArticle>Fleur Comestible</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 8 Unité(s)</conditionnement>
+            <codeConditionnement>003239</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7758</codeArticle>
+            <designationArticle>Pt Douce Ch.Rouge France</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>3</qteStock>
+            <conditionnement>CT x 6 Kg</conditionnement>
+            <codeConditionnement>003572</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9402</codeArticle>
+            <designationArticle>Tomate Cerise Grappe Rabelais HVE</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>PL x 3 Kg</conditionnement>
+            <codeConditionnement>003364</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5070</codeArticle>
+            <designationArticle>Avocat Gros</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 14 Unité(s)</conditionnement>
+            <codeConditionnement>005294</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5430</codeArticle>
+            <designationArticle>Groseille rouge</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>PL x 6 Barquette(s) x 125 Gr</conditionnement>
+            <codeConditionnement>006872</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5248</codeArticle>
+            <designationArticle>Avocat filet 500g</designationArticle>
+            <qteCommandee>6</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 12 Unité(s)</conditionnement>
+            <codeConditionnement>028639</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8289</codeArticle>
+            <designationArticle>Chou Fleur France</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>9</qteStock>
+            <conditionnement>CB x 6 Unité(s)</conditionnement>
+            <codeConditionnement>003753</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7712</codeArticle>
+            <designationArticle>Raisin Red Globe</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1.3</qteStock>
+            <conditionnement>PL x 7 Kg</conditionnement>
+            <codeConditionnement>031538</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8279</codeArticle>
+            <designationArticle>Chou Atlas France HVE</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.3</qteStock>
+            <conditionnement>CB x 10 Kg</conditionnement>
+            <codeConditionnement>030479</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7576</codeArticle>
+            <designationArticle>Pomme Pirouette HVE</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>8.5</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>004794</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9240</codeArticle>
+            <designationArticle>Laitue Verte</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PB x 6 Unité(s)</conditionnement>
+            <codeConditionnement>003166</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9110</codeArticle>
+            <designationArticle>Pissenlit Blanc</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PL x 2 Kg</conditionnement>
+            <codeConditionnement>004210</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7885</codeArticle>
+            <designationArticle>Noix De Cola</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 1.5 Kg</conditionnement>
+            <codeConditionnement>001794</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7310</codeArticle>
+            <designationArticle>Pomelos Rose Gros</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PL x 15 Kg</conditionnement>
+            <codeConditionnement>003926</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7480</codeArticle>
+            <designationArticle>Pomme Granny</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>10.8</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>005096</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8600</codeArticle>
+            <designationArticle>Mâche Vrac</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PL x 2.5 Kg</conditionnement>
+            <codeConditionnement>002713</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8810</codeArticle>
+            <designationArticle>Poivron Jaune</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>002902</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8266</codeArticle>
+            <designationArticle>Chou Vert</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>7.8</qteStock>
+            <conditionnement>PH x 7 Kg</conditionnement>
+            <codeConditionnement>006900</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7394</codeArticle>
+            <designationArticle>Pomme Dalinbel HVE</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>9.5</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>003819</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8141</codeArticle>
+            <designationArticle>Ail noir</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.4</qteStock>
+            <conditionnement>PL x 10 Unité(s)</conditionnement>
+            <codeConditionnement>008543</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9000</codeArticle>
+            <designationArticle>Poireau</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CB x 10 Kg</conditionnement>
+            <codeConditionnement>002974</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8650</codeArticle>
+            <designationArticle>Radis Noir</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.2</qteStock>
+            <conditionnement>PL x 10 Unité(s)</conditionnement>
+            <codeConditionnement>002755</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8939</codeArticle>
+            <designationArticle>Haricot Mungo 1 Kg</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 5 Unité(s)</conditionnement>
+            <codeConditionnement>023996</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9119</codeArticle>
+            <designationArticle>Pissenlit Vert</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PL x 2 Kg</conditionnement>
+            <codeConditionnement>003097</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7887</codeArticle>
+            <designationArticle>Brede Mafane</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.3</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>001800</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>6433</codeArticle>
+            <designationArticle>Orange filet</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>5.5</qteStock>
+            <conditionnement>PB x 7 Filet(s) x 2 Kg</conditionnement>
+            <codeConditionnement>026979</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7583</codeArticle>
+            <designationArticle>Pomme Compote x 8kg</designationArticle>
+            <qteCommandee>6</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>BA x 1 Unité(s) (8 Kg)</conditionnement>
+            <codeConditionnement>003858</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8420</codeArticle>
+            <designationArticle>Chayotte</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 8.5 Kg</conditionnement>
+            <codeConditionnement>005675</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8750</codeArticle>
+            <designationArticle>Persil Frise Botte</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PB x 15 Unité(s)</conditionnement>
+            <codeConditionnement>002860</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7110</codeArticle>
+            <designationArticle>Poire Abate</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>10</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>026829</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8216</codeArticle>
+            <designationArticle>Carotte Blanche</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CB x 5 Kg</conditionnement>
+            <codeConditionnement>002131</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5875</codeArticle>
+            <designationArticle>Clemenvilla</designationArticle>
+            <qteCommandee>10</qteCommandee>
+            <qtePrevue>5</qtePrevue>
+            <qteStock>11.5</qteStock>
+            <conditionnement>PB x 14 Kg</conditionnement>
+            <codeConditionnement>027623</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7823</codeArticle>
+            <designationArticle>Feuille De Banane</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4 Unité(s)</conditionnement>
+            <codeConditionnement>001603</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8925</codeArticle>
+            <designationArticle>Mini Legumes Panache</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.4</qteStock>
+            <conditionnement>PL x 8 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>003551</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7807</codeArticle>
+            <designationArticle>Avocat Tropical</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.3</qteStock>
+            <conditionnement>CT x 4 Kg</conditionnement>
+            <codeConditionnement>001570</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7858</codeArticle>
+            <designationArticle>Mangue Sélection</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>6</qtePrevue>
+            <qteStock>4</qteStock>
+            <conditionnement>CT x 6 Kg</conditionnement>
+            <codeConditionnement>006560</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7350</codeArticle>
+            <designationArticle>Pomelos Exotique</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.4</qteStock>
+            <conditionnement>CT x 9 Unité(s)</conditionnement>
+            <codeConditionnement>000998</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5315</codeArticle>
+            <designationArticle>Banane Verte Non Murie</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.2</qteStock>
+            <conditionnement>CT x 18.5 Kg</conditionnement>
+            <codeConditionnement>000174</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8196</codeArticle>
+            <designationArticle>Betterave Cuite Cello</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.1</qteStock>
+            <conditionnement>CT x 28 Unité(s)</conditionnement>
+            <codeConditionnement>002093</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9829</codeArticle>
+            <designationArticle>Courgette IT</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PL x 7 Kg</conditionnement>
+            <codeConditionnement>011119</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8685</codeArticle>
+            <designationArticle>Oignon Cipollotto</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>002809</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8215</codeArticle>
+            <designationArticle>Carotte Non Lavée</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>5.5</qteStock>
+            <conditionnement>BA x 14 Kg</conditionnement>
+            <codeConditionnement>002128</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7868</codeArticle>
+            <designationArticle>Papaye Verte</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>013046</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8313</codeArticle>
+            <designationArticle>Shiitake</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PL x 4 Unité(s)</conditionnement>
+            <codeConditionnement>002297</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7446</codeArticle>
+            <designationArticle>Pomme Golden Limousin HVE</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>8</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>014722</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5826</codeArticle>
+            <designationArticle>Clementine Corse</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>5.5</qteStock>
+            <conditionnement>CS x 12 Kg</conditionnement>
+            <codeConditionnement>014581</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8300</codeArticle>
+            <designationArticle>Champignon Pc</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 3 Kg</conditionnement>
+            <codeConditionnement>002276</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9426</codeArticle>
+            <designationArticle>Laurier Sec</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 25 Unité(s)</conditionnement>
+            <codeConditionnement>003418</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7881</codeArticle>
+            <designationArticle>Tamarin Barquette</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.2</qteStock>
+            <conditionnement>PL x 20 Barquette(s) x 450 Gr</conditionnement>
+            <codeConditionnement>003539</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9005</codeArticle>
+            <designationArticle>Poireau Vinaigrette</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>3.8</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>002977</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>6012</codeArticle>
+            <designationArticle>Marron Italie</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>5.2</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>005027</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8771</codeArticle>
+            <designationArticle>Piment Vert</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.1</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>002869</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8143</codeArticle>
+            <designationArticle>Ail Violet France</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PB x 14 Kg</conditionnement>
+            <codeConditionnement>013186</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9001</codeArticle>
+            <designationArticle>Poireau Filet</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.7</qteStock>
+            <conditionnement>PB x 4 Unité(s)</conditionnement>
+            <codeConditionnement>003552</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8929</codeArticle>
+            <designationArticle>Mini Poivron Orange Doux</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 1 Kg</conditionnement>
+            <codeConditionnement>003604</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8351</codeArticle>
+            <designationArticle>Celeri Vert France</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.1</qteStock>
+            <conditionnement>PB x 10 Kg</conditionnement>
+            <codeConditionnement>002405</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9250</codeArticle>
+            <designationArticle>Laitue Rouge</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>3</qteStock>
+            <conditionnement>PB x 6 Unité(s)</conditionnement>
+            <codeConditionnement>003167</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8204</codeArticle>
+            <designationArticle>Cardon Espagne</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.7</qteStock>
+            <conditionnement>PB x 10 Kg</conditionnement>
+            <codeConditionnement>004903</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8399</codeArticle>
+            <designationArticle>Courge Coupée</designationArticle>
+            <qteCommandee>5</qteCommandee>
+            <qtePrevue>5</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PB x 8 Kg</conditionnement>
+            <codeConditionnement>003592</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8360</codeArticle>
+            <designationArticle>Celeri Rave</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>9.8</qteStock>
+            <conditionnement>PB x 8 Kg</conditionnement>
+            <codeConditionnement>006954</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8700</codeArticle>
+            <designationArticle>Oignon Rouge France</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PB x 14 Kg</conditionnement>
+            <codeConditionnement>007035</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9373</codeArticle>
+            <designationArticle>Tomate Cerise Jaune</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>003755</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9315</codeArticle>
+            <designationArticle>Salade Iceberg</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.4</qteStock>
+            <conditionnement>CT x 10 Unité(s)</conditionnement>
+            <codeConditionnement>003225</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8755</codeArticle>
+            <designationArticle>Persil Lisse Botte France</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.3</qteStock>
+            <conditionnement>PB x 15 Unité(s)</conditionnement>
+            <codeConditionnement>002865</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8008</codeArticle>
+            <designationArticle>Artichaut sarde barquette</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CT x 8 Unité(s)</conditionnement>
+            <codeConditionnement>026796</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9346</codeArticle>
+            <designationArticle>Tomate cerise allongée</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>9.5</qteStock>
+            <conditionnement>CT x 4 Kg</conditionnement>
+            <codeConditionnement>008517</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7486</codeArticle>
+            <designationArticle>Pomme Ladina petite hve</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>7.5</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>031698</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7972</codeArticle>
+            <designationArticle>Spoon Pak Choi</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PL x 6 Kg</conditionnement>
+            <codeConditionnement>003617</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8219</codeArticle>
+            <designationArticle>Carotte Jaune</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.7</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>002137</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7580</codeArticle>
+            <designationArticle>Pomme compote 5 kg</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PL x 1 Unité(s) (5 Kg)</conditionnement>
+            <codeConditionnement>025928</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9114</codeArticle>
+            <designationArticle>Barbucine</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>028548</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>6490</codeArticle>
+            <designationArticle>Orange Feuille Non Traitée</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>4</qteStock>
+            <conditionnement>PL x 8 Kg</conditionnement>
+            <codeConditionnement>005214</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9230</codeArticle>
+            <designationArticle>Chene Rouge</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>PB x 6 Unité(s)</conditionnement>
+            <codeConditionnement>003162</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7862</codeArticle>
+            <designationArticle>Maracuja</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 2.5 Kg</conditionnement>
+            <codeConditionnement>005252</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7165</codeArticle>
+            <designationArticle>Poire Comice HVE.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>6.9</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>005002</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9140</codeArticle>
+            <designationArticle>Rave Botte</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>PB x 8 Unité(s)</conditionnement>
+            <codeConditionnement>004241</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7833</codeArticle>
+            <designationArticle>Gingembre</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.2</qteStock>
+            <conditionnement>CT x 13 Kg</conditionnement>
+            <codeConditionnement>001625</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9130</codeArticle>
+            <designationArticle>Rave</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>7</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>003098</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5401</codeArticle>
+            <designationArticle>Airelle Cranberries</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.8</qteStock>
+            <conditionnement>PL x 6 Barquette(s) x 370 Gr</conditionnement>
+            <codeConditionnement>005042</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7809</codeArticle>
+            <designationArticle>Canne À Sucre</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>001577</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8607</codeArticle>
+            <designationArticle>Mâche Barquette 150 gr</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 8 Barquette(s) x 150 Gr</conditionnement>
+            <codeConditionnement>006691</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7913</codeArticle>
+            <designationArticle>Couscous De Manioc</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 3 Kg</conditionnement>
+            <codeConditionnement>001820</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8162</codeArticle>
+            <designationArticle>Ail Frais Blanc</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>002030</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7771</codeArticle>
+            <designationArticle>Citron Vert Filet</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CT x 8 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>016534</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9321</codeArticle>
+            <designationArticle>Salade Trevisana</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.1</qteStock>
+            <conditionnement>CT x 5.5 Kg</conditionnement>
+            <codeConditionnement>020324</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9068</codeArticle>
+            <designationArticle>Pt Prunelle</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>004187</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9522</codeArticle>
+            <designationArticle>Oignon X 5 Kg Gros</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.2</qteStock>
+            <conditionnement>BO x 45 Unité(s)</conditionnement>
+            <codeConditionnement>003894</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8165</codeArticle>
+            <designationArticle>Ail Rose Vrac De Lautrec</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>013182</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7971</codeArticle>
+            <designationArticle>Shangai Pak Choi</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PB x 5 Kg</conditionnement>
+            <codeConditionnement>004433</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8155</codeArticle>
+            <designationArticle>Aubergine Filet</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 8 Filet(s) x 1 Kg</conditionnement>
+            <codeConditionnement>022638</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7890</codeArticle>
+            <designationArticle>Physalis Vrac</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CT x 1.5 Kg</conditionnement>
+            <codeConditionnement>003540</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8217</codeArticle>
+            <designationArticle>Carotte Violette</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CB x 5 Kg</conditionnement>
+            <codeConditionnement>002133</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9300</codeArticle>
+            <designationArticle>Salade Scarole</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>PB x 4 Unité(s)</conditionnement>
+            <codeConditionnement>020583</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8905</codeArticle>
+            <designationArticle>Fleur De Courgette Barquette</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PL x 4 Unité(s)</conditionnement>
+            <codeConditionnement>003768</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8470</codeArticle>
+            <designationArticle>Endive</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>002626</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5700</codeArticle>
+            <designationArticle>Citron Jaune Non Traité</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>10.5</qteStock>
+            <conditionnement>PL x 6 Kg</conditionnement>
+            <codeConditionnement>000241</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9496</codeArticle>
+            <designationArticle>Coriandre</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>FL x 1 Kg</conditionnement>
+            <codeConditionnement>003470</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9833</codeArticle>
+            <designationArticle>Epinard Extra It</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CB x 4 Kg</conditionnement>
+            <codeConditionnement>011121</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9424</codeArticle>
+            <designationArticle>Thym Sec</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 25 Unité(s)</conditionnement>
+            <codeConditionnement>003416</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8198</codeArticle>
+            <designationArticle>Betterave Jaune</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CB x 5 Kg</conditionnement>
+            <codeConditionnement>002095</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8716</codeArticle>
+            <designationArticle>Oignon rouge filet x 500 Gr.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>PB x 30 Unité(s)</conditionnement>
+            <codeConditionnement>019874</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7929</codeArticle>
+            <designationArticle>Poivre Frais</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 1 Kg</conditionnement>
+            <codeConditionnement>012686</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8608</codeArticle>
+            <designationArticle>Mélange de Jeunes Pousses 125 gr</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>8</qtePrevue>
+            <qteStock>0.3</qteStock>
+            <conditionnement>CT x 8 Barquette(s) x 125 Gr</conditionnement>
+            <codeConditionnement>020825</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5706</codeArticle>
+            <designationArticle>Citron Vert Non Traité</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>11</qteStock>
+            <conditionnement>CT x 2.5 Kg</conditionnement>
+            <codeConditionnement>019922</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8253</codeArticle>
+            <designationArticle>Chanterelle Grise France Bq</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CB x 5 Unité(s)</conditionnement>
+            <codeConditionnement>032615</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8725</codeArticle>
+            <designationArticle>Olive Verte</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>005204</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5303</codeArticle>
+            <designationArticle>Banane Des Antilles</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 18.5 Kg</conditionnement>
+            <codeConditionnement>000170</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>6014</codeArticle>
+            <designationArticle>Kaki Italie barquette</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.4</qteStock>
+            <conditionnement>CT x 6 Unité(s)</conditionnement>
+            <codeConditionnement>013149</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7175</codeArticle>
+            <designationArticle>Poire Conférence</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>5.3</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>013143</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8190</codeArticle>
+            <designationArticle>Betterave Crue</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.3</qteStock>
+            <conditionnement>PB x 10 Kg</conditionnement>
+            <codeConditionnement>002082</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5730</codeArticle>
+            <designationArticle>Cedrat</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.7</qteStock>
+            <conditionnement>CT x 6 Kg</conditionnement>
+            <codeConditionnement>032601</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9322</codeArticle>
+            <designationArticle>Salade Castelfranco</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>003230</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5716</codeArticle>
+            <designationArticle>Yuzu frais de Kôchi</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.2</qteStock>
+            <conditionnement>CT x 5 Unité(s)</conditionnement>
+            <codeConditionnement>026845</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9232</codeArticle>
+            <designationArticle>Tomate Primora</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3</qteStock>
+            <conditionnement>CT x 3 Kg</conditionnement>
+            <codeConditionnement>021568</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7964</codeArticle>
+            <designationArticle>Mini Aubergine Verte</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>013048</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7919</codeArticle>
+            <designationArticle>Melano</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.6</qteStock>
+            <conditionnement>CT x 8 Unité(s)</conditionnement>
+            <codeConditionnement>001826</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7847</codeArticle>
+            <designationArticle>Limequat</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>005154</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8845</codeArticle>
+            <designationArticle>Poivron Rouge Espagne</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>3.5</qteStock>
+            <conditionnement>FL x 5 Kg</conditionnement>
+            <codeConditionnement>015080</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8709</codeArticle>
+            <designationArticle>Oignon Saucier</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>006170</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9170</codeArticle>
+            <designationArticle>Radis Botte Rouge</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.6</qteStock>
+            <conditionnement>PL x 15 Unité(s)</conditionnement>
+            <codeConditionnement>003123</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8483</codeArticle>
+            <designationArticle>Endive De Pleine Terre</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 12 Unité(s)</conditionnement>
+            <codeConditionnement>002633</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9410</codeArticle>
+            <designationArticle>Topinambour</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>003374</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5827</codeArticle>
+            <designationArticle>Clementine Corse Barquette</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 8 Barquette(s) x 1 Kg</conditionnement>
+            <codeConditionnement>021007</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9312</codeArticle>
+            <designationArticle>Salade Rougette</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PB x 8 Unité(s)</conditionnement>
+            <codeConditionnement>003213</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9108</codeArticle>
+            <designationArticle>Pot Au Feu</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>PB x 7 Unité(s)</conditionnement>
+            <codeConditionnement>003556</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7854</codeArticle>
+            <designationArticle>Litchi</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 5.5 Kg</conditionnement>
+            <codeConditionnement>006949</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9570</codeArticle>
+            <designationArticle>Pt X 10 N Lavee</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 100 Filet(s) x 10 Kg</conditionnement>
+            <codeConditionnement>003684</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>6210</codeArticle>
+            <designationArticle>Kiwi</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>5.8</qteStock>
+            <conditionnement>CT x 85 Unité(s)</conditionnement>
+            <codeConditionnement>019385</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8499</codeArticle>
+            <designationArticle>Echalote Filet</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.6</qteStock>
+            <conditionnement>CT x 10 Unité(s)</conditionnement>
+            <codeConditionnement>002652</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8596</codeArticle>
+            <designationArticle>Haricot Coco Plat</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.8</qteStock>
+            <conditionnement>CT x 4 Kg</conditionnement>
+            <codeConditionnement>003901</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7866</codeArticle>
+            <designationArticle>Papaye</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>PL x 3.5 Kg</conditionnement>
+            <codeConditionnement>003616</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8280</codeArticle>
+            <designationArticle>Chou Rouge</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>10.3</qteStock>
+            <conditionnement>PH x 7 Kg</conditionnement>
+            <codeConditionnement>006905</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7937</codeArticle>
+            <designationArticle>Galanga</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>001841</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9313</codeArticle>
+            <designationArticle>Salade Sucrine</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.8</qteStock>
+            <conditionnement>CT x 12 Unité(s)</conditionnement>
+            <codeConditionnement>003217</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8270</codeArticle>
+            <designationArticle>Chou Frise</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.3</qteStock>
+            <conditionnement>PH x 7 Kg</conditionnement>
+            <codeConditionnement>006903</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7820</codeArticle>
+            <designationArticle>Eddos</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 10 Kg</conditionnement>
+            <codeConditionnement>001602</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8402</codeArticle>
+            <designationArticle>Courge Petite</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>5</qteStock>
+            <conditionnement>PH x 4 Unité(s)</conditionnement>
+            <codeConditionnement>020712</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5807</codeArticle>
+            <designationArticle>Clementine filet Italie</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>7.3</qteStock>
+            <conditionnement>CT x 7 Filet(s) x 2 Kg</conditionnement>
+            <codeConditionnement>032648</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8193</codeArticle>
+            <designationArticle>Betterave Cuite</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>002087</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9515</codeArticle>
+            <designationArticle>Oignon Jaune France</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>PB x 14 Kg</conditionnement>
+            <codeConditionnement>003646</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8674</codeArticle>
+            <designationArticle>Oignon Doux Des Cevennes</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.1</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>026911</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9220</codeArticle>
+            <designationArticle>Chene Verte</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PB x 6 Unité(s)</conditionnement>
+            <codeConditionnement>003160</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8900</codeArticle>
+            <designationArticle>Mini Carotte</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 8 Unité(s)</conditionnement>
+            <codeConditionnement>005276</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5144</codeArticle>
+            <designationArticle>Ananas Extra Sweet Avion</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.8</qteStock>
+            <conditionnement>CT x 12 Kg</conditionnement>
+            <codeConditionnement>017001</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8724</codeArticle>
+            <designationArticle>Olive Noire</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 6 Kg</conditionnement>
+            <codeConditionnement>002838</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>6000</codeArticle>
+            <designationArticle>Coing</designationArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.5</qteStock>
+            <conditionnement>CT x 3 Kg</conditionnement>
+            <codeConditionnement>007080</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8148</codeArticle>
+            <designationArticle>Aubergine Graffiti Espagne</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>004924</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7867</codeArticle>
+            <designationArticle>Papaye Formose</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 4.5 Kg</conditionnement>
+            <codeConditionnement>004735</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7112</codeArticle>
+            <designationArticle>Poire Elliot petite</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>4</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>027048</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8423</codeArticle>
+            <designationArticle>Courge Iron Cup</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.3</qteStock>
+            <conditionnement>CT x 18 Kg</conditionnement>
+            <codeConditionnement>003593</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8117</codeArticle>
+            <designationArticle>Champ. PC brun France Bqte</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PL x 8 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>029044</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8385</codeArticle>
+            <designationArticle>Courgette Filet Italie</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>PL x 12 Unité(s)</conditionnement>
+            <codeConditionnement>003764</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8643</codeArticle>
+            <designationArticle>Panais</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>4</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>002745</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9607</codeArticle>
+            <designationArticle>Basilic Italie</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PL x 10 Botte(s) x 100 Gr</conditionnement>
+            <codeConditionnement>011220</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8660</codeArticle>
+            <designationArticle>Oignon Blanc</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.3</qteStock>
+            <conditionnement>PB x 14 Kg</conditionnement>
+            <codeConditionnement>005316</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7842</codeArticle>
+            <designationArticle>Grenadille</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 2.5 Kg</conditionnement>
+            <codeConditionnement>030379</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7869</codeArticle>
+            <designationArticle>Patate Douce Ch Blanche</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 10 Kg</conditionnement>
+            <codeConditionnement>004252</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7939</codeArticle>
+            <designationArticle>Ngo Gai /Coinder Piquante</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>024158</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9320</codeArticle>
+            <designationArticle>Salade Trevise</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 4.5 Kg</conditionnement>
+            <codeConditionnement>003226</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8455</codeArticle>
+            <designationArticle>courgette Bolognese</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PL x 6 Kg</conditionnement>
+            <codeConditionnement>006843</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8262</codeArticle>
+            <designationArticle>Chou Chinois France</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PB x 8 Kg</conditionnement>
+            <codeConditionnement>006690</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7884</codeArticle>
+            <designationArticle>Mangue Verte</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 1 Kg</conditionnement>
+            <codeConditionnement>001789</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7813</codeArticle>
+            <designationArticle>Banane Plantain Mure</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 22 Kg</conditionnement>
+            <codeConditionnement>001587</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8671</codeArticle>
+            <designationArticle>Oignon Botte Italie</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>PL x 10 Unité(s)</conditionnement>
+            <codeConditionnement>006189</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8919</codeArticle>
+            <designationArticle>Mini Poivron Jaune</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 1 Kg</conditionnement>
+            <codeConditionnement>003603</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9364</codeArticle>
+            <designationArticle>Tomate Grosse</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 7 Kg</conditionnement>
+            <codeConditionnement>003308</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8244</codeArticle>
+            <designationArticle>Chou Brocoli Espagne</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PB x 8 Kg</conditionnement>
+            <codeConditionnement>002179</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8989</codeArticle>
+            <designationArticle>Pois gourmand barquette</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.7</qteStock>
+            <conditionnement>PL x 12 Barquette(s) x 250 Gr</conditionnement>
+            <codeConditionnement>029717</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8460</codeArticle>
+            <designationArticle>Crosne</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.2</qteStock>
+            <conditionnement>PL x 2 Kg</conditionnement>
+            <codeConditionnement>002621</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7845</codeArticle>
+            <designationArticle>Goyave</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>006686</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9280</codeArticle>
+            <designationArticle>Salade Frisee</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>PB x 4 Unité(s)</conditionnement>
+            <codeConditionnement>020582</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8510</codeArticle>
+            <designationArticle>Fenouil</designationArticle>
+            <qteCommandee>10</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>002662</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8451</codeArticle>
+            <designationArticle>Cresson Barquette</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.4</qteStock>
+            <conditionnement>CT x 8 Unité(s)</conditionnement>
+            <codeConditionnement>002618</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7230</codeArticle>
+            <designationArticle>Poire Packam's</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 4.5 Kg</conditionnement>
+            <codeConditionnement>026731</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7882</codeArticle>
+            <designationArticle>Tarot Dashine</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 15 Kg</conditionnement>
+            <codeConditionnement>001784</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7810</codeArticle>
+            <designationArticle>Banane Rose</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 8.5 Kg</conditionnement>
+            <codeConditionnement>031850</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9049</codeArticle>
+            <designationArticle>Pt Monalisa</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 12.5 Kg</conditionnement>
+            <codeConditionnement>004881</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9319</codeArticle>
+            <designationArticle>Puntarelle</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CB x 6 Kg</conditionnement>
+            <codeConditionnement>013075</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8497</codeArticle>
+            <designationArticle>Echalion</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.5</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>002649</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>6410</codeArticle>
+            <designationArticle>Orange Grosse Espagne</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>5</qteStock>
+            <conditionnement>PB x 14 Kg</conditionnement>
+            <codeConditionnement>000529</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8410</codeArticle>
+            <designationArticle>Butternut France</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4.5</qteStock>
+            <conditionnement>PB x 12 Kg</conditionnement>
+            <codeConditionnement>002489</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9061</codeArticle>
+            <designationArticle>Pt Ratte Grenaille</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>004770</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5100</codeArticle>
+            <designationArticle>Ananas Cayenne Avion</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 10 Kg</conditionnement>
+            <codeConditionnement>007123</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7730</codeArticle>
+            <designationArticle>Raisin Aledo</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>5</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>001499</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8426</codeArticle>
+            <designationArticle>Courge Bernettine</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>PL x 18 Kg</conditionnement>
+            <codeConditionnement>031603</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9126</codeArticle>
+            <designationArticle>PT Vrac Lavée Gwenne</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CT x 12.5 Kg</conditionnement>
+            <codeConditionnement>016423</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8384</codeArticle>
+            <designationArticle>Concombre</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 12 Unité(s)</conditionnement>
+            <codeConditionnement>026705</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5300</codeArticle>
+            <designationArticle>Banane</designationArticle>
+            <qteCommandee>6</qteCommandee>
+            <qtePrevue>6</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 18.5 Kg</conditionnement>
+            <codeConditionnement>003879</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8146</codeArticle>
+            <designationArticle>Asperge Verte Petite Botte 420 g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>PL x 8 Barquette(s) x 420 Gr</conditionnement>
+            <codeConditionnement>005708</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7865</codeArticle>
+            <designationArticle>Piment Oiseau</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 1 Kg</conditionnement>
+            <codeConditionnement>001738</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8132</codeArticle>
+            <designationArticle>Carotte cello 2 kg HVE</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>5.8</qteStock>
+            <conditionnement>PB x 7 Unité(s)</conditionnement>
+            <codeConditionnement>032145</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5254</codeArticle>
+            <designationArticle>Avocat Mur 2 Fruits barquette compostable</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.4</qteStock>
+            <conditionnement>PL x 12 Barquette(s) x 2 Unité(s)</conditionnement>
+            <codeConditionnement>023548</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7322</codeArticle>
+            <designationArticle>Pomelos rouge filet 3 fruits</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.7</qteStock>
+            <conditionnement>CT x 15 Unité(s)</conditionnement>
+            <codeConditionnement>028633</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9082</codeArticle>
+            <designationArticle>Pt Rouge Filet</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PB x 6 Filet(s) x 2.5 Kg</conditionnement>
+            <codeConditionnement>003555</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8250</codeArticle>
+            <designationArticle>Chou Cima</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CB x 6 Kg</conditionnement>
+            <codeConditionnement>002186</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8908</codeArticle>
+            <designationArticle>Mini Poivron Rouge</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.3</qteStock>
+            <conditionnement>CT x 1 Kg</conditionnement>
+            <codeConditionnement>003602</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7875</codeArticle>
+            <designationArticle>Pitaya Rouge</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CT x 4 Kg</conditionnement>
+            <codeConditionnement>004844</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9561</codeArticle>
+            <designationArticle>Pt Bintje Non Lavée x 5 kg</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>BO x 50 Unité(s)</conditionnement>
+            <codeConditionnement>008564</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7962</codeArticle>
+            <designationArticle>Mini Piment Rouge Thaï</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 1 Kg</conditionnement>
+            <codeConditionnement>012692</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7407</codeArticle>
+            <designationArticle>Pomme Pinova Alsace HVE</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>9</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>006752</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8191</codeArticle>
+            <designationArticle>Betterave Chioggia</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CB x 5 Kg</conditionnement>
+            <codeConditionnement>002084</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9190</codeArticle>
+            <designationArticle>Rutabaga</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>003143</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5075</codeArticle>
+            <designationArticle>Mangue Au Kilo</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>16</qteStock>
+            <conditionnement>CT x 4 Kg</conditionnement>
+            <codeConditionnement>006580</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9416</codeArticle>
+            <designationArticle>Roquette Barquette 100 gr</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 8 Barquette(s) x 100 Gr</conditionnement>
+            <codeConditionnement>006693</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8340</codeArticle>
+            <designationArticle>Celeri Blanc</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>PB x 10 Kg</conditionnement>
+            <codeConditionnement>002374</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7930</codeArticle>
+            <designationArticle>Feuille Basilic Fort</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 10 Sachet(s) x 100 Gr</conditionnement>
+            <codeConditionnement>013342</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5145</codeArticle>
+            <designationArticle>Ananas Extra sweet au Kilo</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>7.5</qteStock>
+            <conditionnement>CT x 11 Kg</conditionnement>
+            <codeConditionnement>012397</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9384</codeArticle>
+            <designationArticle>Tomate Filet</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>6.7</qteStock>
+            <conditionnement>PB x 14 Unité(s)</conditionnement>
+            <codeConditionnement>003338</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9043</codeArticle>
+            <designationArticle>Pt Blue Belle</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 12.5 Kg</conditionnement>
+            <codeConditionnement>003833</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8490</codeArticle>
+            <designationArticle>Echalote</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.5</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>003889</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5419</codeArticle>
+            <designationArticle>Framboise confiture</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PL x 1 Unité(s) (1 Kg)</conditionnement>
+            <codeConditionnement>006939</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7819</codeArticle>
+            <designationArticle>Conbavas</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 3 Kg</conditionnement>
+            <codeConditionnement>006746</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7840</codeArticle>
+            <designationArticle>Grenade Extra au Kg</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>016157</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8406</codeArticle>
+            <designationArticle>Courge Spaghetti</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>PB x 8 Unité(s)</conditionnement>
+            <codeConditionnement>002468</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8368</codeArticle>
+            <designationArticle>Cerfeuil Tubereux</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>002423</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8850</codeArticle>
+            <designationArticle>Poivron Vert</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>003623</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7909</codeArticle>
+            <designationArticle>Edamamé</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 2 Kg</conditionnement>
+            <codeConditionnement>012582</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7668</codeArticle>
+            <designationArticle>Litchi sachet</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>032657</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8149</codeArticle>
+            <designationArticle>Aubergine Africaine</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>004203</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8188</codeArticle>
+            <designationArticle>Ail fumé vrac</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>012176</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7783</codeArticle>
+            <designationArticle>Anone au Kg</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CT x 4 Kg</conditionnement>
+            <codeConditionnement>004809</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9233</codeArticle>
+            <designationArticle>Tomate Cerise Prune</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>PL x 1.7 Kg</conditionnement>
+            <codeConditionnement>023212</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7788</codeArticle>
+            <designationArticle>Carambole Piece</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CT x 12 Unité(s)</conditionnement>
+            <codeConditionnement>020501</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8615</codeArticle>
+            <designationArticle>Navet Boule D'Or</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>002723</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8308</codeArticle>
+            <designationArticle>Pleurote Barquette</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PL x 6 Unité(s)</conditionnement>
+            <codeConditionnement>002288</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8621</codeArticle>
+            <designationArticle>Navet Long France</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CB x 5 Kg</conditionnement>
+            <codeConditionnement>004999</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7830</codeArticle>
+            <designationArticle>Igname</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.2</qteStock>
+            <conditionnement>CT x 20 Kg</conditionnement>
+            <codeConditionnement>001614</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7815</codeArticle>
+            <designationArticle>Christophine</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.7</qteStock>
+            <conditionnement>CT x 7 Kg</conditionnement>
+            <codeConditionnement>001592</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8181</codeArticle>
+            <designationArticle>Bette Paquet</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>PH x 6 Unité(s)</conditionnement>
+            <codeConditionnement>002070</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5425</codeArticle>
+            <designationArticle>Framboise</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.3</qteStock>
+            <conditionnement>PL x 12 Barquette(s) x 125 Gr</conditionnement>
+            <codeConditionnement>003528</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7416</codeArticle>
+            <designationArticle>Pomme Braeburn</designationArticle>
+            <qteCommandee>6</qteCommandee>
+            <qtePrevue>6</qtePrevue>
+            <qteStock>8</qteStock>
+            <conditionnement>PL x 13 Kg</conditionnement>
+            <codeConditionnement>005361</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>6011</codeArticle>
+            <designationArticle>Kaki Espagne</designationArticle>
+            <qteCommandee>10</qteCommandee>
+            <qtePrevue>10</qtePrevue>
+            <qteStock>4</qteStock>
+            <conditionnement>CT x 4 Kg</conditionnement>
+            <codeConditionnement>032236</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5712</codeArticle>
+            <designationArticle>Citron Jaune Filet Non Traité</designationArticle>
+            <qteCommandee>6</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>4.2</qteStock>
+            <conditionnement>CT x 14 Unité(s)</conditionnement>
+            <codeConditionnement>026325</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8680</codeArticle>
+            <designationArticle>Oignon Rose Roscoff</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.5</qteStock>
+            <conditionnement>PL x 5 Kg</conditionnement>
+            <codeConditionnement>002807</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>9200</codeArticle>
+            <designationArticle>Batavia Verte</designationArticle>
+            <qteCommandee>10</qteCommandee>
+            <qtePrevue>8</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>PB x 6 Unité(s)</conditionnement>
+            <codeConditionnement>003153</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>8235</codeArticle>
+            <designationArticle>Chou Kale</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>PH x 10 Unité(s)</conditionnement>
+            <codeConditionnement>003696</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7907</codeArticle>
+            <designationArticle>Aloe Vera</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CT x 8 Kg</conditionnement>
+            <codeConditionnement>029290</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>5950</codeArticle>
+            <designationArticle>Bergamotte</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.4</qteStock>
+            <conditionnement>CT x 5 Kg</conditionnement>
+            <codeConditionnement>000364</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>7418</codeArticle>
+            <designationArticle>Pomme Liz Petite HVE</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>12.5</qteStock>
+            <conditionnement>PL x 4 Kg</conditionnement>
+            <codeConditionnement>014490</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+    </articles>
+</commande>

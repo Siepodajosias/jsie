@@ -1,0 +1,216 @@
+{
+    "Input": {
+        "ImportJdd": [
+            {
+                "variable": "E2E",
+                "value": "E2E_PRE_SPP",
+                "date": "2025-07-02 10:16:17"
+            }
+        ],
+        "InitParam": [
+            {
+                "variable": "nbColisEstimes",
+                "value": 10,
+                "date": "2025-07-02 10:16:17"
+            },
+            {
+                "variable": "fournisseur",
+                "value": "Sud Mer",
+                "date": "2025-07-02 10:16:17"
+            },
+            {
+                "variable": "plateformeDistribution",
+                "value": "Cremcentre",
+                "date": "2025-07-02 10:16:17"
+            },
+            {
+                "variable": "plateformeReception",
+                "value": "Cremcentre",
+                "date": "2025-07-02 10:16:17"
+            },
+            {
+                "variable": "rayon",
+                "value": "Poissonnerie",
+                "date": "2025-07-02 10:16:17"
+            },
+            {
+                "variable": "listeArticles",
+                "value": "M22H,M0CG",
+                "date": "2025-07-02 10:16:17"
+            },
+            {
+                "variable": "listeMagasins",
+                "value": "Bergerac,Bron",
+                "date": "2025-07-02 10:16:17"
+            }
+        ]
+    },
+    "Selected": {
+        "ListBox": [
+            {
+                "variable": "Menu Rayon",
+                "value": "Poissonnerie",
+                "date": "2025-07-02 10:16:32"
+            },
+            {
+                "variable": "By Text",
+                "value": "Cremcentre",
+                "date": "2025-07-02 10:16:54"
+            },
+            {
+                "variable": "Calibre",
+                "value": "0",
+                "date": "2025-07-02 10:17:03"
+            },
+            {
+                "variable": "Conditionnement",
+                "value": "CA x 6 Barquette(s) x 160 Gr",
+                "date": "2025-07-02 10:17:03"
+            },
+            {
+                "variable": "Plateforme Distribution",
+                "value": "Cremcentre",
+                "date": "2025-07-02 10:17:14"
+            },
+            {
+                "variable": "Incoterm",
+                "value": "D - Départ exp.",
+                "date": "2025-07-02 10:17:18"
+            },
+            {
+                "variable": "Prix Unité Achat",
+                "value": "Colis",
+                "date": "2025-07-02 10:17:23"
+            },
+            {
+                "variable": "Calibre",
+                "value": "0",
+                "date": "2025-07-02 10:17:33"
+            },
+            {
+                "variable": "Conditionnement",
+                "value": "C3 x 6 Barquette(s) x 250 Gr",
+                "date": "2025-07-02 10:17:33"
+            },
+            {
+                "variable": "Plateforme Distribution",
+                "value": "Cremcentre",
+                "date": "2025-07-02 10:17:44"
+            },
+            {
+                "variable": "Incoterm",
+                "value": "D - Départ exp.",
+                "date": "2025-07-02 10:17:47"
+            },
+            {
+                "variable": "Prix Unité Achat",
+                "value": "Colis",
+                "date": "2025-07-02 10:17:51"
+            },
+            {
+                "variable": "Numéro Achat",
+                "value": "20250702CCE3383",
+                "date": "2025-07-02 10:18:10"
+            },
+            {
+                "variable": "Numéro Lot",
+                "value": "",
+                "date": "2025-07-02 10:18:10"
+            },
+            {
+                "variable": "Numéro Lot",
+                "value": "",
+                "date": "2025-07-02 10:18:10"
+            }
+        ],
+        "AutoComplete": [
+            {
+                "variable": "Fournisseur",
+                "value": "01788 - SUD MER",
+                "date": "2025-07-02 10:16:53"
+            },
+            {
+                "variable": "ARTICLE",
+                "value": "M22H - Pavé de thon albacore sashimi Premium",
+                "date": "2025-07-02 10:16:56"
+            },
+            {
+                "variable": "ARTICLE",
+                "value": "M0CG - Pavé de saumon d'élevage 125g*2",
+                "date": "2025-07-02 10:17:26"
+            }
+        ],
+        "InputField": [
+            {
+                "variable": "Code Article",
+                "value": "M22H",
+                "date": "2025-07-02 10:17:01"
+            },
+            {
+                "variable": "Colis Estime",
+                "value": "20",
+                "date": "2025-07-02 10:17:24"
+            },
+            {
+                "variable": "Code Article",
+                "value": "M0CG",
+                "date": "2025-07-02 10:17:30"
+            },
+            {
+                "variable": "Colis Estime",
+                "value": "20",
+                "date": "2025-07-02 10:17:52"
+            },
+            {
+                "variable": "Code Article",
+                "value": "M22H",
+                "date": "2025-07-02 10:18:10"
+            },
+            {
+                "variable": "Bon De Livraison",
+                "value": "TA_BL_20250702CCE3383",
+                "date": "2025-07-02 10:18:19"
+            },
+            {
+                "variable": "Poids Confirmé Lot",
+                "value": "19.2",
+                "date": "2025-07-02 10:18:19"
+            },
+            {
+                "variable": "Prix Transport",
+                "value": 1,
+                "date": "2025-07-02 10:18:19"
+            },
+            {
+                "variable": "Code Article",
+                "value": "M0CG",
+                "date": "2025-07-02 10:18:25"
+            },
+            {
+                "variable": "Bon De Livraison",
+                "value": "TA_BL_20250702CCE3383",
+                "date": "2025-07-02 10:18:34"
+            },
+            {
+                "variable": "Poids Confirmé Lot",
+                "value": "30",
+                "date": "2025-07-02 10:18:34"
+            },
+            {
+                "variable": "Prix Transport",
+                "value": 1,
+                "date": "2025-07-02 10:18:34"
+            },
+            {
+                "variable": "Code Article",
+                "value": "M22H",
+                "date": "2025-07-02 10:18:47"
+            },
+            {
+                "variable": "Code Article",
+                "value": "M0CG",
+                "date": "2025-07-02 10:18:48"
+            }
+        ]
+    }
+}

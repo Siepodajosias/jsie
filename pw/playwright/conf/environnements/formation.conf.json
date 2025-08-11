@@ -1,0 +1,21 @@
+{
+    "URL": {
+        "ACH" : "http://achats.form.sigale.prosol.pri/",
+        "BUD" : "http://app1.form.sigale.prosol.pri:9096/",
+        "DON" : "http://dons.form.sigale.prosol.pri/",
+        "FAC" : "http://facturation.form.sigale.prosol.pri/",
+        "MAG" : "http://magasin.form.sigale.prosol.pri/",
+        "NOM" : "http://nomenclature.form.sigale.prosol.pri/",
+        "PBK" : "http://app1.form.sigale.prosol.pri:9091/",
+        "PRE" : "http://preparation.form.sigale.prosol.pri/",
+        "PRI" : "http://pricing.form.sigale.prosol.pri/",
+        "QUA" : "http://qualite.form.sigale.prosol.pri/",
+        "REP" : "http://repartition.form.sigale.prosol.pri/",
+        "SOC" : "http://societes.form.sigale.prosol.pri/",
+        "STO" : "http://stock.form.sigale.prosol.pri/",
+        "TRA" : "http://traduction.form.sigale.prosol.pri/"
+    },
+    "SIGALE_VERSIONS" : "http://sigale-version.prosol.pri:1337/api/versions/environment/Form/current",
+    "ESB" : "http://esb1.form.sigale.prosol.pri:90933",
+    "PREFIXE" : "FORM"
+}

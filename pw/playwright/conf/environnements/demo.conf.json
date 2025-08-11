@@ -1,0 +1,21 @@
+{
+    "URL": {
+        "ACH" : "https://achats.demo.sigale.prosol.pri/",
+        "BUD" : "https://budgets.demo.sigale.prosol.pri/",
+        "DON" : "https://don.demo.sigale.prosol.pri/",
+        "FAC" : "https://facturation.demo.sigale.prosol.pri/",
+        "MAG" : "https://magasin.demo.sigale.prosol.pri/",
+        "NOM" : "https://nomenclature.demo.sigale.prosol.pri/",
+        "PBK" : "http://app1.demo.sigale.prosol.pri:9091/",
+        "PRE" : "https://preparation.demo.sigale.prosol.pri/",
+        "PRI" : "https://pricing.demo.sigale.prosol.pri/",
+        "QUA" : "https://qualite.demo.sigale.prosol.pri/",
+        "REP" : "https://repartition.demo.sigale.prosol.pri/",
+        "SOC" : "https://societes.demo.sigale.prosol.pri/",
+        "STO" : "https://stock.demo.sigale.prosol.pri/",
+        "TRA" : "https://traduction.demo.sigale.prosol.pri/"
+    },
+    "SIGALE_VERSIONS" : "http://sigale-version.prosol.pri:1337/api/versions/environment/Demo/current",
+    "ESB" : "http://esb1.demo.sigale.prosol.pri:9093",
+    "PREFIXE" : "DEMO"
+}

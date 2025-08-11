@@ -1,0 +1,37 @@
+{
+   "iNbCommande": 107,
+   "iNbPrevision": 0,
+   "sDateLivraison": "22",
+   "sArticle": {
+      "M63A": {
+         "iNbCommande": 24
+      },
+      "M678": {
+         "iNbCommande": 24
+      },
+      "M683": {
+         "iNbCommande": 2,
+         "iNbPrevision": 4
+      },
+      "M60Z": {
+         "iNbCommande": 2,
+         "iNbPrevision": 4
+      },
+      "M64X": {
+         "iNbCommande": 2,
+         "iNbPrevision": 4
+      },
+      "M674": {
+         "iNbCommande": 2,
+         "iNbPrevision": 4
+      },
+      "M80T": {
+         "iNbCommande": 2,
+         "iNbPrevision": 4
+      },
+      "M679": {
+         "iNbCommande": 2,
+         "iNbPrevision": 4
+      }
+   }
+}

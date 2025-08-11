@@ -1,0 +1,14 @@
+[
+    {
+        "URL": "http://societes.int.sigale.prosol.pri/ws/communications-utilisateurs",
+        "URL_FULL": "http://societes.int.sigale.prosol.pri/ws/communications-utilisateurs",
+        "TEST": "Déconnexion",
+        "MESSAGE": "Failed to load resource: the server responded with a status of 403 ()"
+    },
+    {
+        "URL": "http://societes.int.sigale.prosol.pri/main.4f858673c3590b2d.js",
+        "URL_FULL": "http://societes.int.sigale.prosol.pri/main.4f858673c3590b2d.js",
+        "TEST": "Déconnexion",
+        "MESSAGE": "ERROR C"
+    }
+]

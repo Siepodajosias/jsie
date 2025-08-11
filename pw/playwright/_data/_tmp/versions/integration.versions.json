@@ -1,0 +1,87 @@
+[
+    {
+        "version": "6.8.0",
+        "sha1": "c422d38bf1b421eb44f8140bf0f44af5c7d172ee",
+        "appName": "ACH"
+    },
+    {
+        "version": "2.8.5",
+        "sha1": "0b8a0ba291535316eaf0745df3cc7b70bde02473",
+        "appName": "BUD"
+    },
+    {
+        "version": "2.5.0",
+        "sha1": "4fb0c75fd5835e6599756727af66495b44b79dff",
+        "appName": "DON"
+    },
+    {
+        "version": "7.10.1",
+        "sha1": "70d42d3f21b8003d88abd4e64c04c6bbb697acae",
+        "appName": "FAC"
+    },
+    {
+        "version": "5.5.0-SNAPSHOT",
+        "sha1": "706aa8b66a4e366f3bd64d26a3f428d31e39d6cb",
+        "appName": "MAG"
+    },
+    {
+        "version": "3.9.0",
+        "sha1": "cb35b71cfe96b2856738f400cd22edf2d1e63aa4",
+        "appName": "NOM"
+    },
+    {
+        "version": "7.13.2",
+        "sha1": "4b06991c9399a359fbf9a183ec031b11cf57bf94",
+        "appName": "PRE"
+    },
+    {
+        "version": "7.15.1",
+        "sha1": "d55b2ecbd14a9e5ce17038a3adccc1c957633d99",
+        "appName": "PRI"
+    },
+    {
+        "version": "3.3.0",
+        "sha1": "73d3344ef93cc8b946ff4c7bcbd235d46967d1f8",
+        "appName": "QUA"
+    },
+    {
+        "version": "Unknown",
+        "sha1": "Unknown",
+        "appName": "REP"
+    },
+    {
+        "version": "3.3.0",
+        "sha1": "c534729264f5af69a8f272625f696a47aed60cc4",
+        "appName": "SOC"
+    },
+    {
+        "version": "7.8.1",
+        "sha1": "911e587d809c3b54826b5bbdee068dfca89e176e",
+        "appName": "STO"
+    },
+    {
+        "version": "3.0.0",
+        "sha1": "a3569616396dc8ca41bc31e6c3288315ab232c96",
+        "appName": "TRA"
+    },
+    {
+        "version": "Unknown",
+        "sha1": "Unknown",
+        "appName": "COC"
+    },
+    {
+        "version": "Unknown",
+        "sha1": "Unknown",
+        "appName": "REL"
+    },
+    {
+        "version": "Unknown",
+        "sha1": "Unknown",
+        "appName": "JEE"
+    },
+    {
+        "version": "Unknown",
+        "sha1": "Unknown",
+        "appName": "MQU"
+    }
+]

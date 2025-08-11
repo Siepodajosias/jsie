@@ -1,0 +1,123 @@
+{
+    "MAGASIN" : {
+        "ADMIN METIER"        		: "jcc-recette1",
+        "CHEF SECTEUR"   	        : "jcc-recette2",
+        "COMPTABILITE FISCALE"		: "jcc-recette3",
+        "DIRECTEUR REGION"   	    : "jcc-recette4",        
+        "GESTIONNAIRE COMMANDE"     : "jcc-recette5",
+        "RESPONSABLE QUALITE"       : "jcc-recette6",
+        "GESTIONNAIRE MAINTENANCE"  : "jcc-recette6",
+        "PILOTE ALERTE"       		: "jcc-recette7",
+        "REPARTITEUR"               : "jcc-recette8",
+        "RESPONSABLE RAYON"   		: "jcc-recette11",
+        "SERVICE TRANSPORT"   	    : "jcc-recette10",
+        "ADMIN"            	        : "lunettes"
+    },			
+    "PRICING" : {
+        "TARIFICATEUR"     	        : "jcc-recette1",
+        "IMPORTATEUR PRIX" 	        : "jcc-recette8",
+        "RESPONSABLE ALIGNEMENT"	: "jcc-recette9",
+        "LECTEUR"	                : "jcc-recette11",
+        "ADMIN"            	        : "lunettes"
+    },
+    "ACHATS" : {
+        "ACHETEUR"				    : "jcc-recette1",
+        "GESTIONNAIRE LITIGE"	    : "jcc-recette2",        
+        "ASSISTANT COMPTABLE"	    : "jcc-recette3",
+        "PLANIFICATEUR"		        : "jcc-recette4",
+        "APPROVISIONNEUR"	        : "jcc-recette7",
+        "ASSISTANT ACHETEUR"	    : "jcc-recette8",
+        "RESPONSABLE FACTURATION"   : "jcc-recette9",
+        "RESPONSABLE LOGISTIQUE"    : "jcc-recette9",
+        "RESPONSABLE TRANSPORT"     : "jcc-recette10",
+        "ANONYME"			        : "jcc-recette11",        
+        "ADMIN"            	        : "lunettes"
+    },
+    "BUDGETS" : {
+        "CHEF SECTEUR"    		    : "jcc-recette2",
+        "DIRECTEUR REGION"		    : "jcc-recette4",
+        "CONTROLEUR GESTION"        : "jcc-recette7",
+        "DIRECTEUR EXPLOITATION"    : "jcc-recette9",
+        "ADMIN"            	        : "lunettes"
+    },
+    "DONS" : {
+        "GESTIONNAIRTE DONS"        : "jcc-recette2",
+        "ANONYME"			        : "jcc-recette11",
+        "ADMIN"            	        : "lunettes"        
+    },
+    "FACTURATION" : {
+        "ACHETEUR"        		    : "jcc-recette1",
+        "RESPONSABLE REGULARISATION": "jcc-recette2",
+        "ASSISTANT COMPTABLE"	    : "jcc-recette3",
+        "RECETTES MAGASIN"   	    : "jcc-recette4",        
+        "EXPEDITEUR PLATEFORME"     : "jcc-recette5", 
+        "RESPONSABLE DA"            : "jcc-recette6",               
+        "REPARTITEUR"               : "jcc-recette8",
+        "RESPONSABLE FACTURATION"   : "jcc-recette9",
+        "ANONYME"   	            : "jcc-recette11",
+        "ADMIN"            	        : "lunettes"
+    },
+    "NOMENCLATURE" : {
+        "ACHETEUR"        		    : "jcc-recette1",
+        "ADMIN"            	        : "lunettes"
+    },
+    "PREPARATION" : {
+        "RESPONSABLE PREPARATION"   : "jcc-recette1",
+        "RESPONSABLE REFERENTIEL"   : "jcc-recette8",
+        "RH LOGISTIQUE"             : "jcc-recette9",
+        "ANONYME"   	            : "jcc-recette11",
+        "ADMIN"            	        : "lunettes"
+    },
+    "QUALITE" : {
+        "RESPONSABLE QUALITE"       : "jcc-recette1",
+        "CHEF SECTEUR"              : "jcc-recette2",
+        "DIRECTEUIR REGION"         : "jcc-recette4",
+        "TECHNICIEN OUVERTURE"      : "jcc-recette7",
+        "RESPONSABLE RAYON"         : "jcc-recette9",
+        "CONTROLEUR QUALITE"        : "jcc-recette10",
+        "ADMIN"            	        : "lunettes"          
+    },
+    "REPARTITION" : {
+        "ACHETEUR"                  : "jcc-recette1",
+        "REPARTITEUR"               : "jcc-recette8",
+        "ANONYME"   	            : "jcc-recette11",
+        "ADMIN"            	        : "lunettes"
+    },
+    "SOCIETES" : {
+        "CENTRALE"				    : "jcc-recette1",
+        "CHEF SECTEUR"			    : "jcc-recette2",
+        "COMPTABLE"			        : "jcc-recette3",
+        "DIRECTEUR REGION"	        : "jcc-recette4",
+        "TECHNICIEN OUVERTURE"      : "jcc-recette7",
+        "DIRECTEUR EXPLOITATION"    : "jcc-recette9",
+        "GESTIONNAIRE TRANSPORT"    : "jcc-recette10",
+        "ANONYME"			        : "jcc-recette11",
+        "ADMIN"            	        : "lunettes"          
+    },
+    "STOCK" : {
+        "AGREEUR"                   : "jcc-recette1",
+        "ASSISTANT RECEPTION"       : "jcc-recette2",
+        "CHARGE INVENTAIRE"         : "jcc-recette3",
+        "CHEF DE QUAI"              : "jcc-recette4",
+        "RESPONSABLE REAPPRO"       : "jcc-recette4",
+        "GESTIONNAIRE EMBALLAGE"    : "jcc-recette5",
+        "RESPONSABLE QUALITE"       : "jcc-recette6",
+        "RESPONSABLE EMBALLAGE"     : "jcc-recette7",
+        "RECEPTIONNAIRE"            : "jcc-recette7",
+        "REPARTITEUR"               : "jcc-recette8",
+        "RESPONSABLE LOGISTIQUE"    : "jcc-recette8",
+        "RESPONSABLE EXPEDITION"    : "jcc-recette10",
+        "ANONYME"			        : "jcc-recette11",
+        "ADMIN"            	        : "lunettes"
+    },
+    "TRADUCTION" : {
+        "TRADUCTEUR"                : "jcc-recette1",
+        "ADMIN"            	        : "lunettes"
+    },
+    "CONCURRENCE" : {
+        "ADMIN"            	        : "lunettes"
+    },
+    "JEEGY" : {
+        "ADMIN"                     : "supervisor"
+    }
+}

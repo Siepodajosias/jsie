@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@playwright/test": "^1.35.1",
+    "cross-env": "^7.0.3"
+  },
+  "scripts": {
+    "env:integration": "cross-env environnement=integration npx playwright test --project \"Chrome\" --config=playwright.config.ts",
+    "env:integration2": "cross-env environnement=integration2 npx playwright test --project \"Chrome\" --config=playwright.config.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1"
+  }
+}

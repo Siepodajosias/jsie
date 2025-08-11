@@ -1,0 +1,923 @@
+<commande>
+    <typeCommande>STANDARD</typeCommande>
+    <labelAssortiment>Barquette (Marée)</labelAssortiment>
+    <codeGroupeArticle>03</codeGroupeArticle>
+    <codeMagasin>ToChangeMagasinPO</codeMagasin>
+    <dateReception>ToChangeDateReception</dateReception>
+    <dateLivraison>ToChangeDateLivraison</dateLivraison>
+    <dateExpedition>ToChangeDateReelExpedition</dateExpedition>
+    <dateLivraisonPrevision>ToChangeDatelivraisonPrevision</dateLivraisonPrevision>
+    <dateExpeditionPrevision>ToChangeDateExpeditionPrevision</dateExpeditionPrevision>
+    <articles>
+        <article>
+            <codeArticle>M02N</codeArticle>
+            <designationArticle>Sole vidée pelée 200/400</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 240 Gr</conditionnement>
+            <codeConditionnement>030160</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M704</codeArticle>
+            <designationArticle>Tentacules de Poulpe Cuit 200g.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>025757</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M16O</codeArticle>
+            <designationArticle>Filet de cabillaud sans flanc sans arête</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 350 Gr</conditionnement>
+            <codeConditionnement>030924</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M757</codeArticle>
+            <designationArticle>Anneaux d'encornets saumurés 300g PV.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 300 Gr</conditionnement>
+            <codeConditionnement>028547</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M714</codeArticle>
+            <designationArticle>Crevettes crues 30/40 PV 290g.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>C2 x 8 Unité(s)</conditionnement>
+            <codeConditionnement>025864</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M830</codeArticle>
+            <designationArticle>Poêlée hivernale aux poivres d'exception</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 320 Gr</conditionnement>
+            <codeConditionnement>032207</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M654</codeArticle>
+            <designationArticle>Moules de Cordes Espagne 1.40kg.</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025883</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M09F</codeArticle>
+            <designationArticle>Filet de Bar élevage EU</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 240 Gr</conditionnement>
+            <codeConditionnement>030925</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M663</codeArticle>
+            <designationArticle>Crevette cuite 40/50 ASC PV 400g.</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>032081</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M644</codeArticle>
+            <designationArticle>Moules de Bouchot AOP St Michel Premium 1kg.</designationArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>8</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025871</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M823</codeArticle>
+            <designationArticle>Huîtres Spéciale Pousse en Claire LR N3 x12.</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 1 Unité(s) (1 Kg)</conditionnement>
+            <codeConditionnement>031798</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M761</codeArticle>
+            <designationArticle>Moules de Cordes Espagne BIO 1.4kg</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>027601</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M09X</codeArticle>
+            <designationArticle>Aile de raie</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 3 Barquette(s) x 375 Gr</conditionnement>
+            <codeConditionnement>032563</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M688</codeArticle>
+            <designationArticle>Langoustine cuite 16/20 400g.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025850</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M03L</codeArticle>
+            <designationArticle>Filet d'églefin</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 300 Gr</conditionnement>
+            <codeConditionnement>030537</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M003</codeArticle>
+            <designationArticle>Dos de Cabillaud St</designationArticle>
+            <qteCommandee>12</qteCommandee>
+            <qtePrevue>12</qtePrevue>
+            <qteStock>4.33</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 290 Gr</conditionnement>
+            <codeConditionnement>030145</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M601</codeArticle>
+            <designationArticle>Bulots cuits 500g.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.38</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>025901</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M00N</codeArticle>
+            <designationArticle>Bouffis</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CB x 6 Barquette(s) x 270 Gr</conditionnement>
+            <codeConditionnement>030761</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M03M</codeArticle>
+            <designationArticle>Filet de dorade grise</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 270 Gr</conditionnement>
+            <codeConditionnement>030538</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M02O</codeArticle>
+            <designationArticle>Truite vidée</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CB x 6 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>030767</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M01L</codeArticle>
+            <designationArticle>Filet de Julienne</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>3</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 280 Gr</conditionnement>
+            <codeConditionnement>031883</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M811</codeArticle>
+            <designationArticle>Queues de crevettes marinées cuites et décortiquées 200g.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>031106</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M05R</codeArticle>
+            <designationArticle>Filet de Lieu Noir Familale</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 3 Barquette(s) x 750 Gr</conditionnement>
+            <codeConditionnement>030675</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M02Q</codeArticle>
+            <designationArticle>Turbot Vidé 500/800</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 3 Barquette(s) x 600 Gr</conditionnement>
+            <codeConditionnement>030645</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M703</codeArticle>
+            <designationArticle>Poulpe Entier Cuit.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.4</qteStock>
+            <conditionnement>CA x 10 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>025754</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M01W</codeArticle>
+            <designationArticle>Encornet friture</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 350 Gr</conditionnement>
+            <codeConditionnement>030628</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M608</codeArticle>
+            <designationArticle>Palourdes japonaises 300g.</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025769</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M683</codeArticle>
+            <designationArticle>Crevettes grises entières 200g MSC.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025709</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M660</codeArticle>
+            <designationArticle>Crevette cuite 60/80 PV 400g Prix Malin.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>030162</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M831</codeArticle>
+            <designationArticle>Mini-Brochettes Encornet Chorizo</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 300 Gr</conditionnement>
+            <codeConditionnement>032213</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M741</codeArticle>
+            <designationArticle>Morceaux de Morue dessalée 400g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>026337</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M16N</codeArticle>
+            <designationArticle>Filet de lieu noir sans flanc sans arête</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 350 Gr</conditionnement>
+            <codeConditionnement>030933</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M733</codeArticle>
+            <designationArticle>Huîtres BIO FDC MO  N°3 x12</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>026023</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M04L</codeArticle>
+            <designationArticle>Noix de St Jacques Blanche FR</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 9 Barquette(s) x 170 Gr</conditionnement>
+            <codeConditionnement>031501</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M14U</codeArticle>
+            <designationArticle>Merlan de ligne vidé 300_500</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CB x 6 Barquette(s) x 400 Gr</conditionnement>
+            <codeConditionnement>030816</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M618</codeArticle>
+            <designationArticle>Huîtres FDC MO N°3 x24 LR.</designationArticle>
+            <qteCommandee>6</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 1 Unité(s) (2 Kg)</conditionnement>
+            <codeConditionnement>025844</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M131</codeArticle>
+            <designationArticle>Pavé de truite</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 270 Gr</conditionnement>
+            <codeConditionnement>032577</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M723</codeArticle>
+            <designationArticle>Huîtres Fines de Cancale No3 x24.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025918</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M01Q</codeArticle>
+            <designationArticle>Dorade grise vidée 200/500</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.25</qteStock>
+            <conditionnement>CP x 4 Barquette(s) x 400 Gr</conditionnement>
+            <codeConditionnement>030751</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M03Y</codeArticle>
+            <designationArticle>Pave d'espadon</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.5</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 250 Gr</conditionnement>
+            <codeConditionnement>032166</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M834</codeArticle>
+            <designationArticle>Mini brochettes Poisson Blanc Lard</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 300 Gr</conditionnement>
+            <codeConditionnement>032215</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M04P</codeArticle>
+            <designationArticle>Pavé de saumon Ecosse</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>2.5</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 320 Gr</conditionnement>
+            <codeConditionnement>030153</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M681</codeArticle>
+            <designationArticle>Crevettes cuites U10 PM 215g.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025793</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M604</codeArticle>
+            <designationArticle>Coques 300g.</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025719</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M09E</codeArticle>
+            <designationArticle>Filet de Daurade royale élevage EU</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 240 Gr</conditionnement>
+            <codeConditionnement>030598</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M772</codeArticle>
+            <designationArticle>Rôti de cabillaud et saumon à l'ail des ours.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CP x 3 Barquette(s) x 410 Gr</conditionnement>
+            <codeConditionnement>032214</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M00D</codeArticle>
+            <designationArticle>Filet de Carrelet</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 270 Gr</conditionnement>
+            <codeConditionnement>030520</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M02T</codeArticle>
+            <designationArticle>Noix de Pétoncle blanche</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 9 Barquette(s) x 180 Gr</conditionnement>
+            <codeConditionnement>030724</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M00T</codeArticle>
+            <designationArticle>Filet de cabillaud</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 330 Gr</conditionnement>
+            <codeConditionnement>030560</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M02K</codeArticle>
+            <designationArticle>Pavé de saumon Norvège Pr</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>2.17</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 320 Gr</conditionnement>
+            <codeConditionnement>030154</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M805</codeArticle>
+            <designationArticle>Lamelles de Poulpe Cuit 200g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CA x 12 Unité(s)</conditionnement>
+            <codeConditionnement>031391</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M00L</codeArticle>
+            <designationArticle>Filet de Flétan du Groenland</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 290 Gr</conditionnement>
+            <codeConditionnement>030559</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M684</codeArticle>
+            <designationArticle>Crevettes roses décortiquées 250g.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>025714</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M043</codeArticle>
+            <designationArticle>Filet de Loup de mer</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 300 Gr</conditionnement>
+            <codeConditionnement>030546</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M705</codeArticle>
+            <designationArticle>Rôti saumon st jacques 450g.</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>4</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025759</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M03J</codeArticle>
+            <designationArticle>Filet de dorade sébaste</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.5</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 300 Gr</conditionnement>
+            <codeConditionnement>030524</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M03Z</codeArticle>
+            <designationArticle>Filet de truite</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 350 Gr</conditionnement>
+            <codeConditionnement>030146</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M09Y</codeArticle>
+            <designationArticle>Bar élevage vidé EU Pr</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CB x 6 Barquette(s) x 450 Gr</conditionnement>
+            <codeConditionnement>030777</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M838</codeArticle>
+            <designationArticle>Huîtres Spé Lamaison MO N°2 x12 + 6 offertes.</designationArticle>
+            <qteCommandee>8</qteCommandee>
+            <qtePrevue>8</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 1 Unité(s) (2 Kg)</conditionnement>
+            <codeConditionnement>032231</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M05G</codeArticle>
+            <designationArticle>Découpe de saumon Ecosse</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 280 Gr</conditionnement>
+            <codeConditionnement>030611</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M12N</codeArticle>
+            <designationArticle>daurade royale élevage vidée EU Di</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 420 Gr</conditionnement>
+            <codeConditionnement>030741</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M816</codeArticle>
+            <designationArticle>Queues d'écrevisses 200g.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.33</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>031417</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M756</codeArticle>
+            <designationArticle>Lamelles d'encornets Saumurés PV.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CP x 3 Barquette(s) x 500 Gr</conditionnement>
+            <codeConditionnement>029252</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M605</codeArticle>
+            <designationArticle>Couteaux 500g.</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.25</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025721</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M03K</codeArticle>
+            <designationArticle>Dos d'églefin</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 260 Gr</conditionnement>
+            <codeConditionnement>030525</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M818</codeArticle>
+            <designationArticle>Huîtres fines de Bouzigues N°3 x24.</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 1 Unité(s) (2 Kg)</conditionnement>
+            <codeConditionnement>031687</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M763</codeArticle>
+            <designationArticle>Crevette cuite 60/80 Bio PM 300g.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>027617</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M803</codeArticle>
+            <designationArticle>Tourteau cuit frais 500g+.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>030455</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M08Q</codeArticle>
+            <designationArticle>Filet de Haddock sans colorant</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 180 Gr</conditionnement>
+            <codeConditionnement>030662</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M744</codeArticle>
+            <designationArticle>Coeur de filet de Morue dessalée 400g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.88</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>026576</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M798</codeArticle>
+            <designationArticle>Queues de crevettes cuites déco PM ASC 200g.</designationArticle>
+            <qteCommandee>3</qteCommandee>
+            <qtePrevue>3</qtePrevue>
+            <qteStock>1.67</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>030140</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M626</codeArticle>
+            <designationArticle>Huîtres FDC MO N°3 x48.</designationArticle>
+            <qteCommandee>6</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 1 Unité(s) (4 Kg)</conditionnement>
+            <codeConditionnement>025803</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M638</codeArticle>
+            <designationArticle>Huîtres Spé Utah Beach No2 x12.</designationArticle>
+            <qteCommandee>6</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 1 Unité(s) (1.25 Kg)</conditionnement>
+            <codeConditionnement>025820</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M735</codeArticle>
+            <designationArticle>Pavé de Morue Salée 500g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>026685</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M619</codeArticle>
+            <designationArticle>Huîtres FDC MO N°3 x12.</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025846</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M678</codeArticle>
+            <designationArticle>Crevette cuite sauvage MM 40/60 320g.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>025790</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M16M</codeArticle>
+            <designationArticle>Filet de merlan sans flanc sans arête</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 350 Gr</conditionnement>
+            <codeConditionnement>030926</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M693</codeArticle>
+            <designationArticle>Salade de la Mer 150g.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CA x 8 Unité(s)</conditionnement>
+            <codeConditionnement>025736</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M829</codeArticle>
+            <designationArticle>Poêlée Encornet Chorizo Pesto Rosso</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 320 Gr</conditionnement>
+            <codeConditionnement>032206</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M04N</codeArticle>
+            <designationArticle>Noix de St Jacques Coraillée FR</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.33</qteStock>
+            <conditionnement>CP x 9 Barquette(s) x 180 Gr</conditionnement>
+            <codeConditionnement>030731</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M16L</codeArticle>
+            <designationArticle>Filet de dorade sébaste sans flanc sans arete</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 350 Gr</conditionnement>
+            <codeConditionnement>031085</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M04F</codeArticle>
+            <designationArticle>Pavé de Thon Germon</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 250 Gr</conditionnement>
+            <codeConditionnement>030552</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M04D</codeArticle>
+            <designationArticle>Pavé de Thon Albacore</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 260 Gr</conditionnement>
+            <codeConditionnement>030551</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M15D</codeArticle>
+            <designationArticle>Maquereau plein 100_300</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CB x 6 Barquette(s) x 400 Gr</conditionnement>
+            <codeConditionnement>030787</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M742</codeArticle>
+            <designationArticle>Filet de Morue dessalée 300G</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CA x 6 Unité(s)</conditionnement>
+            <codeConditionnement>026338</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M603</codeArticle>
+            <designationArticle>Amandes 500g.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.25</qteStock>
+            <conditionnement>CA x 4 Unité(s)</conditionnement>
+            <codeConditionnement>025716</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M832</codeArticle>
+            <designationArticle>Mini-Brochettes St Jacques Ail fines herbes</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>032216</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M623</codeArticle>
+            <designationArticle>Huîtres FDC MO N°2 x24.</designationArticle>
+            <qteCommandee>4</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>BO x 1 Unité(s) (2.5 Kg)</conditionnement>
+            <codeConditionnement>025799</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M00O</codeArticle>
+            <designationArticle>Kippers</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CB x 6 Barquette(s) x 200 Gr</conditionnement>
+            <codeConditionnement>030762</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M833</codeArticle>
+            <designationArticle>Rôti de cabillaud jambon cru &amp; provençale.</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CP x 3 Barquette(s) x 437 Gr</conditionnement>
+            <codeConditionnement>032522</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>M04R</codeArticle>
+            <designationArticle>Coeur de saumon Ecosse</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CP x 6 Barquette(s) x 210 Gr</conditionnement>
+            <codeConditionnement>030563</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+    </articles>
+</commande>

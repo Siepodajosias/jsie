@@ -1,0 +1,673 @@
+ <commande>
+    <typeCommande>STANDARD</typeCommande>
+    <labelAssortiment>Crèmerie CPE (Coupe / Corner)</labelAssortiment>
+    <codeGroupeArticle>06</codeGroupeArticle>
+    <codeMagasin>ToChangeMagasinCR</codeMagasin>
+    <dateReception>ToChangeDateReception</dateReception>
+    <dateLivraison>ToChangeDateLivraison</dateLivraison>
+    <dateExpedition>ToChangeDateReelExpedition</dateExpedition>
+    <dateLivraisonPrevision>ToChangeDatelivraisonPrevision</dateLivraisonPrevision>
+    <dateExpeditionPrevision>ToChangeDateExpeditionPrevision</dateExpeditionPrevision>
+    <articles>
+        <article>
+            <codeArticle>C15Z</codeArticle>
+            <designationArticle>Miel Acacia et Piment d'Espelette 100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 12 Pièce(s) x 100 Gr</conditionnement>
+            <codeConditionnement>030820</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0C9</codeArticle>
+            <designationArticle>Cabecou du Périgord x3</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 4 Unité(s)</conditionnement>
+            <codeConditionnement>017420</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C19J</codeArticle>
+            <designationArticle>Comté Seignemartin fruité mini 10 mois</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.38</qteStock>
+            <conditionnement>CO x 1 Pièce(s) x 9 Kg</conditionnement>
+            <codeConditionnement>031574</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0TI</codeArticle>
+            <designationArticle>Pérail artisanal coupelle 135g Buissières</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 9 Pièce(s) x 135 Gr</conditionnement>
+            <codeConditionnement>024193</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0ZV</codeArticle>
+            <designationArticle>Chèvre frais au lait cru 140g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>028835</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C19I</codeArticle>
+            <designationArticle>Comté Seignemartin doux mini 4 mois</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>4.11</qteStock>
+            <conditionnement>CO x 1 Pièce(s) x 9 Kg</conditionnement>
+            <codeConditionnement>031573</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0ZP</codeArticle>
+            <designationArticle>MACONNAIS AOP X 2</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 7 Unité(s)</conditionnement>
+            <codeConditionnement>028808</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C15Q</codeArticle>
+            <designationArticle>Gouda fermier à la truffe noire 1.6%.</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.16</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 4 Kg</conditionnement>
+            <codeConditionnement>030529</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C143</codeArticle>
+            <designationArticle>Tomette pur brebis</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.21</qteStock>
+            <conditionnement>CO x 10 Pièce(s) x 450 Gr</conditionnement>
+            <codeConditionnement>019759</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0WQ</codeArticle>
+            <designationArticle>Fourme de Montbrison AOP lait cru Tarit</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 2.4 Kg</conditionnement>
+            <codeConditionnement>025921</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0H6</codeArticle>
+            <designationArticle>Petit Reblochon Fermier AOP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.67</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>019222</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C136</codeArticle>
+            <designationArticle>Pave du lot 180g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>4.75</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007667</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C16A</codeArticle>
+            <designationArticle>Miel Printemps de France 100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 12 Pièce(s) x 100 Gr</conditionnement>
+            <codeConditionnement>030821</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0CD</codeArticle>
+            <designationArticle>Chèvre enrobé Papaye</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017480</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C195</codeArticle>
+            <designationArticle>Maroilles fermier AOP 750g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.53</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 750 Gr</conditionnement>
+            <codeConditionnement>007848</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C024</codeArticle>
+            <designationArticle>Banon AOP 100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007669</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C270</codeArticle>
+            <designationArticle>St nectaire lait s/p ent wal</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.49</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 1.8 Kg</conditionnement>
+            <codeConditionnement>008428</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0Z2</codeArticle>
+            <designationArticle>Plaisir de Bourgogne 1.7 kg</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.52</qteStock>
+            <conditionnement>CO x 1 Pièce(s) x 1.7 Kg</conditionnement>
+            <codeConditionnement>027648</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0IX</codeArticle>
+            <designationArticle>Cheddar aux oignons caramélisés 100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.4</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>019851</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0SG</codeArticle>
+            <designationArticle>Pont l'Evêque AOP La Perelle</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.98</qteStock>
+            <conditionnement>CO x 4 Pièce(s) x 400 Gr</conditionnement>
+            <codeConditionnement>023691</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C150</codeArticle>
+            <designationArticle>Langres AOP cremier 200g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007695</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C14R</codeArticle>
+            <designationArticle>Roquefort AOP La petite cave frais emballé</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>3.81</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 150 Gr</conditionnement>
+            <codeConditionnement>030143</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C186</codeArticle>
+            <designationArticle>Coulommiers lait cru</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>8</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 4 Pièce(s) x 500 Gr</conditionnement>
+            <codeConditionnement>016680</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C017</codeArticle>
+            <designationArticle>Brillat sava 500g f.bourg</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.59</qteStock>
+            <conditionnement>CO x 3 Pièce(s) x 500 Gr</conditionnement>
+            <codeConditionnement>007218</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C05F</codeArticle>
+            <designationArticle>Pierre Robert lait cru 100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.11</qteStock>
+            <conditionnement>CO x 9 Unité(s)</conditionnement>
+            <codeConditionnement>013314</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0LM</codeArticle>
+            <designationArticle>Chèvre fermier échalotte</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 100 Gr</conditionnement>
+            <codeConditionnement>027126</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0Z8</codeArticle>
+            <designationArticle>Pecorino di Remo</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.98</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 2.2 Kg</conditionnement>
+            <codeConditionnement>028157</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C140</codeArticle>
+            <designationArticle>Tomette provence a l'huile</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.25</qteStock>
+            <conditionnement>CO x 8 Unité(s)</conditionnement>
+            <codeConditionnement>007672</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C070</codeArticle>
+            <designationArticle>Grana padano 1/8 10m mini</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.38</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 4.5 Kg</conditionnement>
+            <codeConditionnement>007424</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C19K</codeArticle>
+            <designationArticle>Comté Seignemartin intense mini 16 mois</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>3.39</qteStock>
+            <conditionnement>CO x 1 Pièce(s) x 9 Kg</conditionnement>
+            <codeConditionnement>031575</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0VA</codeArticle>
+            <designationArticle>Tranche de Parm. Reggiano DOP de Montagne 24 mois min SAC</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.37</qteStock>
+            <conditionnement>CO x 4 Sachet(s) x 2.24 Kg</conditionnement>
+            <codeConditionnement>025267</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C158</codeArticle>
+            <designationArticle>Tommette chevre lait cru</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.26</qteStock>
+            <conditionnement>CO x 4 Pièce(s) x 500 Gr</conditionnement>
+            <codeConditionnement>007722</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C14B</codeArticle>
+            <designationArticle>Roquefort AOP Papillon noir frais emballé</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>2</qtePrevue>
+            <qteStock>3.88</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 150 Gr</conditionnement>
+            <codeConditionnement>029933</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C259</codeArticle>
+            <designationArticle>Fleur de lava corse</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.55</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 350 Gr</conditionnement>
+            <codeConditionnement>008056</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C01G</codeArticle>
+            <designationArticle>Vieux Leicester</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.99</qteStock>
+            <conditionnement>CO x 3.7 Kg</conditionnement>
+            <codeConditionnement>008763</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0PP</codeArticle>
+            <designationArticle>Le Munster du Grand Père Fischer fermier AOP 800g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.27</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 800 Gr</conditionnement>
+            <codeConditionnement>022479</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0YS</codeArticle>
+            <designationArticle>Blu di Capra Dolce</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 2.25 Kg</conditionnement>
+            <codeConditionnement>027273</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C1A0</codeArticle>
+            <designationArticle>Stilton AOP Cropwell Bishop</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 1 Pièce(s) x 2 Kg</conditionnement>
+            <codeConditionnement>031658</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0Q5</codeArticle>
+            <designationArticle>Petit Valençay AOP</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.75</qteStock>
+            <conditionnement>CO x 12 Pièce(s) x 110 Gr</conditionnement>
+            <codeConditionnement>022688</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C13K</codeArticle>
+            <designationArticle>Scamorza des Pouilles Blanche</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.88</qteStock>
+            <conditionnement>CO x 8 Pièce(s) x 330 Gr</conditionnement>
+            <codeConditionnement>030896</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C04E</codeArticle>
+            <designationArticle>Fleur de Sologne</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.17</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>012059</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0IV</codeArticle>
+            <designationArticle>Cheddar vintage coeur 100g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.1</qteStock>
+            <conditionnement>CO x 10 Unité(s)</conditionnement>
+            <codeConditionnement>019852</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C279</codeArticle>
+            <designationArticle>Gorgonzola AOP cuillere</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.36</qteStock>
+            <conditionnement>CO x 1 Pièce(s) x 6 Kg</conditionnement>
+            <codeConditionnement>008089</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C189</codeArticle>
+            <designationArticle>Brie nangis lc bte bois 1k</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>3.69</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 1 Kg</conditionnement>
+            <codeConditionnement>024371</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0ZC</codeArticle>
+            <designationArticle>Caciocavallo des Pouilles</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.2</qteStock>
+            <conditionnement>CO x 4 Pièce(s) x 1.55 Kg</conditionnement>
+            <codeConditionnement>028285</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0ZX</codeArticle>
+            <designationArticle>Scamorza des Pouilles Fumée</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1</qteStock>
+            <conditionnement>CO x 8 Pièce(s) x 310 Gr</conditionnement>
+            <codeConditionnement>028840</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C164</codeArticle>
+            <designationArticle>Reblochon Fermier AOP Le Chalet</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 450 Gr</conditionnement>
+            <codeConditionnement>007732</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C03X</codeArticle>
+            <designationArticle>Coulommiers tradition lait cru Rouzaire</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.52</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 400 Gr</conditionnement>
+            <codeConditionnement>016676</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0UN</codeArticle>
+            <designationArticle>Le Grand Caprin</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.93</qteStock>
+            <conditionnement>CO x 1 Pièce(s) x 1.6 Kg</conditionnement>
+            <codeConditionnement>024918</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C08F</codeArticle>
+            <designationArticle>Mughetto (Gorgonzola &amp; Mascarpone) Ciresa</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>2.79</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 1.2 Kg</conditionnement>
+            <codeConditionnement>016174</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C179</codeArticle>
+            <designationArticle>Tomme de yenne cremeuse</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.77</qteStock>
+            <conditionnement>CO x 8 Pièce(s) x 750 Gr</conditionnement>
+            <codeConditionnement>016655</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0LN</codeArticle>
+            <designationArticle>Chèvre fermier mexicain</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.33</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 100 Gr</conditionnement>
+            <codeConditionnement>027127</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C178</codeArticle>
+            <designationArticle>Pouligny St Pierre AOP 250g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.5</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>007762</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C16R</codeArticle>
+            <designationArticle>Gouda extra vieux</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.8</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 5 Kg</conditionnement>
+            <codeConditionnement>030855</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C262</codeArticle>
+            <designationArticle>Rocamadour fermier AOP x12</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>019808</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0CC</codeArticle>
+            <designationArticle>Chèvre enrobé Cranberry</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.83</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>017461</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0YR</codeArticle>
+            <designationArticle>Gorgonzola doux AOP Marca Oro</designationArticle>
+            <qteCommandee>2</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.85</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 1.5 Kg</conditionnement>
+            <codeConditionnement>027270</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C0B0</codeArticle>
+            <designationArticle>Comtesse de vichy 550g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.27</qteStock>
+            <conditionnement>CO x 4 Pièce(s) x 550 Gr</conditionnement>
+            <codeConditionnement>017084</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C005</codeArticle>
+            <designationArticle>Livarot perelle AOP 500g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>1.06</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 500 Gr</conditionnement>
+            <codeConditionnement>007659</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C232</codeArticle>
+            <designationArticle>Reblochon de Savoie AOP Villaz</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>2.83</qteStock>
+            <conditionnement>CO x 12 Pièce(s) x 450 Gr</conditionnement>
+            <codeConditionnement>016688</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C277</codeArticle>
+            <designationArticle>Brie meaux AOP s/p ent rouz</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.96</qteStock>
+            <conditionnement>CO x 1 Pièce(s) x 2.8 Kg</conditionnement>
+            <codeConditionnement>008391</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C011</codeArticle>
+            <designationArticle>Ricotta 1,5k ciresa</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.63</qteStock>
+            <conditionnement>CO x 2 Pièce(s) x 1.5 Kg</conditionnement>
+            <codeConditionnement>007224</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C08D</codeArticle>
+            <designationArticle>Chabichou du Poitou AOP des Gors 150g</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.33</qteStock>
+            <conditionnement>CO x 6 Unité(s)</conditionnement>
+            <codeConditionnement>016159</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C12Q</codeArticle>
+            <designationArticle>Tête de Moine Réserve Amstutz</designationArticle>
+            <qteCommandee>0</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.43</qteStock>
+            <conditionnement>CO x 4 Pièce(s) x 800 Gr</conditionnement>
+            <codeConditionnement>029439</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C04G</codeArticle>
+            <designationArticle>Chaource AOP 250g</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>0</qtePrevue>
+            <qteStock>0.17</qteStock>
+            <conditionnement>CO x 6 Pièce(s) x 250 Gr</conditionnement>
+            <codeConditionnement>012065</codeConditionnement>
+            <gestionPoidsUniquement>false</gestionPoidsUniquement>
+        </article>
+        <article>
+            <codeArticle>C286</codeArticle>
+            <designationArticle>Brie meaux fermier AOP</designationArticle>
+            <qteCommandee>1</qteCommandee>
+            <qtePrevue>1</qtePrevue>
+            <qteStock>0.37</qteStock>
+            <conditionnement>CO x 1 Pièce(s) x 2.8 Kg</conditionnement>
+            <codeConditionnement>008144</codeConditionnement>
+            <gestionPoidsUniquement>true</gestionPoidsUniquement>
+        </article>
+    </articles>
+</commande>
